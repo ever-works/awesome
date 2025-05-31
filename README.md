@@ -13,9 +13,9 @@ Awesome - meta collection of awesome directories - https://dir.works
 
 ## Ever Works Directories
 
-- [Awesome Time Tracking](https://timetrack.works) - A curated list of time tracking applications, libraries, and tools. Repo: <https://github.com/ever-co/awesome-time-tracking>. `time-tracking` `time-track`.
-- [Awesome Vector Databases](https://github.com/ever-works/awesome-vector-databases-website) - A curated list of vector database solutions, libraries, and resources for AI applications. Repo: <https://github.com/ever-works/awesome-vector-databases-website>. `ai` `ai-tools` `vector-databases`.
-- [Awesome MCP Servers](https://github.com/ever-works/awesome-mcp-servers-website) - A curated list of the best MCP Servers, featuring top solutions, libraries, tools, and more. Repo: <https://github.com/ever-works/awesome-mcp-servers-website>. `ai` `ai-tools` `mcp` `mcp-servers`.
+- [Awesome Time Tracking](https://timetrack.works) - A curated list of time tracking applications, libraries, and tools. Repo: <https://github.com/ever-co/awesome-time-tracking>. `time-tracking` `time-track`
+- [Awesome Vector Databases](https://github.com/ever-works/awesome-vector-databases-website) - A curated list of vector database solutions, libraries, and resources for AI applications. Repo: <https://github.com/ever-works/awesome-vector-databases-website>. `ai` `ai-tools` `vector-databases`
+- [Awesome MCP Servers](https://github.com/ever-works/awesome-mcp-servers-website) - A curated list of the best MCP Servers, featuring top solutions, libraries, tools, and more. Repo: <https://github.com/ever-works/awesome-mcp-servers-website>. `ai` `ai-tools` `mcp` `mcp-servers`
 
 ## Meta Directories
 
