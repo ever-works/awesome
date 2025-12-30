@@ -1,58 +1,51 @@
 # Awesome MySQL
 
-**Description**  
-Awesome MySQL is a curated, community-maintained collection of free and open source MySQL software, libraries, tools, and resources aimed at helping developers and database practitioners work more effectively with the MySQL database system.
+**Website:** https://github.com/shlomi-noach/awesome-mysql  
+**Category:** Themed Directories  
+**Tags:** MySQL, Database, Awesome Lists
 
-**Website**  
-<https://github.com/shlomi-noach/awesome-mysql#readme>
-
-**Category**  
-- Themed directories
-
-**Tags**  
-- Awesome lists  
-- Database  
-- Developer tools
-
----
+## Overview
+Awesome MySQL is a curated, community-maintained directory of free and open-source MySQL software, libraries, tools, and learning resources. It serves as a centralized index for the broader MySQL ecosystem.
 
 ## Features
+- **Curated directory of MySQL ecosystem tools**
+  - Organized, human-maintained list focused specifically on MySQL.
+  - Emphasis on free and open-source projects.
 
-**Curated MySQL Ecosystem Directory**
-- Focuses on free and open source tools and resources for MySQL.
-- Community-driven: accepts and encourages contributions via pull requests.
+- **Structured by use case / topic** (main sections):
+  - **Analysis** – tools for performance analysis, query inspection, and diagnostics.
+  - **Backup** – utilities and frameworks for MySQL backup and restore workflows.
+  - **Benchmarking** – tools for load testing and performance benchmarking.
+  - **Binlog Replication** – tools and helpers around binary logs and replication streams.
+  - **ChatOps** – integrations and bots that surface MySQL information into chat platforms.
+  - **Configuration** – helpers for generating, validating, or tuning MySQL configuration.
+  - **Connectors** – language and framework connectors/drivers for MySQL.
+  - **Deployment** – tooling for deploying or provisioning MySQL instances.
+  - **Development** – libraries and utilities that support MySQL-focused development.
+  - **GUI** – graphical user interfaces and admin panels for MySQL management.
+  - **HA (High Availability)** – tools and frameworks for failover and high-availability setups.
+  - **MCP** – MySQL Cluster / cluster-management related projects (as categorized in the list).
+  - **Proxy** – MySQL-aware proxies and routing layers.
+  - **Replication** – tooling around replication configuration, management, and monitoring.
+  - **Schema** – schema management, migrations, and change-control tools.
+  - **Security** – tools focused on hardening, auditing, and securing MySQL.
+  - **Server** – MySQL server variants, extensions, or server-level tools.
+  - **Sharding** – frameworks and tools for horizontal partitioning/sharding of MySQL.
+  - **Toolkits** – general-purpose MySQL toolkits and collections of utilities.
 
-**Organized by Functional Categories**
-- **Analysis** – Performance, structure, and data analysis tools (e.g., leveraging `EXPLAIN FORMAT=JSON` and similar capabilities).
-- **Backup** – Tools for backup, restore, and recovery of MySQL databases.
-- **Benchmarking** – Utilities to stress test and benchmark MySQL servers.
-- **Binlog / Replication** – Tools around binary logs and replication workflows.
-- **ChatOps** – Scripts and automations integrated into chat platforms for MySQL-related operations.
-- **Configuration** – Sample MySQL configuration files and configuration advisory tools.
-- **Connectors** – MySQL connectors and drivers for various programming languages.
-- **Deployment** – Tools to assist with deploying and managing MySQL instances.
-- **Development** – Utilities that support MySQL-related application and schema development.
-- **GUI** – Graphical frontends and client applications for interacting with MySQL.
-- **HA (High Availability)** – Solutions aimed at providing high availability for MySQL.
-- **MCP** – Category reserved for a specific subset or framework of MySQL tools (details in repository list).
-- **Proxy** – Proxy servers and middleware that sit in front of MySQL.
-- **Replication** – Software specifically focused on MySQL replication setups.
-- **Schema** – Add-on schemas and schema-related utilities.
-- **Security** – Tools to prevent leaking sensitive data (encryption, masking, tokenization, honey-pots, etc.).
-- **Server** – MySQL server flavors and related distributions.
-- **Sharding** – Sharding frameworks and solutions for scaling MySQL horizontally.
-- **Toolkits** – General-purpose toolkits and script collections for MySQL operations.
+- **Learning & reference resources**
+  - **Resources** section with subcategories such as:
+    - **E-Books** – curated list of books and manuals about MySQL.
+    - **Media** – talks, videos, podcasts, or similar content related to MySQL.
 
-**Resource Collection**
-- **e-books** – Curated list of e-books related to MySQL (and similar long-form written resources).
-- Intentionally excludes general websites, blogs, slides, and presentation videos to keep the list focused and manageable.
+- **Open contribution model**
+  - Public GitHub repository.
+  - Contributions accepted via pull requests.
+  - Documented contribution guidelines (`CONTRIBUTING.md`).
 
-**Contribution & Governance**
-- Clear contribution guidelines available via `CONTRIBUTING.md`.
-- Licensed under terms documented in `LICENSE.md` to enable open collaboration and reuse.
-
----
+- **Versioning & governance**
+  - Hosted on GitHub with visible stars, forks, and commit history.
+  - Licensed under an open-source license (`LICENSE.md`).
 
 ## Pricing
-
-Not applicable. Awesome MySQL is a public, open source curated list of tools and resources and does not offer paid plans.
+- **Free** – The list and all its content are freely accessible. Tools listed may each have their own licenses and pricing, but the directory itself is free to use.

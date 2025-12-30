@@ -1,55 +1,59 @@
 # Awesome Software Engineering for Machine Learning
 
-**URL:** https://github.com/SE-ML/awesome-seml#readme  
+**URL:** https://github.com/SE-ML/awesome-seml  
 **Category:** Themed Directories  
-**Tags:** machine-learning, software-engineering, production
+**Tags:** machine-learning, software-engineering, awesome-lists  
+**License:** CC0-1.0
 
 ## Overview
-Awesome Software Engineering for Machine Learning is a curated directory of articles, tools, and other resources focused on software engineering practices for building and operating machine learning applications in production. It emphasizes the surrounding engineering activities rather than core ML algorithm development.
+Awesome Software Engineering for Machine Learning is a curated, awesome-style directory of articles and resources on software engineering practices for production-level machine learning systems. It focuses on the engineering aspects around ML models rather than on developing new ML algorithms, covering topics such as data ingestion, coding, testing, versioning, deployment, quality control, and team collaboration.
+
+The repository also underpins a survey on how software engineering practices are adopted in applications with ML components.
 
 ## Features
-- **Focus on ML software engineering practices**
-  - Covers techniques and guidelines for:
-    - Data ingestion
-    - Coding practices
-    - Testing
-    - Versioning
-    - Deployment
-    - Quality control
-    - Team collaboration
-  - Aims to support development, deployment, and maintenance of production-grade ML systems.
 
-- **Curated content types**
-  - Articles and write-ups on best practices.
-  - Includes indicators such as:
-    - ⭐ Must-read resources
-    - 🎓 Scientific publications
+### Scope and Focus
+- Concentrates on **software engineering practices** for ML applications, not on core ML algorithm research.
+- Emphasizes **production-level** and **operational** ML systems.
+- Covers the full lifecycle around ML components: data, development, testing, deployment, and maintenance.
 
-- **Structured by topic**
-  - **Broad Overviews** – High-level resources that cover most or all aspects of ML software engineering.
-  - **Data Management** – Guidance on managing datasets used in ML, including organization and lifecycle concerns.
-  - **Model Training** – How to structure and manage training experiments and workflows.
-  - **Deployment and Operation** – How to deploy models and operate them reliably in production environments.
-  - **Social Aspects** – How to organize teams and projects for effective collaboration and accountability around ML systems.
-  - **Governance** – Resources related to oversight, responsibility, and procedures for ML systems.
-  - **Tooling** – Tools that support ML engineering workflows.
+### Structured Thematic Sections
+Resources are organized into clearly defined sections:
+- **Broad Overviews**
+  - High-level resources that cover multiple aspects of software engineering for ML.
+- **Data Management**
+  - Practices and guidance on data ingestion, preparation, management, and related engineering aspects.
+- **Model Training**
+  - Resources on engineering robust, reproducible, and maintainable training pipelines.
+- **Deployment and Operation**
+  - Articles and guidelines on deploying ML models, running them in production, monitoring, and operations.
+- **Social Aspects**
+  - Materials on collaboration, team processes, and organizational aspects around ML engineering.
+- **Governance**
+  - Resources on policies, risk management, and oversight for ML-enabled systems.
+- **Tooling**
+  - Information on tools that support software engineering practices in ML projects.
 
-- **Tooling criteria**
-  - Only includes:
-    - Open-source tools, or
-    - Commercial platforms that provide substantial free packages for research.
+### Resource Types and Indicators
+- Includes a mix of:
+  - Articles and technical blog posts.
+  - Reports and guidelines from organizations.
+  - Academic and scientific publications.
+- Uses simple markers:
+  - **⭐ Must-read** – highlights particularly important or foundational resources.
+  - **🎓 Scientific publication** – denotes academic or peer-reviewed work.
 
-- **Community and contribution**
-  - Open to contributions via pull requests.
-  - Documented guidelines for contributors.
-  - Has a documented code of conduct.
+### Community and Contribution
+- Hosted as a public GitHub repository (`SE-ML/awesome-seml`).
+- Includes:
+  - `code-of-conduct.md` – community standards for participation.
+  - `contributing.md` – guidelines for proposing additions or changes to the list.
+- Open to community contributions via pull requests and issues.
 
-- **Supporting resources**
-  - Links to a survey about software engineering for ML: https://se-ml.github.io/survey
-  - Additional material about practices: https://se-ml.github.io/practices
+### Related Survey and Reading
+- Based on the curated literature, the maintainers offer:
+  - A **survey** on the adoption of software engineering practices in ML-enabled applications: https://se-ml.github.io/survey
+  - Additional explanatory material on practices: https://se-ml.github.io/practices
 
 ## Pricing
-- Not applicable. This is a free, open curated list hosted on GitHub.
-
-## License
-- The repository includes a `LICENSE` file; details are available in the GitHub project.
+- Not applicable. This is an open, CC0-licensed GitHub repository of resources and is free to access and use.

@@ -1,58 +1,50 @@
 # Awesome Network Analysis
 
-**URL:** https://github.com/briatte/awesome-network-analysis#readme  
-**Category:** Themed Directories  
-**Tags:** networking, data-science, analysis  
-**Publisher/Brand:** briatte
+**Type:** Curated resource list (awesome list)  
+**Category:** Themed directories  
+**Slug:** `awesome-network-analysis`  
+**Source:** https://github.com/briatte/awesome-network-analysis
 
 ## Overview
-Awesome Network Analysis is a curated, discipline-spanning directory of resources for constructing, analyzing, and visualizing network data. It aggregates learning materials, tools, and references relevant to network analysis in data science and related fields.
+Awesome Network Analysis is a curated collection of resources for constructing, analyzing, and visualizing network data. It focuses on network science and graph analysis, aggregating tools, libraries, references, and learning materials from across the web.
 
 ## Features
-- **Curated “Awesome” List**
-  - Part of the broader *Awesome* ecosystem of high-quality, community-curated lists.
-  - Focused specifically on network analysis resources.
-
-- **Multi-disciplinary Coverage**
-  - Resources drawn from various disciplines where network analysis is used (e.g., social networks, political networks, general graph analysis).
-
-- **Resource Types**
-  - **Books**
-    - Classics and foundational texts.
-    - Dissemination / accessible introductions for non-technical audiences.
-    - General overviews of network analysis.
-    - Graph theory references.
-    - Method-specific books (e.g., particular analytical techniques).
-    - Software-specific books (e.g., tools and libraries for network analysis).
-    - Topic-specific books (focused subdomains of network analysis).
-  - **Conferences**
-    - Recurring conferences dedicated to or heavily featuring network analysis.
-  - **Courses**
-    - Educational courses related to network analysis and network science.
-  - **Datasets**
-    - Collections of network datasets suitable for analysis and experimentation.
-  - **Journals**
-    - Journals that regularly publish work on network analysis, with notes indicating which are gated (not fully open-access).
-
-- **Software and Tools Directory**
-  - Links to software and libraries used to construct, analyze, and visualize network data.
-
-- **Scholarly Referencing**
-  - Assigned DOI (10.5281/zenodo.7869481) for citation and academic referencing.
-
-- **Historical and Example Networks**
-  - Includes example networks, such as Adamic and Glance’s 2004 network of U.S. political blogs, with links to the original study/preprint.
-
-- **Searchable List**
-  - Note that searching for the `@` symbol on the page surfaces all listed Twitter accounts associated with resources and authors.
-
-- **Maintenance Information**
+- **Curated Awesome List**
+  - Follows the general "awesome list" format and standards.
+  - Inspired by other notable lists such as Awesome Deep Learning and Awesome Math.
   - Started in 2016 and updated on an irregular basis.
-  - Repository includes maintenance scripts/logs (e.g., `check.r`, `check.log`) and contribution guidelines (`CONTRIBUTING.md`).
+
+- **Network Analysis Focus**
+  - Emphasizes resources specifically for network and graph analysis.
+  - Covers the full workflow: construction, analysis, and visualization of network data.
+
+- **Structured Contents**
+  - Includes a table of contents starting with a **Books** section.
+  - Subsections under Books such as **Classics**, with further categories implied.
+
+- **Resource Types (as indicated by description and structure)**
+  - Books and reference texts on network science and graph theory.
+  - Tools and libraries for network/graph analysis and visualization.
+  - Likely includes articles, tutorials, datasets, and code repositories relevant to network analysis (based on being an "awesome" list of resources).
+
+- **Searchable for Social Accounts**
+  - Note that searching for `@` on the page returns all listed Twitter accounts.
+
+- **Repository Assets**
+  - `README.md` as the main curated list.
+  - `CONTRIBUTING.md` for contribution guidelines.
+  - `check.r` and `check.log` for list maintenance/validation.
+  - `illustration.png` as a visual illustration (e.g., example network image).
+
+- **Community Signals (Metadata)**
+  - Public GitHub repository under the `briatte` account.
+  - ~3.9k stars and ~630 forks (indicating active community interest and reuse).
+
+## Intended Use Cases
+- Finding learning materials (books and references) on network science.
+- Discovering tools and libraries for graph construction, analysis, and visualization.
+- Exploring curated links for research, teaching, or applied network analysis projects.
 
 ## Pricing
-- Not applicable. This is a free, open GitHub repository and curated list.
-
-## Additional Notes
-- Journals that are not fully open-access are explicitly marked as “gated.”
-- Contributions and updates are managed via the public GitHub repository.
+- Access to the list is free (public GitHub repository).
+- No paid plans or pricing tiers are indicated.

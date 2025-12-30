@@ -1,0 +1,5 @@
+# DBnomics
+
+An open platform that aggregates hundreds of millions of economic time series from national and international statistical institutions. It is included in the Awesome Public Datasets economics section as a key awesome‑style directory for discovering, querying, and downloading macroeconomic and financial data in a unified way.
+
+[https://library.mcmaster.ca/data-statistics-collection?f%5B0%5D=subject%3A46&f%5B1%5D=subject%3A48&f%5B2%5D=subject%3A51&f%5B3%5D=subject%3A52&f%5B4%5D=subject%3A56&f%5B5%5D=subject%3A57&f%5B6%5D=type%3A62&f%5B7%5D=type%3A63&f%5B8%5D=type%3A64&page=2](https://library.mcmaster.ca/data-statistics-collection?f%5B0%5D=subject%3A46&f%5B1%5D=subject%3A48&f%5B2%5D=subject%3A51&f%5B3%5D=subject%3A52&f%5B4%5D=subject%3A56&f%5B5%5D=subject%3A57&f%5B6%5D=type%3A62&f%5B7%5D=type%3A63&f%5B8%5D=type%3A64&page=2)

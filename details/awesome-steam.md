@@ -1,75 +1,41 @@
-# Awesome Steam
+# Awesome STEAM
 
-**URL:** https://github.com/scholtzm/awesome-steam#readme  
-**Category:** Themed directories  
-**Tags:** awesome-lists, games, apis
+**Category:** Themed Directories  
+**Website:** https://github.com/RahulBirCodes/awesome-steam#readme  
+**Brand:** rahulbircodes
 
 ## Overview
-Awesome Steam is a curated directory of libraries, packages, tools, and learning resources for development related to the Steam digital distribution platform. It focuses on Steam client automation and usage of the Steam Web API, helping developers quickly find existing solutions and technical references for their Steam-related projects.
+Awesome STEAM is a curated "awesome list" of high-quality resources for science, technology, engineering, art, and math (STEAM). It is designed to help students and teachers supplement their courses and to give curious learners a structured starting point into many STEAM topics. The same content is also available via the companion site at [awesomesteam.org](https://awesomesteam.org).
 
 ## Features
+- **Curated STEAM resource directory**
+  - Focuses on science, technology, engineering, art, and mathematics.
+  - Emphasizes high-quality, vetted materials.
+- **Course- and topic-aligned content**
+  - Resources organized around specific STEAM classes and subjects.
+  - Intended for use as supplemental material alongside existing curricula.
+- **For multiple audiences**
+  - Useful for students seeking extra practice or enrichment.
+  - Useful for teachers looking for digital resources to enhance instruction.
+  - Also suitable for independent learners and “curious minds” exploring new topics.
+- **Multiple access points**
+  - Resource list maintained in a GitHub repository.
+  - Mirrored and presented on a dedicated website: [awesomesteam.org](https://awesomesteam.org).
+- **Open, community-driven project**
+  - Hosted publicly on GitHub.
+  - Contributions welcomed via pull requests.
+  - Contribution guidelines provided in `CONTRIBUTING.md`.
+- **Structured content organization**
+  - Table of contents for navigating to specific resource sections.
+  - Top-level structure includes sections such as Topics, Resources, About, License, and Contributing.
 
-### Scope and Purpose
-- Curated list of third-party packages (libraries, modules, etc.) for Steam development.
-- Collection of learning resources, tutorials, posts, and tools focused on Steam.
-- Emphasis on Steam client automation and Steam WebAPI usage.
-- Designed as a quick reference when starting or extending Steam-related projects.
+## Licensing
+- A dedicated `LICENSE` file is included in the repository (open-source license; see file in repo for exact terms and permissions).
 
-### Package Directory
-Packages are organized primarily by programming language, with further categorization by use case where applicable.
-
-#### Node.js
-- **General** – Libraries for general Steam integration and automation.
-- **WebAPI** – Packages targeting Steam Web API interaction.
-- **Trading** – Tools and libraries for Steam trading workflows.
-- **Game Interaction** – Packages for interacting with specific games or in-game features via Steam.
-- **Community & Store Automation** – Libraries that automate tasks on the Steam Community and Store (e.g., market, profiles, store actions).
-- **Authentication** – Packages for handling Steam login, authentication flows, and related security mechanisms.
-- **Misc** – Node.js Steam-related utilities that don’t fit the above categories.
-
-#### C#
-- **General** – C# libraries for Steam integration and automation.
-- **Misc** – Other Steam-related utilities and helpers in C#.
-
-#### PHP
-- PHP-based packages for interacting with Steam services and APIs.
-
-#### Go
-- Go libraries and tools for Steam API access or automation.
-
-#### Python
-- **General** – Python libraries for general Steam integration.
-- **Game Interaction** – Python tools focused on game-related interactions via Steam.
-- **Misc** – Other Python utilities related to Steam.
-
-#### C++
-- C++ libraries and tools for Steam integration or API interaction.
-
-#### Java
-- Java-based Steam-related libraries and tools.
-
-#### Objective-C
-- Objective-C packages for integrating with Steam (e.g., on Apple platforms).
-
-#### Ruby
-- Ruby gems and libraries for Steam-related functionality.
-
-### Resource Directory
-Resources are organized by type to help developers find technical references and external services.
-
-- **General** – Documentation, references, and foundational information for Steam development (including items like `EResult` and other core concepts).
-- **Tutorials** – Step-by-step guides and how-tos for building Steam-integrated applications or automation.
-- **Posts** – Articles, blog posts, and write-ups on Steam development topics.
-- **Standalone Tools** – Independent tools and utilities useful for Steam developers (e.g., inspection tools, helpers).
-- **Discussion Boards** – Forums and communities where Steam development and related topics are discussed.
-- **Third-Party Services** – External services related to Steam that may provide free and/or paid functionality (listed alphabetically by domain name).
-
-### Documentation and Contribution
-- Many linked package repositories offer detailed READMEs and wiki pages with usage instructions and examples.
-- A `CONTRIBUTING.md` file defines contribution guidelines for adding or updating entries in the list.
-
-### Licensing
-- Licensed under [CC0 1.0 (Public Domain Dedication)](https://creativecommons.org/publicdomain/zero/1.0/), allowing free reuse and modification of the list content.
+## Contributing
+- Contributions are accepted via pull requests on GitHub.
+- Detailed contributing instructions are provided in `CONTRIBUTING.md`.
 
 ## Pricing
-- Not applicable. Awesome Steam is an open, curated list and does not present pricing plans of its own (though some linked third-party services may be free or paid).
+- No pricing information is listed.
+- Project appears to be free and open-source, subject to the terms of its license.
