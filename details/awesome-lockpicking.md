@@ -1,54 +1,61 @@
 # Awesome Lockpicking
 
+**Website:** https://github.com/fabacab/awesome-lockpicking#readme  
 **Category:** Themed Directories  
-**Slug:** awesome-lockpicking  
-**Source:** https://github.com/fabacab/awesome-lockpicking
+**Tags:** awesome-lists, security, hardware
 
 ## Overview
-Awesome Lockpicking is a curated, open-source directory of guides, tools, and other resources focused on the security and compromise of locks, safes, and keys. It centers on the practice of lockpicking—opening locks without the original key and without damaging the lock—often in the context of locksport, security research, and education.
+Awesome Lockpicking is a curated, community-maintained list of guides, tools, and other resources related to the security and compromise of locks, safes, and keys. It focuses on the theory and practice of lockpicking and broader locksport.
 
 ## Features
-- **Curated “awesome list” format**
-  - Follows the popular GitHub *Awesome* list style and standards.
-  - Community-driven, with contribution guidelines for adding or updating entries.
+- **Curated resource directory**
+  - Centralized list of high-quality resources on lockpicking and physical security.
+  - Emphasis on both theoretical understanding and practical techniques.
 
-- **Comprehensive topical coverage** (via structured sections in the README):
-  - **Books**
-    - Reading material and references on lockpicking, locksport, and physical security.
-  - **Contests, conferences, and events**
-    - Listings of competitive lockpicking events and security/locksport gatherings.
-  - **Hobby projects**
-    - Personal or community projects related to locks, keys, and picking tools.
-  - **How-to lockpicking guides**
-    - Practical tutorials and instructional resources on how to pick locks and understand lock mechanisms.
-  - **Locksport associations and organizations**
-    - Clubs and formal groups devoted to recreational and educational lockpicking.
-  - **Novel lock attack techniques and research**
-    - Research references and descriptions of emerging methods for bypassing locks and safes.
-  - **Online communities**
-    - Forums, chat groups, and social platforms where enthusiasts and professionals discuss lockpicking and physical security.
-  - **Online resources**
-    - General web-based references, articles, and collections relevant to lock and key security.
-  - **Vendors**
-    - Commercial sources for lockpicking tools, practice locks, and related hardware.
+- **Books**
+  - References to books covering lock design, lockpicking techniques, and physical security.
 
-- **Educational focus on physical security**
-  - Highlights the mechanics of locks, safes, and keys.
-  - Emphasizes learning about vulnerabilities to better understand and improve security.
+- **Contests, conferences, and events**
+  - Information on lockpicking and locksport competitions.
+  - References to relevant conferences and meetups focused on physical security and lock compromise.
 
-- **Open-source repository structure**
-  - Standard project files such as `README.md`, `LICENSE`, and `CONTRIBUTING.md`.
-  - Public contribution model via GitHub issues and pull requests.
+- **Hobby projects**
+  - Links to DIY and experimental projects related to locks, safes, keys, and lockpicking tools.
 
-- **Licensing and governance**
-  - Includes a dedicated `LICENSE` file specifying terms of use.
-  - `CONTRIBUTING.md` describes how to propose additions and changes to the list.
+- **How‑to lockpicking guides**
+  - Tutorials and guides for learning lockpicking methods.
+  - Step-by-step educational resources (e.g., for beginners and intermediate practitioners).
+
+- **Locksport associations and organizations**
+  - Directory of formal and informal locksport groups and clubs.
+  - References to organizations that promote ethical lockpicking and physical security research.
+
+- **Novel lock attack techniques and research**
+  - Links to research papers, presentations, and writeups on new or advanced attack methods.
+  - Coverage of emerging techniques for bypassing or compromising locks and safes.
+
+- **Online communities**
+  - Listings of forums, chats, and social platforms where enthusiasts and professionals discuss locksport and lock security.
+
+- **Online resources**
+  - Articles, videos, tutorials, and reference materials available on the web.
+
+- **Vendors**
+  - Links to suppliers of lockpicking tools, training locks, and related hardware.
+
+- **Open contribution model**
+  - Public contribution guidelines (`CONTRIBUTING.md`) for submitting new resources or improvements.
+  - Community-driven curation via GitHub issues and pull requests.
+
+- **Open-source licensing**
+  - Distributed under an OSI-approved license (`LICENSE` file in repository).
 
 ## Pricing
-- **Free**
-  - The repository and all listed resources in the index are accessible at no cost.
-  - Distributed under the license specified in the `LICENSE` file on GitHub.
+- Not a commercial product or service.
+- Access to the list and repository is free.
 
-## Brand
-- **Maintainer / Brand:** fabacab-on-github  
-- **Brand Logo:** ![fabacab-on-github](https://github.githubassets.com/favicons/favicon.svg)
+## Suitable For
+- Lockpicking and locksport hobbyists.
+- Security researchers and penetration testers.
+- Educators teaching physical security.
+- Anyone studying how locks, safes, and keys can be attacked or defended.

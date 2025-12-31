@@ -1,99 +1,64 @@
 # Awesome Hacking Locations
 
-A community-maintained directory of great physical locations around the world to hack, code, and work from, with details on Wi-Fi and power availability.
+**Website:** https://github.com/daviddias/awesome-hacking-locations#readme  
+**Category:** Themed directories  
+**Tags:** awesome-lists, locations, remote-work  
+**Brand:** GitHub
 
----
-
-## Overview
-
-- **Type:** Themed, community-driven directory
-- **Focus:** Places suitable for hacking / remote work (cafés, coworking spaces, hackerspaces, etc.)
-- **Scope:** Organized by country and city across multiple continents
-- **Source:** GitHub repository (`daviddias/awesome-hacking-locations`)
-
----
+## Description
+Awesome Hacking Locations is a community-curated, GitHub-hosted directory of public places around the world that are suitable for hacking, coding, and collaborating. Locations are organized by country and city, with details on Wi‑Fi, power availability, and other useful notes for remote workers and hackers.
 
 ## Features
+- **Global directory of hacking spots**  
+  - Locations listed worldwide, organized by **country** and **city**.
 
-### 1. Global, Country–City Index
+- **Public, casual-friendly places**  
+  - Focus on cafes, public spaces, and similar venues suitable for coding and collaboration.  
+  - Excludes locations requiring long-term subscriptions or memberships (unless membership can be done on the spot without long-term commitment).
 
-The directory is structured by country and then by city, making it easy to browse locations geographically. Current entries include (non-exhaustive from provided content):
+- **Amenity details per location**  
+  - Indicates whether **Wi‑Fi** is available.  
+  - Indicates whether **power outlets** are available.  
+  - Provides **address** and, where available, **opening hours**.  
+  - May include brief notes on drinks/snacks (e.g., coffee, Club Mate) and activities.
 
-- **Austria** – Vienna  
-- **Belgium** – Brussels  
-- **Brazil** – Rio de Janeiro  
-- **Bulgaria** – Sofia  
-- **Cameroon** – Buea  
-- **Canada** – Hamilton, Montréal  
-- **Denmark** – Copenhagen  
-- **Estonia** – Tallinn  
-- **France** – Lille, Nice, Paris  
-- **Germany** – Berlin, Dresden, Hamburg, Jena, Munich  
-- **Hong Kong**  
-- **India** – Hyderabad  
-- **Italy** – Rome  
-- **Japan** – Nagoya, Tokyo, Kyoto  
-- **Lithuania** – Vilnius  
-- **Netherlands** – Amsterdam, Delft  
-- **Norway** – Stavanger, Tromsø, Ålesund  
-- **Poland** – Krakow, Gliwice  
-- **Portugal** – Aveiro, Braga, Guimarães, Lisbon, Porto, Viana do Castelo  
-- **Singapore** – Outram Park  
-- **Slovenia**  
-- **South Korea** – Seoul  
-- **Spain** – Barcelona, Bilbao, Oviedo  
-- **Sweden** – Stockholm, Uppsala  
-- **Switzerland** – Zurich  
-- **Turkey** – Istanbul  
-- **United Kingdom**  
-  - England – London  
-  - Scotland – Edinburgh  
-- **United States** (partial list from content):  
-  - Arizona  
-  - California – Los Angeles, San Diego, Mountain View, Oakland, Palo Alto, San Francisco, San Jose, Santa Monica  
-  - Illinois – Chicago  
-  - Maryland (further cities not shown in snippet)
+- **Structured listings**  
+  - Each entry typically includes:  
+    - Name of the place.  
+    - City and country.  
+    - Short description or notes.  
+    - Webpage or URL for more info.  
+    - Table fields such as: Wi‑Fi, Power, Address, Open Hours.
 
-### 2. Location Metadata
+- **Examples from the list**  
+  - **MetaLab (Vienna, Austria)**  
+    - Coffee, Club Mate; various activities and talks.  
+    - Webpage: https://metalab.at  
+    - Wi‑Fi: yes; Power: yes.  
+    - Address: Rathausstraße 6, 1010 Wien.  
+    - Open hours: Anytime as long as a key member is present.  
+  - **Hackerspace Brussels (HSBXL) (Brussels, Belgium)**  
+    - About 300 m² space with a small electronics lab (9000+ components), library, and tools.  
+    - Hosts workshops, weekly Tuesday meetings, hack nights, and other events.  
+    - Webpage: https://hsbxl.be/  
+    - Wi‑Fi: yes; Power: yes (per table entry).  
 
-Each listed spot is intended to capture practical details relevant to hackers and remote workers, including:
+- **Community-driven contributions**  
+  - Anyone can propose new locations via pull requests.  
+  - Clear contribution guidelines provided in `CONTRIBUTING.md`.  
+  - Emphasis on spots you would recommend to friends for hacking, coding, and collaboration.
 
-- **Wi-Fi availability and quality**
-- **Power outlets / charging options**
-- **Environment characteristics** (e.g., suitable for working, likely quiet or hacker-friendly)
+- **Aligned with the Awesome ecosystem**  
+  - Inspired by and listed as part of the broader "awesome" curated lists ecosystem (sindresorhus/awesome).
 
-### 3. Multiple Types of Workspaces
+## Community & Contribution
+- Open-source GitHub repository (`daviddias/awesome-hacking-locations`).
+- Contributions accepted via pull requests.  
+- `CONTRIBUTING.md` file explains how to add or update locations.
 
-The directory includes a range of place types so users can choose based on their working style:
-
-- **Hackerspaces** – Community-run spaces geared toward hackers and makers
-- **Coworking spaces** – Professional shared offices suitable for longer work sessions
-- **Other public/remote work-friendly spots** – Such as cafés or similar venues (implied by “great physical locations to hack and work from”)
-
-### 4. Community-Driven Contributions
-
-- The list is explicitly **community-driven**, with a “Contribute” section encouraging additions and improvements via GitHub.
-- Built in the style of other curated **awesome lists**, following a recognizable format and contribution model from the broader awesome-list ecosystem.
-
-### 5. Open & GitHub-Hosted
-
-- Fully hosted on **GitHub**, making it easy to:
-  - Browse and search entries
-  - Submit pull requests with new locations or edits
-  - Fork and adapt the list if needed
-- Marked as part of the wider **`awesome`** ecosystem (via the Awesome badge and reference to `sindresorhus/awesome`).
-
----
-
-## Use Cases
-
-- Finding reliable places to work while **traveling** or living abroad.
-- Discovering **hackerspaces** and **coworking** options in a specific city.
-- Planning work-friendly stops for **digital nomads** and **remote workers**.
-- Contributing local knowledge about good hacking locations to a shared, open directory.
-
----
+## Licensing
+- The repository includes a `LICENSE` file specifying the terms for using and contributing to the list (refer to the LICENSE file in the repo for exact details).
 
 ## Pricing
-
-- **Free**: This is an open, community-maintained GitHub list. There are no pricing plans or fees mentioned in the provided content.
+- Not a paid product or service.  
+- Access to the list and repository is **free** and open-source.

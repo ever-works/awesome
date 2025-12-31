@@ -1,37 +1,78 @@
-# Awesome Executable Packing
-
-**Category:** Themed Directories  
-**Tags:** security, reverse-engineering, awesome-lists  
-**Source:** https://github.com/dhondta/awesome-executable-packing
+---
+title: Awesome Executable Packing
+slug: awesome-executable-packing
+url: https://github.com/dhondta/awesome-executable-packing#readme
+brand: GitHub
+brand_logo: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+category: Themed Directories
+tags:
+  - awesome-lists
+  - security
+  - reverse-engineering
+featured: false
+---
 
 ## Overview
-Awesome Executable Packing is a curated directory of resources focused on executable packing and unpacking across multiple formats, including:
-- Portable Executable (PE)
-- Executable and Linkable Format (ELF)
-- Other executable formats
 
-It collects technical references and practical tools relevant to binary obfuscation, compression, and analysis.
+Awesome Executable Packing is a curated, open-source directory of resources about packing and unpacking executable formats. It focuses on formats such as Portable Executable (PE), Executable and Linkable Format (ELF), and others, and aggregates learning materials, research, and tools used in software protection, reverse engineering, and malware analysis.
+
+## What Is Covered
+
+* Concepts and techniques of executable packing (modifying an executable without changing its intended behavior).
+* Packing across multiple executable formats (e.g., PE, ELF, and more).
+* Both theoretical and practical aspects of detecting and unpacking packed executables.
 
 ## Features
-- **Curated resource list**
-  - Books on executable packing, protection, and reverse engineering
-  - Academic and industry research papers
-  - Blog posts, articles, and technical write-ups
-  - Other written resources related to binary packing and obfuscation
 
-- **Tooling coverage**
-  - Packers for various executable formats
-  - Tools for detecting packed executables
+- **Curated Resource List**
+  - Centralized catalog of references related to executable packing.
+  - Emphasis on quality, relevance, and organization typical of "awesome" lists.
+
+- **Multi-Format Focus**
+  - Includes resources for multiple executable formats:
+    - Portable Executable (PE)
+    - Executable and Linkable Format (ELF)
+    - Other common executable types
+
+- **Learning & Reference Materials**
+  - Links to books
+  - Academic and industry papers
+  - Blog posts and technical write-ups
+  - Other written resources explaining:
+    - Packing concepts
+    - Practical packing/unpacking workflows
+    - Detection and analysis of packed binaries
+
+- **Packers Catalog**
+  - References to various executable packers used for:
+    - Software protection/obfuscation
+    - Compression
+    - Malware packing and evasion
+
+- **Detection & Unpacking Tools**
+  - Tools for identifying whether an executable is packed
   - Tools and frameworks for unpacking executables
-  - Utilities relevant to binary obfuscation and compression workflows
+  - Resources oriented toward reverse engineering and security analysis
 
-- **Format-agnostic scope**
-  - Focus on PE (Windows), ELF (Unix-like systems), and additional executable formats
-  - Emphasis on both theoretical and practical aspects of packing across platforms
+- **Literature Sections**
+  - **Documentation** section for practical how-to and reference docs
+  - **Scientific Research** section for formal studies and research papers
 
-- **Conceptual focus**
-  - Centers on _packing_ as the modification of an executable without changing its intended behavior
-  - Encompasses typical packing-related operations used in obfuscation and compression contexts
+- **Open Collaboration**
+  - Public repository with standard open-source meta-files:
+    - `README.md` describing the list
+    - `LICENSE` defining usage rights
+    - `CONTRIBUTING.md` with contribution guidelines
+    - `CODE-OF-CONDUCT.md` describing expected community behavior
+
+## Use Cases
+
+- Learning executable packing techniques and theory
+- Studying malware packing and evasion strategies
+- Finding tools to detect and unpack packed executables
+- Supporting reverse engineering and binary analysis workflows
 
 ## Pricing
-This is an open, GitHub-hosted curated list; no pricing or paid plans are indicated.
+
+- Not a commercial product or service.
+- Open-source GitHub directory, free to access and use under its published license.

@@ -1,38 +1,42 @@
-## Awesome Application Security
+# Awesome Application Security
 
-**URL:** https://github.com/paragonie/awesome-appsec  
-**Category:** Themed directories  
-**Tags:** security, applications  
-**Provider / Brand:** paragonie-on-github
+**Website:** https://github.com/paragonie/awesome-appsec#readme  
+**Category:** Themed Directories  
+**Tags:** awesome-lists, security, software  
+**Brand:** GitHub
 
-### Overview
-Awesome Application Security is a curated GitHub directory of high-quality resources for learning and improving application security (AppSec). It aggregates educational material such as books, websites, blog posts, and self-assessment quizzes focused on secure coding, secure code review, and application hardening.
+## Overview
+Awesome Application Security is an open, curated “awesome-style” directory of learning resources focused on application security. It aggregates books, websites, blog posts, and self‑assessment quizzes to help developers and security practitioners learn how to secure software applications.
 
-### Features
-- **Curated AppSec resource list**: Centralized collection of learning materials related to application security.
-- **Multiple resource formats**:
-  - Books
-  - Websites
-  - Blog posts
-  - Self-assessment quizzes
-- **Focus areas**:
-  - General application security (AppSec)
-  - Secure coding practices
-  - Code review from a security perspective
-  - Application hardening techniques
-- **Beginner-friendly entry point**: Recommends “A Gentle Introduction to Application Security” for users new to software security.
-- **Community-driven**:
-  - Maintained by Paragon Initiative Enterprises
-  - Open contributions from the broader application security and developer communities
-- **Open source**:
-  - Hosted on GitHub
-  - Licensed under the MIT License
-- **Project structure**:
-  - Organized repository with data, images, source, and template directories
-  - CONTRIBUTING guide for structured collaboration
+## Features
+- **Curated learning directory**: A maintained collection of high‑quality resources specifically about application security.
+- **Multiple resource types**:
+  - Books and longer‑form reading
+  - Websites and documentation hubs
+  - Blog posts and articles
+  - Self‑assessment quizzes for knowledge checking
+- **Beginner‑friendly starting point**:
+  - References an introductory guide: *“A Gentle Introduction to Application Security”* for readers new to software security.
+- **Community‑driven**:
+  - Maintained by Paragon Initiative Enterprises.
+  - Open to contributions from the wider application security and developer communities via a public contributing guide.
+- **Open repository structure**:
+  - `data` directory for structured resource data.
+  - `img` directory for icons/visual markers (e.g., non‑free indicators).
+  - `src` and `template` directories, indicating the list is generated from source data/templates.
+- **Non‑free resource indicators**:
+  - Uses a “nonfree” icon to mark resources that are not freely available.
+- **Open contribution process**:
+  - Documented contribution guidelines (`CONTRIBUTING.md`) for adding or updating resources.
+- **Open source licensing**:
+  - Includes a `LICENSE` file defining reuse and contribution rights.
 
-### Licensing
-- **License:** MIT License (per `LICENSE` file in the repository)
+## Use Cases
+- Discovering structured learning paths for application security.
+- Finding books, blogs, and sites to deepen knowledge of secure software development.
+- Performing self‑assessments on application security concepts.
+- Contributing new or updated security resources to a public directory.
 
-### Pricing
-- The directory and its contents are open source and freely accessible; no pricing or paid plans are indicated.
+## Pricing
+- The directory itself is free and open source.
+- Some listed resources are non‑free (paid) and are visually flagged via a “nonfree” icon in the list.

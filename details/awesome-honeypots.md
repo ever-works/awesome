@@ -1,37 +1,91 @@
 # Awesome Honeypots
 
-**URL:** https://github.com/paralax/awesome-honeypots  
 **Category:** Themed Directories  
-**Tags:** security, honeypots  
-**License:** Artistic-2.0
+**Website:** https://github.com/paralax/awesome-honeypots#readme  
+**Platform:** GitHub
 
-## Description
-Awesome Honeypots is a curated, open-source directory of honeypot-related resources. It organizes free and open-source honeypots and supporting tools into categories such as web, services, network, data analysis, and guides, helping security practitioners find tools to deceive attackers and study intrusion techniques.
+A curated, community-maintained directory of honeypot resources and related security tooling, with a particular focus on free and open-source projects.
+
+---
+
+## Overview
+
+Awesome Honeypots is an "awesome list" that aggregates links to honeypots and supporting tools used to study, detect, and deceive attackers. Items are grouped into themed categories (e.g., web, services, ICS/SCADA), making it easier to find relevant tools for building and operating honeypot and honeynet environments.
+
+---
 
 ## Features
-- **Curated honeypot directory**
-  - Focus on free and open-source honeypot projects
-  - Items organized by category (e.g., web honeypots, service honeypots, and others)
-  - Related components beyond core honeypots (support tools, analysis utilities, etc.)
 
-- **Categorized sections**
-  - **Honeypots:** Collection of honeypot implementations for various environments and protocols
-  - **Honeyd Tools:** Tools and utilities that integrate with or extend Honeyd-based honeypots
-  - **Network and Artifact Analysis:** Tools for analyzing network traffic and captured artifacts from honeypots
-  - **Data Tools:** Utilities for storing, processing, and exploring honeypot-generated data
-  - **Guides:** Documentation, articles, and how-tos for deploying and operating honeypots
-  - **Related Lists:** Links to other security or honeypot-related curated lists
+### Curated Honeypot Directory
+- Collection of honeypot implementations and related tools.
+- Focus on free and open-source projects.
+- Items organized into logical categories for easier navigation.
 
-- **Contribution-friendly**
-  - Public contribution workflow described in `CONTRIBUTING.md`
-  - Items ordered by contribution activity rather than ranking
+### Honeypot Categories
+- **Database Honeypots** – Tools emulating database services to detect and study database-focused attacks.
+- **Web Honeypots** – Honeypots imitating web applications or HTTP services.
+- **Service Honeypots** – General network/service honeypots covering various protocols and services.
+- **Distributed Honeypots** – Frameworks and platforms for deploying and managing honeypots across multiple sensors/locations.
+- **ICS/SCADA Honeypots** – Honeypots tailored to industrial control systems and SCADA environments.
+- **Other / Random Honeypots** – Miscellaneous or specialized honeypots not fitting standard categories.
+- **SSH Honeypots** – Tools focused on SSH-based attack detection and credential capture.
+- **Client Honeypots** – Client-side honeypots that actively interact with potentially malicious servers or content.
+- **Hybrid Low/High Interaction Honeypots** – Solutions combining lightweight emulation with deeper interaction capabilities.
 
-- **Multi-language documentation**
-  - Main README in English (`README.md`)
-  - Additional Chinese documentation (`README_CN.md`)
+### Supporting and Related Tools
+The list also includes tools that complement honeypot deployments, such as:
+- **Botnet C2 tools** – For studying or emulating command-and-control behavior.
+- **IPv6 attack detection tools** – Focused on analyzing or detecting IPv6-related attacks.
+- **Dynamic code instrumentation toolkits** – For instrumenting binaries or applications during analysis.
+- **Website-to-honeypot converters** – Tools to convert an existing website into a server honeypot.
+- **Malware collectors** – Automated collection of malicious artifacts, often integrated with honeypots.
+- **Distributed sensor deployment frameworks** – Systems for rolling out honeypot sensors at scale.
+- **Network analysis tools** – For examining traffic collected from honeypots.
+- **Log anonymizers** – To sanitize and share captured data while protecting sensitive information.
+- **Low-interaction router/backdoor honeypots** – Simulated routers or embedded devices to observe scanning and exploitation.
+- **Honeynet farm traffic redirectors / network traffic redirectors** – To direct suspicious or targeted traffic into honeynet environments.
+- **HTTPS proxies** – For intercepting and inspecting encrypted traffic related to attacks.
+- **System instrumentation utilities** – For monitoring host behavior and system-level events.
+- **USB-spreading malware honeypots** – Focused on malware that propagates via USB or removable media.
+- **Data collection frameworks** – For aggregating and storing data from honeypots or sensors.
+- **Passive network audit parsers** – For parsing and analyzing passive capture/audit data.
+- **VM monitoring and tooling** – For supervising virtualized environments running honeypots or malware.
+- **Binary debuggers** – Used in analysis of captured malware or exploit behavior.
+- **Mobile analysis tools** – For attacks and malware targeting mobile platforms.
+- **Honeynet data fusion utilities** – To correlate and combine honeypot data from multiple sources.
+- **Servers / infrastructure components** – Supporting backend services for honeypot ecosystems.
+- **IDS signature generation tools** – To create intrusion detection rules from observed malicious behavior.
+- **AS-number and prefix lookup services** – For enrichment of network data (e.g., attacker IP context).
+- **Data collection / data sharing platforms** – For exchanging honeypot-derived data.
+- **Central management tools** – For orchestrating and configuring multiple honeypots.
+- **Network connection analyzers** – Inspect and categorize captured connections.
+- **Honeypot deployment tools** – Assist with provisioning and automated setup.
+- **Wireshark honeypot extensions** – Add-ons or plugins to enhance packet analysis in honeypot contexts.
+- **PCAP analyzers** – For deeper investigation of recorded network traces.
+- **PDF document inspectors** – Tools for analyzing potentially malicious PDF files.
+- **Honeypot distributions with mixed components** – Pre-built operating system or appliance images combining multiple honeypots and tools.
 
-- **Quality checks for the list**
-  - `awesome-check.py` script to help validate and maintain list consistency and formatting
+### Community & Contributions
+- Open contribution model via GitHub.
+- Contribution guidelines provided in `CONTRIBUTING.md`.
+- Available in multiple languages (e.g., `README.md` and `README_CN.md`).
+- Uses an "awesome"-style structure, consistent with other lists in the sindresorhus/awesome ecosystem.
+
+### Licensing & Repository Structure
+- Explicit license file (`LICENSE`).
+- Automated checks (`awesome-check.py`) to maintain list quality and formatting.
+
+---
 
 ## Pricing
-This is a free, open-source GitHub repository. There are no pricing plans or paid tiers.
+
+- Not a commercial product or service.  
+- The list and linked open-source projects are generally free to access and use, subject to their individual licenses.
+
+---
+
+## Tags
+
+- awesome-lists  
+- security  
+- honeypots
