@@ -1,63 +1,47 @@
-# Awesome Low Code
+## Overview
 
-**URL:** https://github.com/zenitysec/awesome-low-code#readme  
-**Category:** Themed Directories  
-**Tags:** awesome-lists, saas, business-tools
-
-## Description
-Awesome Low Code is a curated, community-maintained directory of low-code and no-code platforms, tools, and resources. It focuses on solutions that enable building and automating applications and workflows with minimal or no traditional programming.
+Awesome Low Code is a curated collection of low-code platforms that enable rapid application development with reduced manual coding.
 
 ## Features
 
-### Scope & Structure
-- Curated list of low-code and no-code:
-  - Platforms
-  - Vendors
-  - Tools
-  - Resources
-- Organized into clear categories:
-  - **Platforms**
-    - Citizen Automation and Development Platform
-    - Low Code Application Platform
-    - Business Process Management
-    - Robotic Process Automation
-    - Intelligent Virtual Agent
-    - Integration Platform as a Service
-    - Low Code API Management Platform
-  - **Tools, Extensions and Frameworks**
-  - **Reference Resources**
-  - **Learning Resources**
-  - **Samples, Templates and Solutions**
-  - **Community**
-  - **Blogs**
-  - **Other Lists**
+- **Open Source Platforms**: Lowdefy, Budibase, ToolJet, Appsmith
+- **Enterprise Solutions**: Mendix, OutSystems, Microsoft Power Apps
+- **App Builders**: Tools for building mobile and web applications
+- **Workflow Automation**: Low-code automation platforms
+- **AI/ML Integration**: PraisonAI and platforms with 100+ LLM support
+- **Database Tools**: Low-code database application builders
+- **API Integration**: Easy integration with external services
+- **YAML Configuration**: Some platforms use YAML for app definition
 
-### Platforms – Citizen Automation and Development Platform (CADP)
-CADPs are described as development platforms for business users that:
-- Require little to no coding skills
-- Use intuitive drag-and-drop interfaces
-- Are typically consumed as SaaS
-- Focus on automating or improving business processes and personal productivity, usually outside traditional IT channels
+## Platform Categories
 
-Examples listed in this category include:
-- **Power Automate (Microsoft)** – Online workflow service to automate actions across common applications and services.
-- **Zapier** – Connects and automates workflows between different applications.
-- **Einstein Automate (Salesforce)** – Tools to automate business processes without specialized development skills.
-- **Jira Automation (Atlassian)** – No-code rule builder for creating event-based “if-this-then-that” automation in Jira.
-- **Trello Power-Ups (Atlassian)** – Extensions and integrations to adapt Trello boards to specific business needs and automation.
-- **Zoho Flow** – Integration platform for connecting applications without code.
-- **FormNX** – No-code platform for building forms, with:
-  - Form creation without coding
-  - Webhook integration
-  - Mailchimp integration
-  - Easy embedding of forms in websites and web applications
-- **Postman Flows** – Visual tool (within Postman) for building API-driven workflows (partial description in provided content).
+- Full application platforms
+- Workflow automation tools
+- Database and CRUD builders
+- Mobile app builders
+- Internal tool builders
+- BI and dashboard creators
+- Form builders
+- API and integration platforms
 
-### Contribution & Community
-- Open to community contributions.
-- Provides contribution guidelines to standardize how new items are added and maintained.
+## Key Platforms
+
+- Lowdefy - Open-source low-code framework using YAML
+- Budibase - Build internal tools and business apps
+- Appsmith - Low-code platform for internal applications
+- Retool - Build internal tools quickly
+- Microsoft Power Apps - Enterprise low-code platform
+
+## Use Cases
+
+- Internal business tools
+- Admin panels and dashboards
+- CRUD applications
+- Workflow automation
+- Data collection forms
+- Business process apps
+- Customer portals
 
 ## Pricing
-- The repository itself is an open, curated list hosted on GitHub.  
-- No pricing information is provided for the list as a resource.  
-- Individual platforms and tools listed may have their own pricing, but details are not included in the provided content.
+
+Free and open-source repository featuring both open-source and commercial platforms.
