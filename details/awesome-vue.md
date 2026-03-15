@@ -1,66 +1,102 @@
-# Awesome Vue
-
-**Website:** https://github.com/vuejs/awesome-vue  
-**Category:** Themed Directories  
-**Tags:** awesome-lists, web-development, developer-tools
-
 ## Overview
-Awesome Vue is the official curated list of libraries, tools, components, learning materials, and other resources related to the Vue.js framework. It is maintained as a GitHub repository under the Vue.js organization and is licensed under MIT.
+
+Awesome Vue is the official curated list of awesome Vue.js resources, maintained by the Vue.js team and community.
+
+## Official Resources
+
+### Core Documentation
+- Vue.js official documentation
+- Vue 3 composition API guide
+- Migration guides (Vue 2 to 3)
+- API reference
+- Style guide
+
+### Official Libraries
+- **Vue Router** - Official routing library
+- **Pinia** - Official state management (replaces Vuex)
+- **Vuex** - Legacy state management
+- **Vue Test Utils** - Official testing utilities
+
+## UI Frameworks
+
+### Component Libraries
+- **Element Plus** - Desktop UI library for Vue 3
+- **Vuetify** - Material Design component framework
+- **Quasar** - Build responsive apps
+- **Ant Design Vue** - Enterprise UI library
+- **Naive UI** - Vue 3 component library
+- **PrimeVue** - Rich set of components
+
+### Headless/Unstyled
+- **Radix Vue** - Unstyled, accessible components
+- **HeadlessUI Vue** - Unstyled components from Tailwind
+
+## Build Tools
+
+### Development Environment
+- **Vite** - Next-generation frontend tooling (official recommendation)
+- **Vue CLI** - Standard tooling for Vue projects
+- **Nuxt** - Vue.js framework for server-side rendering
+
+### Code Quality
+- ESLint plugin for Vue
+- Prettier integration
+- TypeScript support
+- Volar - Vue language tools
+
+## State Management
+
+- **Pinia** - Official store (Vue 3+)
+- **Vuex** - Centralized state management
+- **Harlem** - Simple state management
+- Composition API patterns
+
+## Server-Side Rendering
+
+### Frameworks
+- **Nuxt 3** - Vue.js framework for SSR and static sites
+- **Quasar SSR** - Server-side rendering with Quasar
+- **VitePress** - Static site generator
+
+## Mobile Development
+
+- **Quasar** - Build mobile apps with Vue
+- **Ionic Vue** - Hybrid mobile framework
+- **NativeScript Vue** - Native mobile apps
+- **Capacitor** - Cross-platform apps
+
+## Testing
+
+- **Vitest** - Vite-native testing framework
+- **Vue Test Utils** - Official testing utilities
+- **Cypress** - E2E testing
+- **Playwright** - Browser automation
+
+## UI Utilities
+
+- **VueUse** - Collection of Vue composition utilities
+- **Vue Demi** - Universal Vue compatibility
+- **Floating Vue** - Tooltips and popovers
+- **v-calendar** - Calendar component
 
 ## Features
-- **Curated Vue Ecosystem Directory**  
-  - Centralized, community-maintained list of “awesome” Vue.js–related resources.
-  - Organized via a detailed table of contents for quick navigation.
 
-- **Resources Section**  
-  - **Official Resources**: Links to official Vue.js documentation, guides, and ecosystem projects.  
-  - **External Resources**: Third-party articles, tools, and guides complementing the official docs.  
-  - **Job Portal**: Links to platforms or sections focused on Vue.js-related job opportunities.  
-  - **Community**: Entry points to Vue.js community spaces (forums, chats, groups).  
-  - **Conferences**: Vue-focused or Vue-related conference listings.  
-  - **Podcasts**: Audio resources covering Vue.js topics.  
-  - **Official Examples**: Reference examples maintained by the Vue core team.  
-  - **Tutorials**: Collections of step-by-step guides and how‑tos for Vue.  
-  - **Examples**: Example projects demonstrating Vue.js usage.  
-  - **Books**: Curated list of books about Vue.js.  
-  - **Blog Posts**: Selected blog articles on Vue concepts, patterns, and practices.  
-  - **Courses**: Links to structured learning courses for Vue.js.  
-  - **Documentaries**: Video/documentary content related to Vue or its ecosystem.
+- Reactive data binding
+- Component-based architecture
+- Virtual DOM
+- Composition API (Vue 3)
+- TypeScript support
+- Progressive framework
 
-- **Companies Using Vue.js**  
-  - List of organizations and companies publicly known to use Vue.js.
+## Use Cases
 
-- **Projects Using Vue.js**  
-  - **Open Source**: OSS projects built with Vue.  
-  - **Commercial Products**: Paid or proprietary products that use Vue.  
-  - **Apps/Websites**: Public-facing applications and sites powered by Vue.  
-  - **Interactive Experiences**: Experimental or interactive Vue experiences.  
-  - **Enterprise Usage**: Enterprise-level use cases and implementations.  
-  - **A11y**: Projects and examples focused on accessibility with Vue.
-
-- **Components & Libraries**  
-  - **Frameworks**: Higher-level frameworks built on Vue or for Vue-based development, including:  
-    - *Responsive* frameworks for responsive layouts.  
-    - *Mobile* frameworks tailored to mobile or hybrid apps.  
-    - *Component Collections* grouping reusable UI components.  
-    - *Admin Template* frameworks and starters for admin dashboards.  
-    - *Server-side Rendering* utilities/frameworks for SSR with Vue.  
-    - *Static Website Generator* tools for static-site generation with Vue.  
-    - *Other* Vue-related frameworks that don’t fit the above subcategories.  
-  - **UI Layout**: Layout systems and utilities for page structure in Vue apps.  
-  - **UI Components**: Individual Vue components and libraries, including (but not limited to):  
-    - *Table* components and data grids.  
-    - *Notification* components for alerts/toasts.  
-    - *Loader* components for progress and loading states.  
-    - (Further subcategories continue in the repository’s README beyond the truncated snippet.)
-
-- **GitHub-based Curation**  
-  - Maintained as a public GitHub repository under the `vuejs` organization.  
-  - Community contributions via issues and pull requests.  
-  - High level of community adoption (tens of thousands of stars and thousands of forks, per the repository header).
-
-- **Open Source License**  
-  - Distributed under the MIT License.
+- Single-page applications
+- Progressive web apps
+- Server-side rendered applications
+- Static websites
+- Mobile applications
+- Desktop apps (with Electron)
 
 ## Pricing
-- Awesome Vue is a free, open-source resource. There are no pricing plans or paid tiers.
+
+Vue.js and the ecosystem are free and open source under MIT license.

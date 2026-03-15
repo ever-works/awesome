@@ -1,61 +1,40 @@
-# Awesome Streaming
-
-A curated, GitHub-hosted directory of streaming (stream processing) frameworks, applications, libraries, and related resources, organized in an “awesome list” format.
-
 ## Overview
 
-- **Type:** Open-source curated directory / awesome list
-- **Focus:** Streaming and stream processing technologies and resources
-- **Maintainer/Brand:** manuzhang
-- **Source:** https://github.com/manuzhang/awesome-streaming
-- **Website (dynamic view):** https://manuzhang.github.io/awesome-streaming/
+Awesome Streaming is a curated list of frameworks, tools, and resources for building streaming data processing applications and real-time data pipelines.
+
+## Stream Processing Frameworks
+
+- **Apache Flink** - Distributed stream processing framework with exactly-once semantics and low-latency processing
+- **Apache Kafka Streams** - Lightweight stream processing library for building real-time applications
+- **Apache Spark Streaming** - Micro-batch stream processing as part of the Apache Spark ecosystem
+- **Apache Samza** - Stream processing framework with deep Kafka integration
+- **RisingWave** - PostgreSQL-compatible streaming database for building event-driven applications and real-time ETL pipelines
+
+## Python Libraries
+
+- **Faust** - Stream processing library porting Kafka Streams concepts to Python
+- **Quix Streams** - Python library for high-volume time-series streaming
+- **Bytewax** - Python stream processing with Rust performance
+- **Pathway** - Python ETL framework with Rust engine for real-time processing
 
 ## Features
 
-### Core Purpose
-- Curated list of **streaming (stream processing)** tools and resources.
-- Focus on **big data streaming**, near-real-time processing, and related ecosystems.
-- Inspired by the broader **awesome-* style** lists (structured, community-driven curation).
+- Real-time data processing and analytics
+- Stateful stream processing
+- Event time processing and windowing
+- Exactly-once semantics
+- Fault tolerance and scalability
+- Integration with various data sources and sinks
 
-### Organization & Structure
-- Uses a categorized **Table of Contents** to organize entries:
-  - **Streaming Engine** – Core distributed streaming/stream+batch engines and compute platforms.
-  - **Streaming Library** – Libraries and SDKs for building streaming applications.
-  - **Streaming Application** – End-user or higher-level applications built on top of streaming engines.
-  - **IoT** – Streaming-related tools and frameworks targeted at Internet of Things scenarios.
-  - **DSL** – Domain-specific languages for defining streaming jobs or pipelines.
-  - **Data Pipeline** – Tools for building and managing data pipelines around streaming systems.
-  - **Online Machine Learning** – Resources and tools for applying ML models in online/streaming contexts.
-  - **Streaming SQL** – SQL engines and extensions for querying streaming data.
-  - **Toolkit** – Utilities, helper tools, and supporting software for streaming workflows.
-  - **Benchmark** – Benchmarking suites and projects for evaluating streaming systems.
-  - **Closed Source** – Non-open-source streaming products and services (documented for reference).
-  - **Readings** – Articles, papers, and educational resources on stream processing.
+## Use Cases
 
-### Content Characteristics
-- Each entry typically includes:
-  - **Project name**
-  - **Repository or homepage URL**
-  - **Language tag** (e.g., `[Java]`, `[Rust]`) where applicable
-  - **One-line description** summarizing purpose or key capability
-- Covers a wide range of **ecosystem components**:
-  - Unified stream + batch processing
-  - Distributed compute platforms (often Arrow-based or big-data focused)
-  - Data pipelines and ingestion layers
-  - Higher-level applications and frameworks around streaming engines
-
-### Dynamic Website
-- Provides a separate **dynamic website** (https://manuzhang.github.io/awesome-streaming/) that:
-  - Mirrors the GitHub list content
-  - Surfaces **updates** to the awesome projects listed
-  - Offers a more navigable view compared to raw Markdown in the repository
-
-### Community & Maintenance
-- Hosted on GitHub with:
-  - Public repository
-  - Contribution guidelines (`CONTRIBUTING.md`) for community submissions and updates
-  - Issues and pull requests available for enhancements and corrections
+- Real-time analytics dashboards
+- Event-driven architectures
+- Continuous ETL pipelines
+- Fraud detection and anomaly detection
+- IoT data processing
+- Click stream analysis
 
 ## Pricing
 
-- **Free**: This is an open-source, public GitHub repository and website. Access, browsing, and contributions are free of charge; no pricing plans or paid tiers are provided.
+Most frameworks are free and open source under Apache 2.0 or similar licenses. Managed services like Confluent Cloud offer free trials with usage-based pricing.

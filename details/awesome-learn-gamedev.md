@@ -1,38 +1,117 @@
-# Awesome Learn Gamedev
+## Overview
 
-**Website:** https://github.com/notpresident35/awesome-learn-gamedev#readme  
-**Category:** Themed Directories  
-**Tags:** games, education, awesome-lists
+Awesome Learn Gamedev provides a comprehensive collection of learning resources for aspiring and experienced game developers across all aspects of game creation.
 
-## Description
-Awesome Learn Gamedev is a curated “mega-list” of learning resources for aspiring and practicing game creators. It focuses on teaching the craft of game development across multiple disciplines, aggregating tutorials, guides, and other educational materials.
+## Engine-Specific Courses
+
+### Godot Engine
+- Beginner to advanced Godot tutorials
+- GDScript programming courses
+- 2D and 3D game development
+- Visual effects and shaders
+- Multiplayer and networking
+
+### Unreal Engine 5
+- Blueprint visual scripting
+- C++ programming for Unreal
+- Nanite and Lumen features
+- Landscape and environment art
+- Animation and character creation
+
+### Unity
+- C# programming fundamentals
+- 2D platformer development
+- 3D game mechanics
+- Unity services and multiplayer
+- Mobile game optimization
+
+## Learning Paths
+
+### Programming
+- Game programming patterns
+- C++, C#, GDScript, Lua
+- Object-oriented design
+- Data structures and algorithms
+- Performance optimization
+
+### Art & Design
+- 3D modeling (Blender, Maya)
+- Texture creation and PBR
+- Character design and rigging
+- Animation principles
+- Pixel art and 2D sprites
+
+### Audio
+- Sound design basics
+- Music composition for games
+- Audio middleware (FMOD, Wwise)
+- Spatial audio implementation
+
+### Game Design
+- Game mechanics and systems
+- Level design principles
+- User experience (UX)
+- Balancing and progression
+- Narrative design
+
+## Learning Platforms
+
+### Online Courses
+- Udemy game development courses
+- Coursera game design specializations
+- LinkedIn Learning
+- Skillshare creative courses
+
+### Video Tutorials
+- YouTube channels (Brackeys, GameMaker's Toolkit)
+- Twitch game dev streams
+- Conference talks (GDC, Unite)
+
+### Books & Documentation
+- Game Programming Patterns
+- The Art of Game Design
+- Official engine documentation
+- Technical art references
+
+## Community Resources
+
+- Game development forums
+- Discord communities
+- Reddit communities (r/gamedev)
+- Game jams (Ludum Dare, Global Game Jam)
+- Open source game projects
+
+## Specialized Topics
+
+- Procedural generation
+- AI and pathfinding
+- Shader programming
+- Networking and multiplayer
+- Mobile optimization
+- VR/AR development
 
 ## Features
-- **Curated learning directory** dedicated specifically to game development.
-- **Covers multiple gamedev disciplines and roles**, providing:
-  - General game development knowledge
-  - Discipline-specific resources (e.g., programming, design, art, etc. – implied by “variety of disciplines and roles under the gamedev umbrella”).
-- **Emphasis on education-focused materials**, including:
-  - Learning resources
-  - Tutorials
-  - Courses
-  - General guidance and advice for game creators.
-- **Hiring and career guidance** for game development roles (e.g., resources and advice related to getting hired in gamedev).
-- **Cost transparency**:
-  - Nearly all resources included are free.
-  - Paid resources are clearly marked when they do appear.
-  - Paid items are only included if they meet a quality or value bar set by the curator.
-- **Actively maintained GitHub repository** structure, including:
-  - `README.md` as the main directory listing.
-  - `archives` folder for older or reorganized materials.
-  - Contribution guidelines (`contributing.md`).
-  - Code of conduct (`code-of-conduct.md`).
-- **Community contributions supported** via pull requests and direct contact with the curator for:
-  - Adding new resources
-  - Reporting or fixing broken links.
+
+- Beginner-friendly starting points
+- Progressive skill development
+- Project-based learning
+- Free and paid resources
+- Community support
+- Real-world examples
+
+## Use Cases
+
+- Learning game development from scratch
+- Transitioning between engines
+- Specializing in specific areas
+- Building a portfolio
+- Preparing for industry roles
+- Hobby game creation
 
 ## Pricing
-- Access to the directory and the vast majority of listed resources is **free**.
-- Some individual resources in the list may be **paid**, but:
-  - They are **explicitly labeled** as paid.
-  - They are only included when they provide clear value (per the curator’s criteria).
+
+Varies:
+- Free: YouTube, documentation, some online courses
+- Affordable: Udemy courses ($10-$200)
+- Subscription: Skillshare ($32/month), LinkedIn Learning ($40/month)
+- Premium: University degrees and bootcamps ($5,000-$50,000+)

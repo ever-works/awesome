@@ -1,125 +1,134 @@
-# awesome-iot
-
-A curated, community-maintained directory of Internet of Things (IoT) projects and resources, part of the broader **awesome** list ecosystem.
-
-- **Website/Source**: https://github.com/HQarroum/awesome-iot
-- **Category**: Themed directories
-- **Tags**: `iot`, `awesome-lists`
-- **License**: MIT
-
----
-
 ## Overview
 
-`awesome-iot` is a GitHub-hosted, open-source list that aggregates notable IoT-related hardware platforms, software projects, protocols, standards, and learning resources. It is designed as a starting point for developers, researchers, and enthusiasts exploring the Internet of Things ecosystem.
+Awesome IoT provides a collaborative list of great resources about IoT frameworks, libraries, operating systems, and platforms for building connected device solutions.
 
----
+## IoT Frameworks
+
+### Edge Computing
+
+**EdgeX Foundry**
+- Highly flexible and scalable open source software framework
+- Facilitates interoperability between devices and applications at the IoT Edge
+- Vendor-neutral platform
+- Microservices architecture
+- Supports multiple protocols
+
+**FogAtlas**
+- Manages geographically distributed and decentralized cloud computing infrastructure
+- Provides computational, storage and network services close to data sources
+- Embraces the Fog Computing paradigm
+- Resource optimization
+
+**FogFlow**
+- IoT edge computing framework
+- Automatically orchestrates dynamic data processing flows
+- Works over cloud and edges
+- Context-driven processing
+
+**FogBus**
+- Simplified end-to-end IoT-Fog(Edge)-Cloud integration
+- Harnesses both edge and remote resources
+- Application requirement-based resource allocation
+
+## IoT Operating Systems
+
+### Linux-Based
+- **Ubuntu Core** - Official minimal Ubuntu distribution for IoT
+- **Yocto Project** - Create custom Linux distributions
+- **Raspberry Pi OS** - Official Raspberry Pi operating system
+- **Armbian** - Linux for ARM development boards
+
+### RTOS (Real-Time OS)
+- **FreeRTOS** - Real-time operating system for microcontrollers
+- **Zephyr** - Small, scalable RTOS
+- **RIOT** - Operating system for IoT
+- **Contiki** - OS for IoT devices
+- **Mbed OS** - ARM embedded OS
+
+## Communication Protocols
+
+### IoT Protocols
+- **MQTT** - Lightweight messaging protocol
+- **CoAP** - Constrained Application Protocol
+- **AMQP** - Advanced Message Queuing Protocol
+- **DDS** - Data Distribution Service
+- **HTTP/HTTPS** - Web protocols
+
+### Wireless Technologies
+- **WiFi** - Wireless networking
+- **Bluetooth/BLE** - Short-range communication
+- **LoRaWAN** - Long-range, low-power
+- **Zigbee** - Mesh networking
+- **NB-IoT** - Cellular IoT
+- **Sigfox** - Low-power wide-area network
+
+## IoT Platforms
+
+### Cloud Platforms
+- **AWS IoT Core** - AWS managed IoT service
+- **Azure IoT Hub** - Microsoft IoT platform
+- **Google Cloud IoT** - Google's IoT platform
+- **IBM Watson IoT** - Enterprise IoT platform
+
+### Open Source Platforms
+- **ThingsBoard** - IoT platform for device management
+- **Kaa** - Open-source IoT platform
+- **DeviceHive** - IoT data platform
+- **Mainflux** - Modern IoT platform
+
+## Hardware Platforms
+
+### Development Boards
+- **Raspberry Pi** - Popular single-board computer
+- **Arduino** - Microcontroller platform
+- **ESP32/ESP8266** - WiFi microcontrollers
+- **BeagleBone** - Embedded Linux board
+- **NVIDIA Jetson** - AI at the edge
+
+## Data Processing
+
+### Stream Processing
+- Apache Kafka - Event streaming
+- Apache Flink - Stream processing
+- Node-RED - Flow-based programming
+- Apache NiFi - Data flow automation
+
+### Time Series Databases
+- InfluxDB - Time series database
+- TimescaleDB - PostgreSQL extension
+- Prometheus - Monitoring database
+
+## Security
+
+- **Device authentication** - Secure device identity
+- **Encryption** - Data protection in transit and at rest
+- **Secure boot** - Boot integrity
+- **OTA updates** - Secure firmware updates
+- **PKI** - Public key infrastructure
 
 ## Features
 
-### 1. Structured Top-Level Categories
+- Edge computing capabilities
+- Protocol diversity
+- Cloud and on-premise options
+- Real-time data processing
+- Device management
+- Security frameworks
 
-The list is organized into major sections to simplify navigation:
+## Use Cases
 
-- **Hardware**
-- **Software**
-  - Operating Systems
-  - Programming Languages
-  - Frameworks
-  - Middlewares
-  - Libraries and Tools
-  - Miscellaneous
-- **Protocols and Networks**
-- **Technologies**
-- **Standards and Alliances**
-- **Resources**
-  - Books
-  - Articles
-  - Papers
-
-### 2. Hardware Directory
-
-Curated links to popular and widely used IoT hardware platforms and boards, including (examples from the list):
-
-- **Arduino** – Open‑source electronics platform with easy-to-use hardware and software for interactive projects.
-- **BeagleBoard** – Low‑power, open‑source hardware single-board computers.
-- **Dragonboard** (and other boards listed further in the README) – ARM-based development boards for embedded/IoT use.
-
-The Hardware section highlights foundational platforms used in prototyping and deploying IoT solutions.
-
-### 3. Software Ecosystem Coverage
-
-The Software section catalogs tools and platforms across the IoT software stack:
-
-- **Operating Systems** – Embedded and IoT-focused OSes suitable for constrained devices and gateways.
-- **Programming Languages** – Languages and language-specific ecosystems commonly used for IoT development.
-- **Frameworks** – Application and device frameworks that help build, connect, and manage IoT solutions.
-- **Middlewares** – Integration, messaging, and device/orchestration middlewares used to connect devices and backends.
-- **Libraries and Tools** – Utility libraries, SDKs, debugging tools, and build tools relevant to IoT workflows.
-- **Miscellaneous** – Additional software assets that don’t fit neatly in other categories but are useful for IoT.
-
-### 4. Protocols and Networks
-
-A dedicated section for:
-
-- **Communication protocols** (e.g., typical IoT application and transport protocols).
-- **Network technologies** relevant to IoT (short-range, long-range, low-power, etc.).
-
-This helps users understand and select connectivity options and standards for IoT deployments.
-
-### 5. Technologies
-
-A high-level catalog of key **IoT technologies**, such as:
-
-- Sensing, actuation, and edge-computing concepts
-- Cloud and fog/edge integration approaches
-- Security and identity technologies (as listed in the repo)
-
-### 6. Standards and Alliances
-
-Links to:
-
-- **Standardization bodies**, consortia, and alliances in the IoT domain.
-- **Specification documents** and initiatives that shape interoperability and security in IoT.
-
-### 7. Learning and Research Resources
-
-The **Resources** section collects learning materials and research references:
-
-- **Books** – Foundational and advanced texts on IoT technologies and practice.
-- **Articles** – Blog posts, tutorials, and explanatory writeups.
-- **Papers** – Academic and technical papers.
-
-This supports both beginners and researchers looking for authoritative references.
-
-### 8. Open Contribution Model
-
-- Includes a **CONTRIBUTING.md** file with contribution guidelines.
-- Accepts community pull requests to add, update, or refine entries.
-- Maintains quality through curation to stay aligned with the "awesome" list conventions.
-
-### 9. Repository and Maintenance Details
-
-- **README.md** – Main curated list and documentation.
-- **LICENSE** – MIT license enabling broad reuse and redistribution.
-- **.travis.yml** – Continuous integration configuration (e.g., for link checking or linting of the awesome list).
-- **iot-logo.png** – Project logo/branding asset for the list.
-
----
+- Smart home automation
+- Industrial IoT (IIoT)
+- Smart cities
+- Healthcare monitoring
+- Agriculture sensors
+- Fleet management
+- Environmental monitoring
 
 ## Pricing
 
-- **Cost**: Free
-- **License**: MIT open-source license (allows use, modification, and redistribution under the terms of the MIT license).
-
----
-
-## Usage Notes
-
-- Best used as a **reference index**: follow links from each section to discover specific hardware boards, frameworks, libraries, and standards.
-- Suitable for:
-  - Developers starting new IoT projects.
-  - Educators assembling course materials.
-  - Researchers mapping the IoT tooling and standards landscape.
-
-For the full, always-updated list of items and links, consult the repository README: https://github.com/HQarroum/awesome-iot
+Mostly open source frameworks. Cloud platforms:
+- AWS IoT: Pay per message and connection
+- Azure IoT: From $10/month for basic tier
+- Google Cloud IoT: Per device per month
+- ThingsBoard: Free community, Cloud from $50/month

@@ -1,48 +1,140 @@
-# Awesome Shell
-
-A curated directory of command-line frameworks, toolkits, guides, and utilities for shell environments.
-
-- **Website**: https://github.com/alebcay/awesome-shell
-- **Category**: Themed Directories
-- **Tags**: awesome-lists, CLI, terminal
-- **License**: CC0-1.0
-
 ## Overview
-Awesome Shell is an open, community-maintained list of resources for working in Unix-like shell environments. It aggregates tools, frameworks, utilities, and learning materials to enhance command-line productivity, customization, and development workflows.
+
+Awesome Shell provides a curated collection of command-line tools, shell frameworks, and terminal utilities for improving productivity and workflow.
+
+## Productivity Tools
+
+### Time Management
+
+**arttime**
+- Beauty of text-art meets functionality of a feature-rich clock, timer, and pattern-based time manager
+- Pomodoro timer with visual art
+- Customizable ASCII art themes
+- Productivity tracking
+
+**bartib**
+- Simple timetracker for the command line
+- Saves activities as plaintext in a file
+- Generates reports based on simple queries
+- Flexible time tracking and reporting
+
+### Project Templating
+
+**boilr**
+- Blazingly fast CLI tool for creating projects from boilerplate templates
+- Template management
+- Variable substitution
+- Git integration
+- Custom project scaffolding
+
+## Shell Frameworks
+
+### Bash Frameworks
+- **Oh My Bash** - Delightful Bash configuration
+- **Bash-it** - Community Bash framework
+- **basher** - Package manager for shell scripts
+
+### Zsh Frameworks
+- **Oh My Zsh** - Community-driven Zsh framework
+- **Prezto** - Configuration framework for Zsh
+- **Zim** - Modular Zsh configuration
+- **Antibody** - Fastest shell plugin manager
+
+### Fish Frameworks
+- **Oh My Fish** - Framework for Fish shell
+- **Fisher** - Package manager for Fish
+- **Tide** - Modern prompt for Fish
+
+## Command-Line Tools
+
+### File Management
+- **exa** - Modern replacement for ls
+- **fd** - Simple, fast alternative to find
+- **ripgrep** - Fast search tool
+- **fzf** - Fuzzy finder
+- **ranger** - Console file manager
+
+### System Monitoring
+- **htop** - Interactive process viewer
+- **btop** - Resource monitor
+- **glances** - System monitoring tool
+- **ncdu** - Disk usage analyzer
+
+### Text Processing
+- **jq** - JSON processor
+- **yq** - YAML processor
+- **sed** - Stream editor
+- **awk** - Pattern scanning
+- **bat** - Cat clone with syntax highlighting
+
+## Git Tools
+
+- **tig** - Text-mode interface for Git
+- **lazygit** - Simple terminal UI for git
+- **git-extras** - Extra git commands
+- **hub** - GitHub command-line tool
+- **gh** - Official GitHub CLI
+
+## Development Tools
+
+### Package Managers
+- **Homebrew** - macOS package manager
+- **apt** - Debian package manager
+- **yum/dnf** - RedHat package manager
+- **pacman** - Arch Linux package manager
+
+### Version Managers
+- **nvm** - Node.js version manager
+- **pyenv** - Python version manager
+- **rbenv** - Ruby version manager
+- **asdf** - Universal version manager
+
+## Network Tools
+
+- **curl** - Transfer data with URLs
+- **wget** - Network downloader
+- **httpie** - User-friendly HTTP client
+- **nmap** - Network scanner
+- **netcat** - Network utility
+
+## Terminal Multiplexers
+
+- **tmux** - Terminal multiplexer
+- **screen** - Terminal multiplexer
+- **zellij** - Modern terminal workspace
+
+## Productivity Utilities
+
+### Automation
+- **make** - Build automation
+- **task** - Task runner
+- **just** - Command runner
+- **invoke** - Python task execution
+
+### Note Taking
+- **nb** - Command-line note-taking
+- **joplin** - Note taking app
+- **vimwiki** - Personal wiki for Vim
 
 ## Features
 
-### 1. Curated Topical Sections
-The list is organized into topical categories (as seen from the README structure), including:
-- **Shells**
-  - Links to different shell implementations and related projects.
-- **Command-Line Productivity**
-  - Tools to improve efficiency and ergonomics at the command line.
-  - Subsection: **Directory Navigation** for tools that speed up moving around the filesystem.
-- **Customization**
-  - Resources to theme, configure, and extend your shell environment.
+- Comprehensive tool coverage
+- Productivity enhancement
+- Workflow automation
+- Cross-platform compatibility
+- Open source tools
+- Active maintenance
 
-*(The README continues with more sections beyond the visible snippet, typically including areas like prompts, system tools, text processing, networking, etc., all following the same curated-list pattern.)*
+## Use Cases
 
-### 2. Focus on Command-Line Ecosystem
-- Emphasizes **frameworks and toolkits** built for or around shells (e.g., for scripting, automation, prompts, plugins).
-- Includes **utilities and gizmos** that enhance or extend terminal capabilities.
-- Provides **guides and learning materials** to help users improve shell skills.
-
-### 3. Community-Driven Curation
-- Hosted on GitHub, enabling contributions via pull requests.
-- Includes a `CONTRIBUTING.md` file defining contribution guidelines.
-- Public repository with active community interest (stars and forks), signaling ongoing maintenance and updates.
-
-### 4. Multilingual Documentation
-- README available in:
-  - English (`README.md`)
-  - Simplified Chinese (`README_ZH-CN.md`)
-
-### 5. Open Licensing
-- Licensed under **CC0-1.0**:
-  - Content can be freely shared, reused, and adapted.
-  - Suitable as a base for further lists, internal documentation, or educational material.
+- Command-line productivity
+- Development workflows
+- System administration
+- File management
+- Text processing
+- Git operations
+- Time tracking
 
 ## Pricing
-- **Free**: Awesome Shell is an open-source, freely accessible GitHub repository with no paid plans or licensing fees.
+
+Free and open source. All tools are available under permissive licenses (MIT, Apache 2.0, BSD, GPL).

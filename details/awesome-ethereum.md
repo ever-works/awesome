@@ -1,68 +1,106 @@
-## Awesome Ethereum
+## Overview
 
-**Website:** https://github.com/ttumiel/Awesome-Ethereum#readme
+Awesome Ethereum provides comprehensive resources for Ethereum blockchain development, from smart contracts to full-stack DApp development.
 
-### Overview
-Awesome Ethereum is a curated, open-source list of frameworks, libraries, tools, and learning resources for building smart contracts and applications on the Ethereum blockchain. The list aggregates both practical development tools and educational materials, organized by topic.
+## Development Frameworks
 
-### Features
-- **Curated Ethereum resource directory**
-  - Focused specifically on Ethereum development and ecosystem resources.
-  - Inspired by other community-driven "Awesome" lists (e.g., Awesome Python, Awesome Machine Learning).
+### Hardhat Ecosystem
+- Hardhat templates and boilerplates
+- TypeScript integration
+- Testing frameworks
+- Deployment scripts
+- Plugin ecosystem
 
-- **Documentation**
-  - Links to official Ethereum documentation.
-  - Reference material for understanding core Ethereum concepts and APIs.
+### Foundry Tools
+- Foundry-based templates
+- Fast compilation and testing
+- Fuzzing capabilities
+- Gas profiling
+- Script deployment
 
-- **Programming resources**
-  - Frameworks and libraries for writing, testing, and deploying smart contracts.
-  - Developer tools for interacting with the Ethereum network.
+## DApp Development
 
-- **Tutorials**
-  - Step-by-step guides for building on Ethereum.
-  - Practical walkthroughs for common development tasks.
+### Frontend Libraries
+- Ethers.js - Ethereum library
+- Web3.js - Original Ethereum JavaScript API
+- Wagmi - React hooks for Ethereum
+- RainbowKit - Wallet connection UI
+- ConnectKit - Modern wallet connection
 
-- **Code examples**
-  - Repositories and code snippets demonstrating Ethereum use cases and best practices.
+### Full-Stack Frameworks
+- Scaffold-ETH - Rapid DApp development
+- create-eth-app - DApp bootstrapping
+- DappTools - CLI for Ethereum development
 
-- **Learning & MOOCs**
-  - Courses and educational programs covering Ethereum theory and practice.
+## Infrastructure
 
-- **Philosophy**
-  - Resources explaining the ideas and rationale behind the Ethereum project.
+### Node Providers
+- Infura - Ethereum API service
+- Alchemy - Blockchain development platform
+- QuickNode - Blockchain infrastructure
+- Ankr - Multi-chain RPC service
 
-- **Videos**
-  - Video content related to Ethereum development, concepts, and ecosystem.
+### IPFS & Storage
+- IPFS integration
+- Arweave permanent storage
+- Filecoin decentralized storage
 
-- **Wallets**
-  - References to Ethereum wallets and related tools.
+## Smart Contract Standards
 
-- **Blockchain utilities**
-  - Tools for interacting with, analyzing, or managing the Ethereum blockchain.
+### Token Standards
+- ERC-20 - Fungible tokens
+- ERC-721 - Non-fungible tokens (NFTs)
+- ERC-1155 - Multi-token standard
+- ERC-4626 - Tokenized vaults
 
-- **Protocols**
-  - Descriptions and implementations of Ethereum-related protocols.
+### Protocol Standards
+- EIP (Ethereum Improvement Proposals)
+- ERC standards documentation
+- Governance standards
 
-- **Books**
-  - Recommended reading on Ethereum, blockchain, and related topics.
+## Testing & Security
 
-- **Miscellaneous resources**
-  - Additional Ethereum-related tools and references that don’t fit into other categories.
+### Testing Tools
+- Hardhat tests
+- Foundry Forge
+- Tenderly debugging
+- Ganache local blockchain
 
-- **Open contribution model**
-  - Public contribution guidelines.
-  - Pull requests encouraged, with a note to avoid paywalled products.
+### Security
+- OpenZeppelin security audits
+- Slither static analysis
+- Trail of Bits security tools
+- Consensys Diligence
 
-- **License**
-  - Licensed under CC0 (public domain dedication), allowing free reuse of the list.
+## Layer 2 Solutions
 
-### Category
-- Themed directories / Awesome list
+- Optimism - Optimistic rollup
+- Arbitrum - Optimistic rollup
+- zkSync - Zero-knowledge rollup
+- Polygon - Sidechain and L2 solutions
+- Base - Coinbase L2
 
-### Tags
-- awesome-lists
-- blockchain
-- developer-tools
+## Features
 
-### Pricing
-- Not applicable (open-source list of resources, available free of charge).
+- Full-stack development tools
+- Multi-chain compatibility
+- Testing frameworks
+- Security best practices
+- Wallet integration
+- IPFS and decentralized storage
+
+## Use Cases
+
+- DeFi application development
+- NFT platform creation
+- DAO governance systems
+- Decentralized identity
+- Supply chain tracking
+- Gaming and metaverse applications
+
+## Pricing
+
+Most development tools are free and open source. Node providers offer free tiers:
+- Infura: Free tier with 100,000 requests/day
+- Alchemy: Free tier with 300M compute units/month
+- QuickNode: Free trial available

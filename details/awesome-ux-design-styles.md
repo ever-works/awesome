@@ -1,126 +1,150 @@
 ## Overview
 
-Awesome UX Design Styles provides a comprehensive collection of style guides and design systems from major tech companies and organizations, helping designers and developers create consistent, accessible user experiences.
+Awesome UX Design Styles focuses specifically on design systems and style guides from major companies and open-source projects.
 
 ## Major Design Systems
 
-### Tech Giants
+### Tech Companies
 
-- **Google Material Design**: Comprehensive design language with components, guidelines, and tools
-- **Apple Human Interface Guidelines**: Design principles for iOS, macOS, watchOS, and tvOS
-- **Microsoft Fluent Design**: Cross-platform design system for Windows and web
-- **IBM Carbon Design System**: Open-source design system for enterprise products
-- **Salesforce Lightning Design System**: Enterprise UX framework
+**GitHub - Primer**
+- Resources, tooling, and design guidelines for building websites with Primer
+- GitHub's front-end framework
+- React components and design tokens
+- Accessibility-first approach
 
-### Developer Tools & Platforms
+**Shopify - Polaris**
+- Design system for Shopify products
+- React component library
+- Design guidelines and patterns
+- Admin interface standards
 
-- **Atlassian Design System**: Guidelines for Jira, Confluence, and other products
-- **GitHub Primer**: Design system for GitHub's interfaces
-- **GitLab Pajamas**: GitLab's design system
-- **Stripe**: Payment interface design patterns
-- **Mailchimp Pattern Library**: Email marketing design system
+**Atlassian - Atlaskit**
+- Component library for Atlassian products
+- React-based components
+- Design guidelines
+- Accessibility compliance
 
-### E-commerce & Consumer
+**IBM - Carbon Design System**
+- Open-source design system
+- Components for React, Vue, Angular
+- Design kits for Figma and Sketch
+- Comprehensive documentation
 
-- **Shopify Polaris**: Design system for commerce experiences
-- **Airbnb Design Language System (DLS)**: Travel and hospitality UX
-- **Uber Base**: Ride-sharing interface patterns
-- **Walmart Design System**: Retail experience guidelines
+### Design Tool Companies
+
+**Figma - Design System**
+- Component library and guidelines
+- Auto-layout patterns
+- Design tokens
+- Best practices
+
+**Adobe - Spectrum**
+- Design system for Adobe products
+- Cross-platform consistency
+- Accessibility standards
+- Interaction patterns
+
+## Industry-Specific Systems
+
+### Enterprise
+- **Salesforce Lightning** - Enterprise app design
+- **Microsoft Fluent** - Cross-platform design
+- **SAP Fiori** - Enterprise UX
+
+### Financial Services
+- **ING Design System** - Financial services
+- **Westpac GEL** - Banking design
+- **Capital One Design** - Fintech patterns
+
+### Government
+- **U.S. Web Design System** - Government websites
+- **GOV.UK Design System** - UK government
+- **Australian Design System** - Government services
 
 ## Design System Components
 
 ### Core Elements
+- Typography systems
+- Color palettes and tokens
+- Spacing and layout grids
+- Iconography libraries
+- Component libraries
+- Motion and animation
 
-- **Typography**: Font families, sizes, weights, line heights
-- **Color Palettes**: Primary, secondary, semantic colors
-- **Spacing Systems**: Consistent margins and padding
-- **Grid Layouts**: Responsive layout structures
-- **Icons**: Standardized iconography
-
-### UI Components
-
-- Buttons and CTAs
-- Forms and inputs
-- Navigation patterns
-- Cards and containers
-- Modals and dialogs
-- Tables and lists
-- Alerts and notifications
-- Progress indicators
-
-### Patterns and Guidelines
-
-- **Accessibility**: WCAG compliance, keyboard navigation, screen readers
-- **Responsive Design**: Mobile-first, breakpoints, adaptive layouts
-- **Motion and Animation**: Transition timing, easing functions
-- **Voice and Tone**: Content writing guidelines
-- **Internationalization**: Multi-language support, RTL layouts
-
-## Open-Source Design Systems
-
-- **Ant Design**: React UI library with enterprise focus
-- **Chakra UI**: Accessible React component library
-- **Base Web (Uber)**: React component library
-- **Evergreen (Segment)**: React UI framework
-- **Blueprint (Palantir)**: React-based toolkit
-
-## Resources by Category
-
-### Mobile Design
-
-- iOS design resources
-- Android Material guidelines
-- React Native design patterns
-- Flutter material design
-
-### Web Design
-
-- Responsive web design
-- Progressive web apps
-- Single-page applications
-- Web accessibility
-
-### Product Design
-
-- User research integration
-- Usability testing
-- Design thinking
-- Prototyping workflows
-
-## Learning from Design Systems
-
-### Best Practices
-
-- Component architecture
-- Design tokens and variables
-- Documentation standards
-- Version control for design
-- Collaboration between design and development
-
-### Implementation Tools
-
-- **Figma**: Design system libraries and components
-- **Sketch**: Shared libraries and symbols
-- **Storybook**: Component documentation and testing
-- **Chromatic**: Visual testing for components
-
-## Design System Governance
-
+### Documentation
+- Component usage guidelines
+- Code examples
+- Design principles
+- Accessibility guidelines
 - Contribution guidelines
-- Review processes
-- Deprecation policies
-- Migration strategies
-- Community engagement
 
-## Benefits of Using Design Systems
+## Style Guide Tools
 
-- **Consistency**: Unified experience across products
-- **Efficiency**: Reusable components save time
-- **Scalability**: Easy to maintain and extend
-- **Collaboration**: Shared language between teams
-- **Accessibility**: Built-in compliance
-- **Quality**: Tested, production-ready components
+### Documentation
+- **Storybook** - Component development environment
+- **Docz** - Documentation generator
+- **Styleguidist** - Component documentation
+- **ZeroHeight** - Design system documentation
+
+### Design Tokens
+- **Style Dictionary** - Token transformation
+- **Theo** - Design token framework
+- **Diez** - Design token engine
+
+## Accessibility Resources
+
+- WCAG compliance guidelines
+- Color contrast checkers
+- Screen reader testing
+- Keyboard navigation patterns
+- ARIA implementation examples
+
+## Design Principles
+
+### Common Principles
+- Consistency across platforms
+- Accessibility for all users
+- Performance and speed
+- Flexibility and customization
+- Scalability and maintenance
+
+## Implementation
+
+### Code Libraries
+- React implementations
+- Vue.js versions
+- Angular components
+- Web components
+- Native mobile libraries
+
+### Design Tools
+- Figma libraries
+- Sketch symbols
+- Adobe XD kits
+- Abstract collections
+
+## Features
+
+- Real-world design systems
+- Industry best practices
+- Accessibility compliance
+- Component documentation
+- Design token systems
+- Multi-platform support
+
+## Use Cases
+
+- Building design systems
+- Learning from established systems
+- Component library development
+- Design consistency enforcement
+- Accessibility implementation
+- Design-developer collaboration
 
 ## Pricing
 
-Free and open-source repository featuring both free and proprietary design systems.
+Most design systems are free and open source. Tools vary:
+- Storybook: Free and open source
+- ZeroHeight: From $16/user/month
+- Abstract: From $9/user/month
+- Figma: Free tier, Professional $12/editor/month

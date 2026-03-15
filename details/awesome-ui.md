@@ -1,136 +1,170 @@
 ## Overview
 
-Awesome UI provides comprehensive resources for UI/UX designers and developers to create exceptional user interfaces, from design theory to practical implementation tools.
+Awesome UI is a curated collection of UI and UX resources covering theory, practical tutorials, books, libraries, and design tools.
 
-## Design Systems
+## UI Design Theory
 
-### Enterprise Design Systems
+### Fundamentals
+- Color theory and psychology
+- Typography principles
+- Layout and composition
+- Visual hierarchy
+- White space and balance
+- Grid systems
 
-- **Material Design (Google)**: Comprehensive design system with components and guidelines
-- **Fluent Design (Microsoft)**: Cross-platform design system
-- **Carbon Design (IBM)**: Open-source design system for products
-- **Atlassian Design System**: Design resources for Atlassian products
-- **Polaris (Shopify)**: Design system for e-commerce interfaces
+### Design Principles
+- Consistency and standards
+- Feedback and response
+- Affordance and signifiers
+- Progressive disclosure
+- Fitts's law
+- Hick's law
+
+## UX Design Theory
+
+### Research Methods
+- User interviews
+- Usability testing
+- A/B testing
+- Card sorting
+- Personas and user stories
+- Journey mapping
+
+### Information Architecture
+- Content strategy
+- Navigation patterns
+- Taxonomy design
+- Search functionality
+- Site structure
+
+## Tutorials & Learning
+
+### Beginner Resources
+- Introduction to UI design
+- UX design fundamentals
+- Design thinking process
+- Prototyping basics
+- User research methods
+
+### Advanced Topics
+- Micro-interactions
+- Animation and motion design
+- Responsive design patterns
+- Mobile-first design
+- Accessibility (a11y)
+
+## Books
+
+### Essential Reading
+- Don't Make Me Think (Steve Krug)
+- The Design of Everyday Things (Don Norman)
+- About Face: Essentials of Interaction Design
+- Designing Interfaces (Jenifer Tidwell)
+- 100 Things Every Designer Needs to Know About People
+
+### Specialized Topics
+- Mobile design patterns
+- Web form design
+- Microinteractions
+- Design systems
+
+## UI Libraries & Frameworks
 
 ### Component Libraries
+- **Bootstrap** - Most popular CSS framework
+- **Material-UI** - React Material Design components
+- **Tailwind CSS** - Utility-first CSS
+- **Bulma** - Modern CSS framework
+- **Foundation** - Responsive front-end framework
 
-#### React
-- Material-UI (MUI): Material Design components
-- Ant Design: Enterprise-level UI design
-- Chakra UI: Modular component library
-- Mantine: Fully featured React components
-- shadcn/ui: Re-usable components with Radix UI
+### React Libraries
+- Ant Design
+- Chakra UI
+- Semantic UI React
+- Blueprint
+- Evergreen
 
-#### Vue
-- Vuetify: Material Design framework
-- Element Plus: Vue 3 component library
-- Naive UI: Vue 3 components
+### Vue Libraries
+- Vuetify
+- Quasar
+- Element Plus
+- Buefy
 
-#### Angular
-- Angular Material: Official Material Design components
-- PrimeNG: Rich UI component suite
+## Design Patterns
 
-## UI Resources
-
-### Icon Libraries
-
-- **Font Awesome**: Comprehensive icon set
-- **Material Icons**: Google's icon library
-- **Heroicons**: Tailwind CSS icons
-- **Feather Icons**: Simply beautiful icons
-- **Phosphor Icons**: Flexible icon family
-- **Lucide**: Community fork of Feather Icons
-
-### Typography
-
-- **Google Fonts**: Free, open-source fonts
-- **Adobe Fonts**: Professional typeface library
-- **Font Pair**: Typography pairing suggestions
-- **Typewolf**: Font inspiration and recommendations
-- **Fontsource**: Self-hosted font packages
-
-### Color Tools
-
-- **Coolors**: Color scheme generator
-- **Adobe Color**: Color wheel and palettes
-- **Colormind**: AI-powered color palette generator
-- **Paletton**: Color scheme designer
-- **Color Hunt**: Curated color palettes
-
-## Prototyping and Design Tools
-
-### Design Software
-
-- **Figma**: Collaborative interface design
-- **Adobe XD**: UI/UX design and prototyping
-- **Sketch**: macOS design tool
-- **Framer**: Interactive design and prototyping
-- **Penpot**: Open-source design platform
-
-### UI Inspiration
-
-- **Dribbble**: Design inspiration community
-- **Behance**: Creative portfolios
-- **Awwwards**: Web design awards and inspiration
-- **Mobbin**: Mobile and web UI patterns
-- **UI Garage**: Specific UI element references
-
-## Accessibility
-
-- **WCAG Guidelines**: Web Content Accessibility Guidelines
-- **ARIA Practices**: Accessible Rich Internet Applications
-- **Color Contrast Checkers**: WCAG compliance tools
-- **Screen Reader Testing**: Accessibility validation
-
-## Animation and Interaction
-
-- **Framer Motion**: React animation library
-- **GSAP**: Professional animation platform
-- **Lottie**: JSON-based animations
-- **Anime.js**: Lightweight JavaScript animation
-- **Motion One**: Modern animation library
-
-## CSS Frameworks and Utilities
-
-- **Tailwind CSS**: Utility-first CSS framework
-- **Bootstrap**: Popular component framework
-- **Bulma**: Modern CSS framework
-- **Foundation**: Responsive front-end framework
-
-## UI Patterns and Guidelines
-
-### Design Patterns
-
-- Navigation patterns
-- Form design best practices
+### Common Patterns
+- Navigation patterns (hamburger, tab bar, sidebar)
+- Form patterns (inline validation, multi-step)
 - Modal and dialog patterns
 - Card layouts
-- Data visualization
-- Empty states
-- Loading states and skeletons
+- Infinite scroll vs pagination
 
-### Responsive Design
+### Mobile Patterns
+- Pull to refresh
+- Swipe gestures
+- Bottom sheets
+- Tab bars
+- Navigation drawers
 
-- Mobile-first approach
-- Breakpoint strategies
-- Fluid typography
-- Responsive images
+## Inspiration Sites
 
-## Learning Resources
+- **Dribbble** - Design showcase
+- **Behance** - Creative portfolios
+- **Mobbin** - Mobile UI patterns
+- **UI Movement** - UI design inspiration
+- **Collect UI** - Daily design inspiration
+- **Pages.xyz** - Landing page examples
 
-- UI design principles
-- Visual hierarchy
-- Typography fundamentals
-- Color theory
-- Layout and composition
-- User psychology
+## Free Resources
 
-## Testing and Validation
+### Photos & Illustrations
+- Unsplash - Free photos
+- unDraw - Illustrations
+- Humaaans - Character illustrations
+- DrawKit - Vector illustrations
 
-- **Chromatic**: Visual testing for Storybook
-- **Percy**: Visual review platform
-- **Browser testing tools**: Cross-browser compatibility
+### Icons
+- Heroicons
+- Feather Icons
+- Ionicons
+- Material Icons
+- Remix Icon
+
+### Mockups
+- Mockup World
+- Freepik mockups
+- GraphicBurger
+
+## Tools
+
+- **Figma** - Collaborative design
+- **Sketch** - Mac design tool
+- **Adobe XD** - Design and prototype
+- **InVision** - Prototyping platform
+- **Zeplin** - Design handoff
+
+## Features
+
+- Comprehensive theory coverage
+- Practical tutorials
+- Design pattern library
+- Free resources
+- Tool recommendations
+- Book suggestions
+
+## Use Cases
+
+- Learning UI/UX design
+- Building design systems
+- Finding inspiration
+- Creating prototypes
+- Design research
+- Portfolio building
 
 ## Pricing
 
-Free and open-source repository with links to both free and paid design tools.
+Most resources are free. Tools vary:
+- Figma: Free tier, Professional $12/editor/month
+- Sketch: $99 one-time or $9/month
+- Books: $20-50
+- Courses: $10-200

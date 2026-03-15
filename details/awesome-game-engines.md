@@ -1,53 +1,84 @@
 ## Overview
 
-Awesome Game Engines is a comprehensive collection of game engines, frameworks, and tools for creating 2D and 3D games across various platforms.
+Awesome Game Engines is a curated collection of game engines, frameworks, tools, and learning resources for game developers across all skill levels and target platforms.
 
-## Features
+## 2D Game Engines
 
-- **Open Source Engines**: Godot, Bevy, Fyrox, and more
-- **Commercial Engines**: Unity, Unreal Engine (with free tiers)
-- **2D Engines**: Specialized 2D game development tools
-- **3D Engines**: Full-featured 3D game creation platforms
-- **Web Game Engines**: HTML5 and WebGL game frameworks
-- **Mobile Support**: Cross-platform mobile game development
-- **Asset Pipelines**: Tools for game art and asset management
-- **Physics Engines**: Integrated and standalone physics solutions
+### Open Source
+- **Godot** - Fully open-source engine for 2D and 3D
+- **Defold** - Professional 2D game engine
+- **Phaser** - HTML5 game framework
+- **Cocos2d-x** - Cross-platform 2D game framework
 
-## Major Engines
+### Commercial
+- **GameMaker** - Accessible 2D game development
+- **Construct** - Visual game creator
 
-- **Godot Engine**: Completely free and open-source for 2D and 3D games
-- **Unity**: Industry-standard engine with free tier
-- **Unreal Engine**: AAA-quality engine, free with royalty model
-- **Construct 3**: No-code game engine
-- **GameMaker Studio 2**: Popular 2D engine
-- **Bevy**: Modern Rust-based game engine
+## 3D Game Engines
 
-## Engine Categories
+### Professional Engines
+- **Unreal Engine 5** - AAA-quality engine with Nanite and Lumen
+- **Unity** - Industry-leading multi-platform engine
+- **Godot** - Open-source 3D capabilities
+- **CryEngine** - High-fidelity graphics engine
 
-- Multi-purpose 3D engines
-- 2D-focused engines
-- Web/HTML5 engines
-- Mobile-first engines
-- Retro/pixel art engines
-- Visual scripting engines
-- Code-based frameworks
+### Specialized Engines
+- **Source 2** - Valve's engine for Source games
+- **Amazon Lumberyard** - Free AAA engine from AWS
 
-## Programming Languages
+## Frameworks & Libraries
 
-- C++ engines (Unreal, custom)
-- C# engines (Unity, Godot)
-- Rust engines (Bevy)
-- JavaScript/TypeScript (web engines)
-- GDScript (Godot)
-- Visual scripting options
+### Programming Language Specific
+- **MonoGame** - C# game framework
+- **LibGDX** - Java game framework
+- **LÖVE** - Lua 2D framework
+- **Raylib** - C library for game programming
+- **Pygame** - Python game development
+
+### Modern Frameworks
+- **Bevy** - Data-driven Rust game engine
+- **Amethyst** - Data-oriented Rust engine
+
+## Learning Resources
+
+### Official Platforms
+- **Unity Learn** - Official Unity learning platform
+- **Unreal Engine Academy** - Official Unreal courses
+- **Official Godot Tutorials** - Godot documentation and guides
+
+### Community Resources
+- YouTube tutorials
+- Game development books
+- Online courses (Udemy, Coursera)
+- Game jams and communities
+
+## Tools & Utilities
+
+### Level Editors
+- Tiled Map Editor
+- LDtk (Level Designer Toolkit)
+
+### Asset Creation
+- Blender - 3D modeling and animation
+- Aseprite - Pixel art tool
+- GIMP - Image editing
 
 ## Platform Support
 
 - Desktop (Windows, macOS, Linux)
 - Mobile (iOS, Android)
-- Web browsers
-- Consoles (varies by engine)
+- Web (HTML5, WebGL)
+- Consoles (PlayStation, Xbox, Switch)
 - VR/AR platforms
+
+## Features
+
+- Multi-platform deployment
+- Visual scripting options
+- Physics engines
+- Asset pipelines
+- Multiplayer support
+- VR/AR capabilities
 
 ## Use Cases
 
@@ -56,9 +87,12 @@ Awesome Game Engines is a comprehensive collection of game engines, frameworks, 
 - Mobile games
 - Web games
 - Educational games
-- Prototyping
-- Game jams
+- Game prototyping
 
 ## Pricing
 
-Free and open-source repository featuring engines with various pricing models.
+- Godot: Free and open source
+- Unity: Free tier, Plus ($40/month), Pro ($150/month)
+- Unreal: Free with 5% revenue royalty
+- GameMaker: $4.99-$79.99/month
+- Defold: Free and open source

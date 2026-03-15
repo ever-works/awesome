@@ -1,36 +1,116 @@
-# Awesome Kubernetes
+## Overview
 
-**Website:** https://github.com/ramitsurana/awesome-kubernetes#readme  
-**Category:** Themed Directories  
-**Tags:** kubernetes, cloud, awesome-lists
+Awesome Kubernetes provides comprehensive resources for Kubernetes, the leading container orchestration platform for cloud-native applications.
 
-## Description
-Awesome Kubernetes is a curated, community-maintained directory of Kubernetes resources. It collects links to tools, documentation, tutorials, and best practices for running and managing containerized applications with Kubernetes.
+## Monitoring & Observability
+
+### Metrics
+- **Prometheus** - Powerful system metrics for Kubernetes with time-series database
+- **Grafana** - Beautiful metrics dashboards and visualization
+- **VictoriaMetrics** - Fast, cost-effective monitoring solution
+- **Thanos** - Highly available Prometheus setup
+
+### Logging
+- **Elasticsearch/Fluentd/Kibana** - EFK stack for logging
+- **Loki** - Log aggregation system from Grafana Labs
+- **Fluent Bit** - Lightweight log processor
+
+### Distributed Tracing
+- **Jaeger** - Distributed tracing platform
+- **Zipkin** - Distributed tracing system
+- **OpenTelemetry** - Observability framework
+
+## GitOps
+
+- **ArgoCD** - Declarative, GitOps continuous delivery tool for Kubernetes
+- **Flux** - GitOps toolkit for Kubernetes
+- **Jenkins X** - CI/CD solution for cloud-native apps
+
+## Service Mesh
+
+- **Linkerd** - Ultra-light, zero-config Kubernetes service mesh
+- **Istio** - Feature-rich, powerful service mesh with advanced traffic management
+- **Consul** - Service mesh and service discovery
+- **Kuma** - Universal service mesh
+
+## Security
+
+- **cert-manager** - Automatic TLS certificate management
+- **Falco** - Cloud-native runtime security
+- **OPA (Open Policy Agent)** - Policy enforcement
+- **Kyverno** - Kubernetes native policy management
+- **Trivy** - Vulnerability scanner
+
+## Networking
+
+### CNI Plugins
+- **Calico** - Network policy and security
+- **Cilium** - eBPF-based networking
+- **Weave Net** - Simple overlay network
+- **Flannel** - Simple network fabric
+
+### Ingress Controllers
+- **NGINX Ingress** - Most popular ingress controller
+- **Traefik** - Modern HTTP reverse proxy
+- **HAProxy Ingress** - High-performance ingress
+- **Contour** - Envoy-based ingress
+
+## Storage
+
+- **Rook** - Cloud-native storage orchestrator
+- **Longhorn** - Distributed block storage
+- **OpenEBS** - Container-attached storage
+- **Velero** - Backup and migrate Kubernetes resources
+
+## Application Deployment
+
+### Package Managers
+- **Helm** - Kubernetes package manager
+- **Kustomize** - Kubernetes native configuration
+- **Carvel** - Set of composable tools
+
+### Operators
+- **Operator Framework** - Building Kubernetes operators
+- **Kubebuilder** - SDK for building operators
+- **KUDO** - Kubernetes Universal Declarative Operator
+
+## Development Tools
+
+- **kubectl** - Official Kubernetes CLI
+- **k9s** - Terminal UI to interact with clusters
+- **Lens** - Kubernetes IDE
+- **Octant** - Developer-centric web interface
+- **Skaffold** - Local development workflow
+
+## Cluster Management
+
+- **Rancher** - Complete Kubernetes management platform
+- **OpenShift** - Enterprise Kubernetes platform
+- **Tanzu** - VMware Kubernetes portfolio
+- **K3s** - Lightweight Kubernetes
+- **MicroK8s** - Minimal Kubernetes
 
 ## Features
-- **Curated Kubernetes Resource List**  
-  - Centralized collection of useful Kubernetes-related links and projects.
-- **Multiple Resource Types**  
-  - Tools and utilities for working with Kubernetes.  
-  - Tutorials and learning materials.  
-  - Production and operations best practices.
-- **Open Source Repository**  
-  - Hosted on GitHub with standard project files (LICENSE, Makefile, Dockerfile, CI configuration, etc.).  
-  - Contributions are managed via pull request templates and maintainer guidelines.
-- **Documentation Structure**  
-  - Dedicated `docs` directory and `mkdocs.yml` configuration, indicating structured, browsable documentation.  
-  - GitBook-style configuration (`book.json`) for organizing content.
-- **Automation & Tooling**  
-  - `deploy.sh` script for deployment-related automation.  
-  - `requirements.txt` for managing documentation/build dependencies.
-- **Project Governance & Security**  
-  - `Maintainers.md` documenting project maintainers.  
-  - `SECURITY.md` outlining security-related practices or reporting guidelines.
-- **Continuous Integration**  
-  - `.travis.yml` configuration for automated checks/builds.
+
+- Container orchestration
+- Automatic scaling
+- Self-healing capabilities
+- Service discovery and load balancing
+- Declarative configuration
+- Extensibility through operators
+
+## Use Cases
+
+- Microservices deployment
+- CI/CD pipelines
+- Multi-cloud deployments
+- Edge computing
+- Machine learning workloads
+- Batch processing
 
 ## Pricing
-- Not applicable. This is an open-source, freely accessible GitHub repository / directory of resources.
 
-## License
-- Includes a `LICENSE` file in the repository; the project is distributed under that open-source license (see repository for full details).
+Kubernetes is free and open source. Managed services vary:
+- GKE (Google): $0.10/cluster/hour + compute
+- EKS (AWS): $0.10/cluster/hour + compute  
+- AKS (Azure): Free control plane + compute
