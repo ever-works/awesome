@@ -1,57 +1,59 @@
 ## Overview
 
-How They SRE is a knowledge repository showcasing real-world Site Reliability Engineering practices from leading technology organizations.
+How They SRE is a curated knowledge repository of Site Reliability Engineering best practices, tools, techniques, and culture adopted by leading technology organizations.
 
-## Features
+## Company Practices
 
-- **Company Case Studies**: How major tech companies implement SRE
-- **Best Practices**: Proven SRE methodologies and techniques
-- **Tools and Techniques**: Technology stacks used by SRE teams
-- **Culture**: SRE team structures and organizational practices
-- **Incident Management**: Real-world incident response strategies
-- **Monitoring**: Observability and monitoring approaches
-- **Automation**: Infrastructure automation practices
-- **Post-Mortems**: Published incident reports and learnings
+### Tech Giants
+- Google - Origin of SRE practices
+- Netflix - Chaos engineering pioneers
+- Amazon - Two-pizza team model
+- Microsoft - Azure SRE practices
 
-## Organizations Featured
+### Key Areas Covered
 
-- Google (originators of SRE)
-- Netflix
-- Uber
-- LinkedIn
-- Spotify
-- Airbnb
-- And many other tech companies
+#### Incident Management
+- On-call rotations
+- Incident response procedures
+- Post-mortem processes
+- Blameless culture
 
-## Topics Covered
+#### Monitoring & Observability
+- Metrics collection
+- Distributed tracing
+- Log aggregation
+- Alert fatigue management
 
-- SLIs, SLOs, and SLAs
-- Error budgets
-- Toil reduction
+#### Automation
+- Infrastructure as Code
+- Auto-remediation
+- Deployment automation
 - Capacity planning
-- Change management
-- On-call practices
+
+#### Service Level Objectives
+- SLI definition
+- SLO setting
+- Error budgets
+- SLA management
+
+## SRE Tools & Practices
+
+- Prometheus for monitoring
+- Kubernetes for orchestration
+- Terraform for IaC
+- GitOps workflows
+- Chaos engineering tools
+
+## Team Structure
+
+- SRE team models
+- Developer/SRE collaboration
+- Skills and competencies
+- Career paths
+
+## Culture & Process
+
 - Blameless post-mortems
-- Chaos engineering
-
-## Resource Types
-
-- Technical blog posts
-- Conference talks
-- Published papers
-- Open-source tools
-- Documentation
-- Books and guides
-
-## Use Cases
-
-- Learning from industry leaders
-- Implementing SRE practices
-- Understanding SRE culture
-- Tool selection and evaluation
-- Team structure planning
-- Benchmarking practices
-
-## Pricing
-
-Free and open-source repository on GitHub.
+- Learning from failures
+- Operational excellence
+- Toil reduction
