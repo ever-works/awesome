@@ -1,5 +1,36 @@
-# Awesome Networking
+## Overview
 
-A curated Awesome-style list of networking libraries, tools, and learning resources, serving as a meta-directory for network programming and related topics.
+Comprehensive collection of networking learning resources including courses, books, and tutorials.
 
-[https://wiki.installgentoo.com/wiki/Cybersecurity_-_basics_and_armory](https://wiki.installgentoo.com/wiki/Cybersecurity_-_basics_and_armory)
+## Core Topics
+
+- OSI model
+- TCP/IP stack
+- Routing protocols
+- Network security
+- Wireless networking
+
+## Tools
+
+- Wireshark
+- tcpdump
+- nmap
+- iperf
+- netcat
+
+## Learning Paths
+
+- Network fundamentals
+- Network administration
+- Network security
+- Cloud networking
+
+## Certifications
+
+- Cisco CCNA/CCNP
+- CompTIA Network+
+- Juniper JNCIA
+
+## Pricing
+
+Mostly free learning resources.
