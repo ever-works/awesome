@@ -1,41 +1,21 @@
 ## Overview
 
-Comprehensive summary of LLM resources including multimodal models, agents, and tooling.
+Awesome LLM Resources is a comprehensive collection summarizing the world's best resources for Large Language Models, covering the full spectrum of LLM development and deployment.
 
-## Multimodal Models
+## Features
 
-- GPT-4V/o
-- Claude 3.5 Sonnet
-- Gemini
-- LLaVA
-
-## AI Agents
-
-- OmAgent - Multimodal agent framework
-- TEN - Real-time multimodal AI
-- AutoGen
-- LangGraph
-
-## Model Training
-
-- DeepSpeed
-- Megatron-LM
-- FSDP
-- LoRA/QLoRA
-
-## Inference
-
-- vLLM
-- TGI (Text Generation Inference)
-- llama.cpp
-- Ollama
-
-## Applications
-
-- Code generation
-- Data processing
-- Research assistance
+- Multimodal Generation
+- AI Agents
+- Programming Assistance
+- AI Paper Review
+- Data Processing
+- Model Training
+- Model Inference
+- o1 Models
+- MCP Protocol
+- Small Language Models
+- Vision-Language Models
 
 ## Pricing
 
-Mixed open-source and commercial.
+Free and open-source resource.
