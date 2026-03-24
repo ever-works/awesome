@@ -1,27 +1,46 @@
 ## Overview
 
-Awesome SolidJS is a community-curated collection of resources for SolidJS, a reactive JavaScript framework that compiles to efficient imperative code. SolidJS offers React-like syntax with fine-grained reactivity and superior performance.
+Awesome SolidJS provides resources for SolidJS, the declarative JavaScript library with fine-grained reactivity.
 
-## Features
+## What is SolidJS?
 
-- Official SolidJS documentation and guides
-- SolidStart meta-framework resources
-- UI component libraries and design systems for Solid
-- State management solutions for SolidJS
-- Routing libraries and navigation patterns
-- Form handling and validation libraries
-- Animation and transition utilities
-- Data fetching and API integration patterns
-- Testing frameworks and utilities for Solid
-- Build tools and development environment setup
-- Deployment guides and hosting solutions
-- Performance optimization techniques
-- Migration guides from React and other frameworks
-- Real-world SolidJS application examples
-- Video tutorials and learning courses
-- Community plugins and extensions
-- SolidJS primitives and hooks
+A declarative JavaScript library for building user interfaces with fine-grained reactivity and no virtual DOM, offering React-like syntax with better performance.
+
+## Key Features
+
+- **Fine-Grained Reactivity** - Precise updates without virtual DOM
+- **React-like Syntax** - Familiar JSX and hooks
+- **Performance** - Faster than React and Vue
+- **Small Bundle** - Minimal runtime overhead
+- **TypeScript** - Full TypeScript support
+
+## Ecosystem
+
+- **SolidStart** - Full-stack meta-framework
+- **Solid Router** - Universal router
+- **Solid UI** - Component libraries
+- **Solid Primitives** - Community primitives
+
+## UI Libraries
+
+- Hope UI
+- Solid UI
+- Kobalte
+- Solid ARIA
+
+## Meta-Frameworks
+
+- SolidStart (official)
+- Astro with Solid
+- Vite integration
+
+## Use Cases
+
+- High-performance web apps
+- Interactive UIs
+- Real-time applications
+- SSR/SSG sites
 
 ## Pricing
 
-Free and open-source framework with community resources.
+Free and open-source library.
