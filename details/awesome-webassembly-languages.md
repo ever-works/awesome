@@ -1,189 +1,193 @@
 ## Overview
 
-Awesome WebAssembly Languages catalogs programming languages that can target WebAssembly, either through direct compilation or by running their virtual machines in Wasm. This demonstrates WebAssembly's versatility as a compilation target.
+WebAssembly (Wasm) is a binary instruction format that enables near-native performance in web browsers and beyond. This list tracks languages that can compile to or run on WebAssembly.
 
-## What is WebAssembly?
+## Features
 
-WebAssembly (Wasm) is a binary instruction format for a stack-based virtual machine, designed as a portable compilation target for programming languages, enabling deployment on the web for client and server applications.
+### System Programming Languages
 
-## Language Categories
+#### C and C++
+- **Emscripten**: LLVM-to-WebAssembly compiler
+  - Mature toolchain
+  - Extensive library porting
+  - SDL, OpenGL support
+  - POSIX compatibility layer
 
-### Systems Languages
+- **wasi-sdk**: WebAssembly System Interface SDK
+  - Standalone Wasm compilation
+  - No browser dependencies
+  - Command-line tools
 
-- **Rust**: First-class WebAssembly support with `wasm-bindgen`
-- **C/C++**: Via Emscripten toolchain
-- **Zig**: Native WebAssembly backend
+#### Rust
+- **wasm-pack**: Build and publish Rust Wasm
+- **wasm-bindgen**: JavaScript and WebAssembly interop
+- **web-sys**: Web API bindings
+- **yew**: React-like frontend framework
+- **trunk**: Wasm web application bundler
+
+#### Go
+- **TinyGo**: Go compiler for small places
+  - Smaller binary sizes
+  - Better Wasm support than standard Go
+  - WASI support
+- **Standard Go**: Official WebAssembly support
+
+#### Zig
+- Native WebAssembly target
+- No runtime overhead
+- C interoperability
+- Cross-compilation support
+
+### High-Level Languages
+
+#### JavaScript/TypeScript
 - **AssemblyScript**: TypeScript-like language for WebAssembly
+  - TypeScript syntax
+  - No garbage collector
+  - Direct Wasm compilation
+  - Loader and runtime support
+
+#### Python
+- **Pyodide**: Python scientific stack in browser
+  - NumPy, Pandas, Matplotlib
+  - Jupyter notebook support
+  - Full Python interpreter
+
+- **RustPython**: Python interpreter in Rust/Wasm
+- **MicroPython**: Embedded Python with Wasm support
+
+#### .NET Languages (C#, F#)
+- **Blazor WebAssembly**: .NET in browser
+  - Full .NET runtime
+  - Razor components
+  - SignalR support
+  - AOT compilation
+
+#### Java/JVM
+- **TeaVM**: Java bytecode to WebAssembly
+- **CheerpJ**: JVM in WebAssembly
+- **Kotlin/Wasm**: Kotlin compiler for Wasm
 
 ### Functional Languages
 
-- **Haskell**: GHC WebAssembly backend
-- **OCaml**: js_of_ocaml for WebAssembly
-- **F#**: Through Fable compiler
-- **Elm**: Experimental WebAssembly support
+#### Haskell
+- **Asterius**: Haskell to WebAssembly compiler
+- GHC with Wasm backend (experimental)
+
+#### OCaml
+- **js_of_ocaml**: OCaml bytecode to JavaScript/Wasm
+- **Wasm backend**: Native OCaml Wasm compilation
+
+#### Scheme/Lisp
+- **Guile**: Scheme with Wasm support
+- **BiwaScheme**: Scheme interpreter in JavaScript/Wasm
+
+#### Elm
+- **elm-wasm**: Experimental Wasm backend
+
+### Domain-Specific Languages
+
+#### Grain
+- Purpose-built for WebAssembly
+- ML-like syntax
+- Garbage collected
+- Modern type system
+
+#### Motoko
+- Internet Computer language
+- Native Wasm compilation
+- Actor-based concurrency
+
+#### Gleam
+- Type-safe functional language
+- Erlang VM and WebAssembly targets
+- Friendly syntax
 
 ### Scripting Languages
 
-- **Python**: Pyodide brings CPython to WebAssembly
-- **Ruby**: ruby.wasm project
-- **Lua**: Compiled to WebAssembly
-- **PHP**: WebAssembly PHP runtime
+#### Ruby
+- **ruby.wasm**: CRuby on WebAssembly
+- Full Ruby compatibility
+- WASI support
 
-### Application Languages
+#### Lua
+- **wasm3-lua**: Lua running on Wasm3
+- **wasmoon**: Lua VM in WebAssembly
 
-- **Go**: TinyGo for WebAssembly
-- **Java/Kotlin**: TeaVM, CheerpJ
-- **C#**: Blazor WebAssembly
-- **Swift**: SwiftWasm
+#### PHP
+- **php-wasm**: PHP interpreter in Wasm
+- WordPress in browser
 
-## Toolchains
+### Emerging Languages
 
-### Emscripten
+#### Moonbit
+- WebAssembly-first language
+- Fast compilation
+- Small binaries
+- Modern tooling
 
-Comprehensive toolchain for:
-- C and C++ compilation
-- POSIX API emulation
-- OpenGL to WebGL translation
-- Large codebase porting
+#### Virgil
+- Fast and lightweight
+- Native Wasm target
+- Systems programming focus
 
-### LLVM Backend
+### Language VMs in WebAssembly
 
-Many languages use LLVM's WebAssembly backend:
-- Rust
-- Swift
-- Kotlin Native
-- Crystal
+#### Python
+- **Pyodide**: CPython in Wasm
+- **Brython**: Python in browser
 
-## Web Frameworks
+#### Ruby
+- **ruby.wasm**: Ruby interpreter
 
-### Rust
-- **Yew**: React-like framework
-- **Seed**: Elm-inspired framework
-- **Percy**: Virtual DOM library
+#### Lua
+- **Fengari**: Lua VM in JavaScript/Wasm
 
-### AssemblyScript
-- Type-safe TypeScript subset
-- Direct WebAssembly generation
+#### PHP
+- **php-wasm**: Full PHP runtime
+
+### WebAssembly Runtimes
+
+#### Standalone Runtimes
+- **Wasmtime**: Standalone JIT compiler
+- **Wasmer**: Universal runtime
+- **WasmEdge**: Cloud-native runtime
+- **WAMR**: Embedded runtime
+- **wasm3**: Fast interpreter
+
+#### Browser Support
+- All major browsers (Chrome, Firefox, Safari, Edge)
 - Near-native performance
+- Sandboxed execution
+- Streaming compilation
 
-### C#/Blazor
-- Component-based UI
-- .NET Standard libraries
-- SignalR integration
+### Tooling and Standards
 
-## Domain-Specific Languages
+#### WebAssembly System Interface (WASI)
+- Standardized system APIs
+- File system access
+- Network sockets
+- Environment variables
+- Portable across runtimes
 
-- **Grain**: Web-first language
-- **Motoko**: Internet Computer language
-- **Moonbit**: ML-like language
-- **Virgil**: Fast and lightweight
+#### Component Model
+- Language-neutral interfaces
+- Composable Wasm modules
+- Interface Types
+- Canonical ABI
 
-## Language VMs in Wasm
+## Use Cases
 
-### Running Interpreters
-- **Python** via Pyodide
-- **Ruby** via ruby.wasm
-- **PHP** WASM build
-- **Lua** WebAssembly VM
+- High-performance web applications
+- Game engines and graphics
+- Scientific computing in browser
+- Video/audio processing
+- Cryptography and blockchain
+- Serverless edge computing
+- Portable command-line tools
+- Plugin systems
+- Cross-platform applications
 
-### JIT Compilation
-- Wasmtime JIT
-- Wasmer runtime
-- JavaScript engines in Wasm
+## Pricing
 
-## Use Cases by Language
-
-### Performance-Critical
-Use C/C++, Rust, or Zig for:
-- Image/video processing
-- Cryptography
-- Scientific computing
-- Game engines
-
-### Rapid Development
-Use AssemblyScript, Go, or C# for:
-- Web applications
-- Business logic
-- Data visualization
-- Interactive tools
-
-### Existing Codebases
-Port Python, Ruby, or Java for:
-- Legacy app migration
-- Library reuse
-- Incremental adoption
-
-## Language Features
-
-### Memory Management
-- Manual (C/C++)
-- Ownership (Rust)
-- Garbage Collection (Go, C#)
-- Reference Counting (Swift)
-
-### Type Systems
-- Static typing (most compiled languages)
-- Dynamic typing (Python, Ruby)
-- Gradual typing (TypeScript/AssemblyScript)
-
-## Bindings & Interop
-
-### JavaScript Integration
-- **wasm-bindgen** (Rust)
-- **Emscripten** (C/C++)
-- **Blazor JSInterop** (C#)
-- Language-specific bridges
-
-### Web APIs
-- DOM manipulation
-- Fetch API
-- WebGL
-- Web Workers
-
-## Build Tools
-
-- **wasm-pack** for Rust
-- **asc** for AssemblyScript
-- **dotnet** for Blazor
-- **TinyGo** for Go
-
-## Debugging & Profiling
-
-- Browser DevTools
-- Source maps support
-- DWARF debugging info
-- Performance profilers
-
-## Package Ecosystems
-
-- Cargo (Rust)
-- npm (AssemblyScript/JavaScript)
-- NuGet (C#)
-- Language-specific package managers
-
-## Learning Resources
-
-- Official language documentation
-- WebAssembly tutorials
-- Example projects
-- Community forums
-
-## Challenges
-
-- Exception handling
-- Threading support
-- GC integration
-- Binary size
-- Debugging experience
-
-## Future Developments
-
-- WASI (WebAssembly System Interface)
-- Component model
-- GC proposal
-- Threads and atomics
-- SIMD operations
-
-## Community
-
-Active communities for each language working on WebAssembly support, sharing best practices, and building tools.
+All languages and toolchains listed are free and open-source. WebAssembly is an open standard maintained by the W3C WebAssembly Working Group.
