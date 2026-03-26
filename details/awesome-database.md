@@ -1,35 +1,95 @@
 ## Overview
 
-Comprehensive collection of database systems, libraries, and resources across all database paradigms.
+Awesome Database is a curated list of database libraries and resources covering database systems, tools, and concepts.
 
-## SQL Databases
+## Database Systems
 
+### Relational
 - PostgreSQL
 - MySQL/MariaDB
-- SQLite
 - Oracle
-- SQL Server
+- Microsoft SQL Server
+- SQLite
 
-## NoSQL Databases
+### NoSQL Document
+- MongoDB
+- CouchDB
+- RavenDB
+- Firebase Firestore
 
-- MongoDB - Document store
-- Redis - Key-value store
-- Cassandra - Wide column store
-- Neo4j - Graph database
+### Key-Value
+- Redis
+- DynamoDB
+- etcd
+- Riak
 
-## NewSQL
+### Column-Family
+- Apache Cassandra
+- HBase
+- ScyllaDB
 
+### Graph
+- Neo4j
+- ArangoDB
+- Amazon Neptune
+
+### Time-Series
+- InfluxDB
+- TimescaleDB
+- Prometheus
+
+### NewSQL
 - CockroachDB
 - TiDB
-- YugabyteDB
 - VoltDB
 
-## Specialized
+## Database Tools
 
-- InfluxDB - Time series
-- Elasticsearch - Search engine
-- Dgraph - Graph database
+### Design & Modeling
+- ER/Studio
+- MySQL Workbench
+- pgModeler
+- dbdiagram.io
 
-## Pricing
+### Administration
+- DBeaver
+- Adminer
+- phpMyAdmin
+- pgAdmin
 
-Mostly open-source with commercial options.
+### Query Tools
+- DataGrip
+- SQL Developer
+- Azure Data Studio
+
+### Benchmarking
+- sysbench
+- pgbench
+- HammerDB
+
+## Database Concepts
+
+### Normalization
+- First Normal Form (1NF)
+- Second Normal Form (2NF)
+- Third Normal Form (3NF)
+- Boyce-Codd Normal Form (BCNF)
+
+### Transactions
+- ACID properties
+- Isolation levels
+- Concurrency control
+- Locking mechanisms
+
+### Query Optimization
+- Query execution plans
+- Index selection
+- Join algorithms
+- Statistics and cardinality
+
+## Learning Resources
+
+- Database textbooks
+- Online courses
+- Tutorials and guides
+- Best practices documentation
