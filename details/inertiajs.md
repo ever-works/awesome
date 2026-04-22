@@ -1,5 +1,5 @@
 # Inertia.js
 
-A curated collection of resources for Inertia.js, the framework for building modern monolithic applications using classic server-side routing.
+Official/community-curated list of resources for Inertia.js, including tools/plugins/docs/tutorials; features like regularly updated, community-driven; use cases: ramp up on project ecosystem; vs general awesomes: more specialized.
 
-[https](https)
+[https://github.com/innocenzi/awesome-inertiajs](https://github.com/innocenzi/awesome-inertiajs)

@@ -1,12 +1,23 @@
 ## Overview
 
-Personal collection of curated awesome lists across various domains including AI, DevOps, cybersecurity, and sustainability.
+Curated meta-collection of awesome lists with star-based rankings.
 
 ## Features
 
-- High-quality, credible resources
-- Focus on usefulness and long-term relevance
-- Open contributions via GitHub
+- Categorized by domain (tech, research, etc.)
+- Star counts and rankings
+- Community contributions
+- Focus on high-quality lists
+
+## Use Cases
+
+- Quick access to niche awesome lists
+- Track popular directories
+- Discover trends via stars
+
+## Comparisons
+
+Vs static: Includes rankings and ongoing curation.
 
 ## Pricing
 

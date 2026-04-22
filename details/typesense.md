@@ -1,5 +1,5 @@
 # Typesense
 
-A curated list of resources for Typesense, the open-source alternative to Algolia with typo tolerance and instant search.
+Official/community-curated list of resources for Typesense, including tools/plugins/docs/tutorials; features like regularly updated, community-driven; use cases: ramp up on project ecosystem; vs general awesomes: more specialized.
 
-[https](https)
+[https://github.com/typesense/awesome-typesense](https://github.com/typesense/awesome-typesense)

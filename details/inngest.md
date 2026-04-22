@@ -1,5 +1,5 @@
 # Inngest
 
-A curated collection of resources for Inngest, the durable workflow engine for TypeScript and Python.
+Official/community-curated list of resources for Inngest, including tools/plugins/docs/tutorials; features like regularly updated, community-driven; use cases: ramp up on project ecosystem; vs general awesomes: more specialized.
 
-[https](https)
+[https://github.com/inngest/awesome-inngest](https://github.com/inngest/awesome-inngest)

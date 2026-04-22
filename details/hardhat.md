@@ -1,5 +1,5 @@
 # Hardhat
 
-Curated Awesome list for Hardhat. Gathers docs, tools, extensions, community resources. Features: structured categories, high stars, active maintenance. Use cases: Hardhat onboarding; focused vs. broad awesome lists.
+Official/community-curated list of resources for Hardhat, including tools/plugins/docs/tutorials; features like regularly updated, community-driven; use cases: ramp up on project ecosystem; vs general awesomes: more specialized.
 
 [https://github.com/katat/awesome-hardhat](https://github.com/katat/awesome-hardhat)

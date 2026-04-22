@@ -1,5 +1,5 @@
 # Foundry
 
-Curated Awesome list for Foundry. Gathers docs, tools, extensions, community resources. Features: structured categories, high stars, active maintenance. Use cases: Foundry onboarding; focused vs. broad awesome lists.
+Official/community-curated list of resources for Foundry, including tools/plugins/docs/tutorials; features like regularly updated, community-driven; use cases: ramp up on project ecosystem; vs general awesomes: more specialized.
 
 [https://github.com/crisgarner/awesome-foundry](https://github.com/crisgarner/awesome-foundry)

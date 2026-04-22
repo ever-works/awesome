@@ -1,5 +1,5 @@
 # Mitosis
 
-A curated collection of resources for Mitosis, the framework-agnostic compiler that writes components once and compiles to all frameworks.
+Official/community-curated list of resources for Mitosis, including tools/plugins/docs/tutorials; features like regularly updated, community-driven; use cases: ramp up on project ecosystem; vs general awesomes: more specialized.
 
-[https](https)
+[https://github.com/BuilderIO/awesome-mitosis](https://github.com/BuilderIO/awesome-mitosis)

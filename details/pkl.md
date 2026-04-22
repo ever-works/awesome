@@ -1,5 +1,5 @@
 # Pkl
 
-A curated list of resources for Pkl, Apple's configuration-as-code language with rich validation and tooling.
+Official/community-curated list of resources for Pkl, including tools/plugins/docs/tutorials; features like regularly updated, community-driven; use cases: ramp up on project ecosystem; vs general awesomes: more specialized.
 
-[https](https)
+[https://github.com/pkl-community/awesome-pkl](https://github.com/pkl-community/awesome-pkl)

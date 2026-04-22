@@ -1,5 +1,5 @@
 # Benthos
 
-Official or community-curated Awesome list for Benthos. Compiles essential resources including docs, tools, plugins, tutorials, and related projects. Key features: regularly updated, star-ranked entries, categorized sections. Use cases: quick onboarding for Benthos users; compare to general data engineering lists like awesome-etl for broader ecosystem.
+Official/community awesome list for Benthos data processor/streaming tool. Features curated resources, plugins, tutorials, integrations, and related projects. Use cases: onboarding new users, discovering extensions; unlike general awesome lists, it's project-specific with focused, maintained content for Benthos ecosystem.
 
 [https://github.com/redpanda-data/awesome-benthos](https://github.com/redpanda-data/awesome-benthos)

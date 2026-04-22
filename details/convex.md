@@ -1,5 +1,5 @@
 # Awesome Convex
 
-Awesome Convex list curates resources for Convex: docs, tools, integrations, examples. Features: community-driven, categorized, starred repos. Use cases: accelerate Convex development; vs. general lists, more focused.
+Official awesome list for Convex backend platform. Features resources, tools, integrations, tutorials, examples. Use cases: user onboarding, ecosystem discovery; project-specific compared to general backend awesomes.
 
 [https://github.com/get-convex/awesome-convex](https://github.com/get-convex/awesome-convex)

@@ -1,5 +1,5 @@
 # ReScript
 
-A curated collection of resources for ReScript, the robustly typed language that compiles to efficient JavaScript.
+Official/community-curated list of resources for ReScript, including tools/plugins/docs/tutorials; features like regularly updated, community-driven; use cases: ramp up on project ecosystem; vs general awesomes: more specialized.
 
-[https](https)
+[https://github.com/rescript-association/awesome-rescript](https://github.com/rescript-association/awesome-rescript)

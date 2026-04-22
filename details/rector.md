@@ -1,5 +1,5 @@
 # Rector
 
-A curated list of resources for Rector, the instant upgrades and automated refactoring tool for PHP.
+Official/community-curated list of resources for Rector, including tools/plugins/docs/tutorials; features like regularly updated, community-driven; use cases: ramp up on project ecosystem; vs general awesomes: more specialized.
 
-[https](https)
+[https://github.com/rectorphp/awesome-rector](https://github.com/rectorphp/awesome-rector)

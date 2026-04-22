@@ -1,5 +1,5 @@
 # Awesome ClickHouse
 
-Awesome ClickHouse list curates resources for ClickHouse: docs, tools, integrations, examples. Features: community-driven, categorized, starred repos. Use cases: accelerate ClickHouse development; vs. general lists, more focused.
+Community awesome list for ClickHouse database. Features curated docs, tools, integrations, plugins, tutorials. Use cases: accelerate ClickHouse onboarding and development; focused on ClickHouse vs general database awesomes.
 
 [https://github.com/korchasa/awesome-clickhouse](https://github.com/korchasa/awesome-clickhouse)

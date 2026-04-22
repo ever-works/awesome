@@ -1,20 +1,22 @@
-## Awesome-Lists.net
+## Overview
 
-**Category:** Meta-directories  
-**Tags:** curated-lists, web-directory, awesome-lists, searchable
+Searchable aggregator of awesome lists.
 
-### Description
-Awesome-Lists.net is a web-based directory that aggregates and categorizes "awesome" lists from GitHub. It provides a searchable and browsable interface, making it easier for users to discover curated resources on a wide range of topics.
+## Features
 
-### Features
-- Aggregates "awesome" lists from GitHub repositories.
-- Categorizes lists for easier navigation.
-- Offers a searchable interface to quickly find topics of interest.
-- Browsable directory structure for exploration.
-- Focuses on curated, high-quality resources maintained by the open-source community.
+- Categorization and search
+- Browsable interface
+- GitHub-sourced lists
 
-### Pricing
-No pricing information is provided. The service appears to be free to use.
+## Use Cases
 
-### Source
-[Read more about the history of GitHub Awesome-Lists](https://dev.to/zevireinitz/the-untold-history-of-github-awesome-lists-73d)
+- Discover curated resources quickly
+- Navigate by topic
+
+## Comparisons
+
+Better navigation than raw GitHub.
+
+## Pricing
+
+Free.

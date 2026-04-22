@@ -1,45 +1,29 @@
 ## Overview
 
-Awesome Rank provides ranking and analytics for GitHub awesome lists, showing which resources are most popular based on stars, forks, and other metrics.
+Tracks GitHub awesome lists with comprehensive rankings and analytics.
 
-## Key Features
+## Features
 
-- Awesome list rankings
-- Star counts and trends
-- Fork statistics
-- Popularity metrics
+- Daily star/fork/update tracking
+- Multi-metric rankings (stars, freshness, forks)
+- Trend graphs and historical data
+- Category-based browsing
 - Comparison tools
-- Historical data
-
-## Tracked Lists
-
-- awesome-cli-apps
-- awesome-vscode  
-- awesome-shell
-- PlacesToPostYourStartup
-- Hundreds more
-
-## Metrics Provided
-
-- GitHub stars
-- Fork counts
-- Last updated dates
-- Contributor numbers
-- Popularity rankings
-- Growth trends
 
 ## Use Cases
 
-- Find most popular tools
-- Compare awesome lists
-- Identify trending resources
-- Research tool adoption
-- Discover established tools
+- Identify top/trending awesome lists
+- Monitor resource popularity over time
+- Research adoption of tools/categories
 
-## Target Audience
+## Comparisons
 
-Developers and researchers who want data-driven insights into which tools and resources are most widely adopted.
+| Metric | Awesome Rank | Static Lists |
+|--------|--------------|--------------|
+| Stars  | Live tracking| Snapshot |
+| Trends | Graphs | None |
+| Ranks  | Computed | None |
 
 ## Pricing
 
-Free analytics platform.
+Free platform.

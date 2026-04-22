@@ -1,5 +1,5 @@
 # Gleam
 
-Curated Awesome list for Gleam. Gathers docs, tools, extensions, community resources. Features: structured categories, high stars, active maintenance. Use cases: Gleam onboarding; focused vs. broad awesome lists.
+Official/community-curated list of resources for Gleam, including tools/plugins/docs/tutorials; features like regularly updated, community-driven; use cases: ramp up on project ecosystem; vs general awesomes: more specialized.
 
 [https://github.com/gleam-lang/awesome-gleam](https://github.com/gleam-lang/awesome-gleam)

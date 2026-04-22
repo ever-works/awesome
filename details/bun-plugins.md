@@ -1,5 +1,5 @@
 # Bun Plugins
 
-A curated collection of plugins and tools for Bun, the fast all-in-one JavaScript runtime.
+Official/community awesome list for Bun JavaScript runtime. Features curated plugins, resources, tutorials, and tools. Use cases: onboarding to Bun ecosystem, discovering plugins; project-specific unlike broad general awesome lists.
 
-[https](https)
+[https://github.com/apvarun/awesome-bun](https://github.com/apvarun/awesome-bun)

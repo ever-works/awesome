@@ -1,22 +1,29 @@
 ## Overview
 
-Awesome Lists Ecosystems is a meta-directory tracking and indexing awesome lists with programmatic access.
+Meta-directory that dynamically tracks and indexes awesome lists across GitHub.
 
 ## Features
 
-- Search and filtering by category/tag
-- Star rankings and trending
-- Daily updates and historical data
-- RESTful API
-- RSS feeds
-- Export to JSON/CSV
+- Daily star count updates and trending lists
+- RSS feeds and email notifications for changes
+- Advanced search by category, tag, stars
+- REST API for programmatic access
+- Historical data and exports (JSON/CSV)
 
 ## Use Cases
 
-- Discover niche themed awesome lists
-- Analyze list ecosystems
-- Integrate into tools/apps
-- Compare to sindresorhus/awesome
+- Stay current on emerging trends in awesome lists
+- Discover new tools/resources as they're added
+- Analyze list popularity and growth
+
+## Comparisons
+
+| Feature | Awesome Lists Ecosystems | Static Awesome Lists |
+|---------|---------------------------|----------------------|
+| Updates | Daily/real-time | Manual/infrequent |
+| Search  | Full-text, filtered | None |
+| Metrics | Stars, trends | None |
+| Alerts  | RSS/notifications | None |
 
 ## Pricing
 

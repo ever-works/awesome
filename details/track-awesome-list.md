@@ -1,20 +1,30 @@
 ## Overview
 
-Track Awesome List monitors hundreds of awesome lists on GitHub and provides real-time notifications when new items are added, making it easy to discover new tools and resources.
+Real-time tracker for awesome list changes across GitHub.
 
 ## Features
 
-- Tracks over 500 awesome lists automatically
-- Daily and weekly update summaries
-- RSS feed subscriptions for individual lists
-- Email newsletter options
-- Historical archive of all updates
-- Search functionality across all tracked lists
-- Trending items and popular additions
-- Timeline view of recent changes
-- Custom alerts for specific topics
-- Integration with feed readers
+- Daily scans of 500+ lists
+- RSS/email notifications
+- Searchable update archive
+- Trending and popular additions
+- Timeline views
+- Per-list feeds
+
+## Use Cases
+
+- Receive alerts on new tools/resources
+- Track trends in specific topics
+- Maintain awareness without manual checks
+
+## Comparisons
+
+| Aspect | Track Awesome List | Static Lists |
+|--------|--------------------|--------------|
+| Freshness | Daily updates | Manual |
+| Alerts   | RSS/Email | None |
+| History  | Full archive| None |
 
 ## Pricing
 
-Free service with optional premium features.
+Free with premium options.
