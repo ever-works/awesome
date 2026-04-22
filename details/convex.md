@@ -1,5 +1,5 @@
-# Convex
+# Awesome Convex
 
-A curated collection of resources for Convex, the backend application platform with a database, serverless functions, and real-time updates.
+Awesome Convex list curates resources for Convex: docs, tools, integrations, examples. Features: community-driven, categorized, starred repos. Use cases: accelerate Convex development; vs. general lists, more focused.
 
-[https](https)
+[https://github.com/get-convex/awesome-convex](https://github.com/get-convex/awesome-convex)

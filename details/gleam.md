@@ -1,5 +1,5 @@
 # Gleam
 
-A curated collection of resources for Gleam, the type-safe language for the Erlang VM and JavaScript runtimes.
+Curated Awesome list for Gleam. Gathers docs, tools, extensions, community resources. Features: structured categories, high stars, active maintenance. Use cases: Gleam onboarding; focused vs. broad awesome lists.
 
-[https](https)
+[https://github.com/gleam-lang/awesome-gleam](https://github.com/gleam-lang/awesome-gleam)

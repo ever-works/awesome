@@ -1,5 +1,5 @@
 # Foundry
 
-A curated collection of resources for Foundry, the blazing fast, portable, and modular toolkit for Ethereum application development.
+Curated Awesome list for Foundry. Gathers docs, tools, extensions, community resources. Features: structured categories, high stars, active maintenance. Use cases: Foundry onboarding; focused vs. broad awesome lists.
 
-[https](https)
+[https://github.com/crisgarner/awesome-foundry](https://github.com/crisgarner/awesome-foundry)

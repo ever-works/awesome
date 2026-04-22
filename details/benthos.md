@@ -1,5 +1,5 @@
 # Benthos
 
-A curated list of resources for Benthos, the stream processor for mundane tasks with declarative configuration.
+Official or community-curated Awesome list for Benthos. Compiles essential resources including docs, tools, plugins, tutorials, and related projects. Key features: regularly updated, star-ranked entries, categorized sections. Use cases: quick onboarding for Benthos users; compare to general data engineering lists like awesome-etl for broader ecosystem.
 
-[https](https)
+[https://github.com/redpanda-data/awesome-benthos](https://github.com/redpanda-data/awesome-benthos)
