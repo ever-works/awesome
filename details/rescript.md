@@ -1,5 +1,6 @@
-# ReScript
+## Overview
+Awesome resources for ReScript, a typed JavaScript alternative.
 
-Official/community-curated list of resources for ReScript, including tools/plugins/docs/tutorials; features like regularly updated, community-driven; use cases: ramp up on project ecosystem; vs general awesomes: more specialized.
-
-[https://github.com/rescript-association/awesome-rescript](https://github.com/rescript-association/awesome-rescript)
+## Characteristics
+- Follows standard awesome list format: Markdown on GitHub with curated links and descriptions.
+- Part of the broader ecosystem of independently-managed awesome directories aggregated in meta lists.

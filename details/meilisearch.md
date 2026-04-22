@@ -1,5 +1,6 @@
-# Meilisearch
+## Overview
+Awesome resources for Meilisearch, an open-source search engine.
 
-Official/community-curated list of resources for Meilisearch, including tools/plugins/docs/tutorials; features like regularly updated, community-driven; use cases: ramp up on project ecosystem; vs general awesomes: more specialized.
-
-[https://github.com/meilisearch/awesome-meilisearch](https://github.com/meilisearch/awesome-meilisearch)
+## Characteristics
+- Follows standard awesome list format: Markdown on GitHub with curated links and descriptions.
+- Part of the broader ecosystem of independently-managed awesome directories aggregated in meta lists.

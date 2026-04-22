@@ -1,66 +1,30 @@
 ## Overview
 
-Awesome Free Software is a collection of software that respects user freedom, focusing on free (libre) software rather than just free (gratis) options.
+Collection of fully free (libre) software alternatives emphasizing user freedoms, privacy, and no proprietary dependencies.
 
 ## Features
 
-- **Freedom-Respecting**: Software that gives users control
-- **Open Source**: Transparent, auditable code
-- **Privacy-Focused**: Alternatives to surveillance capitalism
-- **Cross-Platform**: Multi-OS support
-- **Community-Driven**: Democratic development
-- **No Vendor Lock-in**: Data portability and format freedom
-- **Ethical Software**: Respecting user rights
-- **Well-Maintained**: Active development and support
-
-## Categories
-
-- Operating systems (Linux distributions)
-- Web browsers (Firefox, Brave)
-- Office suites (LibreOffice)
-- Email clients
-- Communication tools
-- Media players
-- Graphics editors (GIMP, Inkscape)
-- Development tools
-- Server software
-
-## Philosophy
-
-- Four essential freedoms
-- User privacy and data ownership
-- No telemetry or tracking
-- Transparent development
+- Freedom-respecting apps
+- Cross-platform support
+- No tracking/telemetry
 - Community governance
 - Open standards
 
-## Notable Software
+## Categories
 
-- Linux operating systems
-- GNU tools and utilities
-- Firefox browser
-- Thunderbird email
-- LibreOffice productivity
-- GIMP image editing
-- Audacity audio editing
-
-## Alternatives To
-
-- Proprietary operating systems
-- Closed-source applications
-- Privacy-invasive services
-- Vendor-locked platforms
-- Subscription-based software
+- OS (Linux distros)
+- Browsers (Firefox)
+- Productivity (LibreOffice)
+- Media (GIMP, Audacity)
+- Communication
+- Dev Tools
 
 ## Use Cases
 
-- Computing with freedom
-- Privacy protection
-- Avoiding vendor lock-in
-- Supporting ethical software
-- Learning from source code
-- Cost-free computing
+- Ethical computing
+- Privacy setups
+- Cost-free stacks
 
 ## Pricing
 
-Free and open-source repository featuring free software.
+Free as in freedom.

@@ -1,5 +1,6 @@
-# Awesome Convex
+## Overview
+Awesome resources for Convex backend platform.
 
-Official awesome list for Convex backend platform. Features resources, tools, integrations, tutorials, examples. Use cases: user onboarding, ecosystem discovery; project-specific compared to general backend awesomes.
-
-[https://github.com/get-convex/awesome-convex](https://github.com/get-convex/awesome-convex)
+## Characteristics
+- Follows standard awesome list format: Markdown on GitHub with curated links and descriptions.
+- Part of the broader ecosystem of independently-managed awesome directories aggregated in meta lists.

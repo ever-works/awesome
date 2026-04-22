@@ -1,5 +1,6 @@
-# Awesome ClickHouse
+## Overview
+Awesome resources for ClickHouse, a columnar database.
 
-Community awesome list for ClickHouse database. Features curated docs, tools, integrations, plugins, tutorials. Use cases: accelerate ClickHouse onboarding and development; focused on ClickHouse vs general database awesomes.
-
-[https://github.com/korchasa/awesome-clickhouse](https://github.com/korchasa/awesome-clickhouse)
+## Characteristics
+- Follows standard awesome list format: Markdown on GitHub with curated links and descriptions.
+- Part of the broader ecosystem of independently-managed awesome directories aggregated in meta lists.

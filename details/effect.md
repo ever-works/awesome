@@ -1,5 +1,6 @@
-# Awesome Effect
+## Overview
+Awesome resources for Effect, a TypeScript library.
 
-Official/community-curated list of resources for Effect, including tools/plugins/docs/tutorials; features like regularly updated, community-driven; use cases: ramp up on project ecosystem; vs general awesomes: more specialized.
-
-[https://github.com/Effect-TS/awesome-effect](https://github.com/Effect-TS/awesome-effect)
+## Characteristics
+- Follows standard awesome list format: Markdown on GitHub with curated links and descriptions.
+- Part of the broader ecosystem of independently-managed awesome directories aggregated in meta lists.

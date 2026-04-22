@@ -1,5 +1,6 @@
-# Pkl
+## Overview
+Awesome resources for Pkl, a configuration language.
 
-Official/community-curated list of resources for Pkl, including tools/plugins/docs/tutorials; features like regularly updated, community-driven; use cases: ramp up on project ecosystem; vs general awesomes: more specialized.
-
-[https://github.com/pkl-community/awesome-pkl](https://github.com/pkl-community/awesome-pkl)
+## Characteristics
+- Follows standard awesome list format: Markdown on GitHub with curated links and descriptions.
+- Part of the broader ecosystem of independently-managed awesome directories aggregated in meta lists.

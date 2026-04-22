@@ -1,5 +1,6 @@
-# Turborepo
+## Overview
+Awesome resources for Turborepo, a build system.
 
-Official/community-curated list of resources for Turborepo, including tools/plugins/docs/tutorials; features like regularly updated, community-driven; use cases: ramp up on project ecosystem; vs general awesomes: more specialized.
-
-[https://github.com/vercel/awesome-turbo](https://github.com/vercel/awesome-turbo)
+## Characteristics
+- Follows standard awesome list format: Markdown on GitHub with curated links and descriptions.
+- Part of the broader ecosystem of independently-managed awesome directories aggregated in meta lists.

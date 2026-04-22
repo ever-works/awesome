@@ -1,5 +1,6 @@
-# Foundry
+## Overview
+Awesome resources for Foundry, an Ethereum smart contract development toolchain.
 
-Official/community-curated list of resources for Foundry, including tools/plugins/docs/tutorials; features like regularly updated, community-driven; use cases: ramp up on project ecosystem; vs general awesomes: more specialized.
-
-[https://github.com/crisgarner/awesome-foundry](https://github.com/crisgarner/awesome-foundry)
+## Characteristics
+- Follows standard awesome list format: Markdown on GitHub with curated links and descriptions.
+- Part of the broader ecosystem of independently-managed awesome directories aggregated in meta lists.

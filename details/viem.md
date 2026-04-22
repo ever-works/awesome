@@ -1,5 +1,6 @@
-# Viem
+## Overview
+Awesome resources for Viem, a TypeScript Ethereum library.
 
-A curated list of resources for viem, the TypeScript interface for Ethereum with a focus on reliability, efficiency, and developer experience.
-
-[https](https)
+## Characteristics
+- Follows standard awesome list format: Markdown on GitHub with curated links and descriptions.
+- Part of the broader ecosystem of independently-managed awesome directories aggregated in meta lists.

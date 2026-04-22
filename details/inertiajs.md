@@ -1,5 +1,6 @@
-# Inertia.js
+## Overview
+Awesome resources for Inertia.js, a framework for building SPAs.
 
-Official/community-curated list of resources for Inertia.js, including tools/plugins/docs/tutorials; features like regularly updated, community-driven; use cases: ramp up on project ecosystem; vs general awesomes: more specialized.
-
-[https://github.com/innocenzi/awesome-inertiajs](https://github.com/innocenzi/awesome-inertiajs)
+## Characteristics
+- Follows standard awesome list format: Markdown on GitHub with curated links and descriptions.
+- Part of the broader ecosystem of independently-managed awesome directories aggregated in meta lists.
