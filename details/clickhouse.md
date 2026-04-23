@@ -1,6 +1,18 @@
-## Overview
-Awesome resources for ClickHouse, a columnar database.
+## Topics Covered
 
-## Characteristics
-- Follows standard awesome list format: Markdown on GitHub with curated links and descriptions.
-- Part of the broader ecosystem of independently-managed awesome directories aggregated in meta lists.
+- Integrations and clients
+- UIs and tools
+- Exporters and operators
+
+## Use Cases
+
+- Analytics pipelines
+- Real-time querying
+
+## Comparisons
+
+ClickHouse-focused vs. broad databases lists.
+
+## Pricing
+
+Free and open-source.

@@ -1,6 +1,18 @@
-## Overview
-Awesome resources for Moonbit, a programming language.
+## Topics Covered
 
-## Characteristics
-- Follows standard awesome list format: Markdown on GitHub with curated links and descriptions.
-- Part of the broader ecosystem of independently-managed awesome directories aggregated in meta lists.
+- Libraries and packages
+- Tools
+- Examples
+
+## Use Cases
+
+- WebAssembly apps
+- Full-stack Rust-like
+
+## Comparisons
+
+Moonbit vs. general WASM lists.
+
+## Pricing
+
+Free and open-source.

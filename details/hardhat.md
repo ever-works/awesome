@@ -1,6 +1,18 @@
-## Overview
-Awesome resources for Hardhat, an Ethereum development environment.
+## Topics Covered
 
-## Characteristics
-- Follows standard awesome list format: Markdown on GitHub with curated links and descriptions.
-- Part of the broader ecosystem of independently-managed awesome directories aggregated in meta lists.
+- Plugins and extensions
+- Networks and forks
+- Tools and resources
+
+## Use Cases
+
+- Smart contract development
+- Testing and deployment
+
+## Comparisons
+
+Hardhat-focused vs. Foundry alternatives.
+
+## Pricing
+
+Free and open-source.

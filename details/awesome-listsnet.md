@@ -1,22 +1,25 @@
 ## Overview
 
-Searchable aggregator of awesome lists.
+Searchable aggregator of awesome lists with stats.
+
+## Aggregation
+Collects categorized GitHub awesome repos.
 
 ## Features
-
-- Categorization and search
-- Browsable interface
-- GitHub-sourced lists
+- Category filters
+- Stars/updates dashboard
+- Browsable/searchable
 
 ## Use Cases
-
-- Discover curated resources quickly
-- Navigate by topic
+- Navigate awesome ecosystem
+- Quick topic discovery
 
 ## Comparisons
 
-Better navigation than raw GitHub.
+| Feature | Awesome-Lists.net | GitHub Search |
+|---------|--------------------|---------------|
+| Category | Yes | No |
+| Stats | Live | None |
 
 ## Pricing
-
 Free.

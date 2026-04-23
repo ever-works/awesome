@@ -1,7 +1,7 @@
 # Meta Awesome – Data Structure and Storage
 
-**Category:** Meta Directories  
-**Brand:** meta-awesome  
+**Category:** Awesome Meta Directories  
+**Brand:** jepemo  
 **Website:** <https://github.com/jepemo/meta-awesome/blob/master/doc/data-structure-and-storage.md>
 
 ## Overview

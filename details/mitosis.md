@@ -1,6 +1,18 @@
-## Overview
-Awesome resources for Mitosis, a component framework.
+## Topics Covered
 
-## Characteristics
-- Follows standard awesome list format: Markdown on GitHub with curated links and descriptions.
-- Part of the broader ecosystem of independently-managed awesome directories aggregated in meta lists.
+- Components and examples
+- Targets and plugins
+- Guides
+
+## Use Cases
+
+- Framework-agnostic UIs
+- Code sharing
+
+## Comparisons
+
+Mitosis-specific vs. framework awesome lists.
+
+## Pricing
+
+Free and open-source.

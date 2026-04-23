@@ -1,6 +1,18 @@
-## Overview
-Awesome resources for Convex backend platform.
+## Topics Covered
 
-## Characteristics
-- Follows standard awesome list format: Markdown on GitHub with curated links and descriptions.
-- Part of the broader ecosystem of independently-managed awesome directories aggregated in meta lists.
+- Components and hooks
+- Integrations
+- Deployment guides
+
+## Use Cases
+
+- Full-stack reactive apps
+- Real-time data sync
+
+## Comparisons
+
+Convex-specific vs. Awesome Serverless.
+
+## Pricing
+
+Free tier available; paid plans for scale.

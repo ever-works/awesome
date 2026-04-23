@@ -1,6 +1,18 @@
-## Overview
-Awesome resources for Livewire, a Laravel full-stack framework.
+## Topics Covered
 
-## Characteristics
-- Follows standard awesome list format: Markdown on GitHub with curated links and descriptions.
-- Part of the broader ecosystem of independently-managed awesome directories aggregated in meta lists.
+- Packages and components
+- Forms and tables
+- Utilities
+
+## Use Cases
+
+- Real-time UIs in Laravel
+- No-JS interactivity
+
+## Comparisons
+
+Livewire vs. Inertia/Hotwire.
+
+## Pricing
+
+Free and open-source.

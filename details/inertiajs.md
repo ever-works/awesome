@@ -1,6 +1,18 @@
-## Overview
-Awesome resources for Inertia.js, a framework for building SPAs.
+## Topics Covered
 
-## Characteristics
-- Follows standard awesome list format: Markdown on GitHub with curated links and descriptions.
-- Part of the broader ecosystem of independently-managed awesome directories aggregated in meta lists.
+- Adapters and servers
+- Components and packages
+- Deployment guides
+
+## Use Cases
+
+- Server-driven SPAs
+- Laravel integrations
+
+## Comparisons
+
+Inertia vs. traditional JS SPAs.
+
+## Pricing
+
+Free and open-source.

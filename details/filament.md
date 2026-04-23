@@ -1,6 +1,18 @@
-## Overview
-Awesome resources for Filament, a TALL stack admin panel.
+## Topics Covered
 
-## Characteristics
-- Follows standard awesome list format: Markdown on GitHub with curated links and descriptions.
-- Part of the broader ecosystem of independently-managed awesome directories aggregated in meta lists.
+- Plugins and packages
+- Themes and designs
+- Forms and tables
+
+## Use Cases
+
+- Rapid admin dashboard building
+- TALL stack apps
+
+## Comparisons
+
+Filament-focused vs. Awesome Laravel.
+
+## Pricing
+
+Free and open-source.

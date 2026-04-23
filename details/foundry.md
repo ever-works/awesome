@@ -1,6 +1,18 @@
-## Overview
-Awesome resources for Foundry, an Ethereum smart contract development toolchain.
+## Topics Covered
 
-## Characteristics
-- Follows standard awesome list format: Markdown on GitHub with curated links and descriptions.
-- Part of the broader ecosystem of independently-managed awesome directories aggregated in meta lists.
+- Plugins and extensions
+- Testing tools
+- Deployment scripts
+
+## Use Cases
+
+- Smart contract testing/deploy
+- Forge scripting
+
+## Comparisons
+
+Foundry vs. Hardhat awesome lists.
+
+## Pricing
+
+Free and open-source.

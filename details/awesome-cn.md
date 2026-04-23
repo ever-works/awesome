@@ -1,7 +1,7 @@
 # awesome-cn
 
 **URL:** https://github.com/icopy-site/awesome-cn  
-**Category:** Meta Directories  
+**Category:** Awesome Meta Directories  
 **Tags:** awesome-lists, directory-of-directories, developer-resources
 
 ## Overview

@@ -1,24 +1,25 @@
 ## Overview
 
-Curated meta-collection of awesome lists with star-based rankings.
+Meta-collection aggregating awesome lists by topic.
+
+## Aggregation
+Groups hundreds of GitHub awesome lists.
 
 ## Features
-
-- Categorized by domain (tech, research, etc.)
-- Star counts and rankings
-- Community contributions
-- Focus on high-quality lists
+- Topic categorization
+- Star rankings
+- Direct links
 
 ## Use Cases
-
-- Quick access to niche awesome lists
-- Track popular directories
-- Discover trends via stars
+- Niche list discovery
+- Popularity tracking
 
 ## Comparisons
 
-Vs static: Includes rankings and ongoing curation.
+| Feature | Brandon Himpfen | GitHub Search |
+|---------|-----------------|---------------|
+| Grouping | Topics | None |
+| Rankings | Stars | Basic |
 
 ## Pricing
-
 Free and open-source.

@@ -1,6 +1,18 @@
-## Overview
-Awesome resources for Bun JavaScript runtime.
+## Topics Covered
 
-## Characteristics
-- Follows standard awesome list format: Markdown on GitHub with curated links and descriptions.
-- Part of the broader ecosystem of independently-managed awesome directories aggregated in meta lists.
+- Plugins and loaders
+- Benchmarks and comparisons
+- Tools and integrations
+
+## Use Cases
+
+- Performance tuning in Bun
+- Plugin discovery
+
+## Comparisons
+
+Bun-centric alternative to Awesome Node.js.
+
+## Pricing
+
+Free and open-source.

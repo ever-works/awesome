@@ -1,6 +1,19 @@
-## Overview
-Awesome resources for Dat Project, a decentralized data sharing protocol.
+## Topics Covered
 
-## Characteristics
-- Follows standard awesome list format: Markdown on GitHub with curated links and descriptions.
-- Part of the broader ecosystem of independently-managed awesome directories aggregated in meta lists.
+- Client modules and libraries
+- Tools and command-line utilities
+- Applications and demos
+- Research and publications
+
+## Use Cases
+
+- Decentralized data sharing and backups
+- Live-synced datasets for research
+
+## Comparisons
+
+Project-specific scope unlike general decentralized storage awesome lists (e.g., Awesome IPFS); emphasizes Dat protocol ecosystem.
+
+## Pricing
+
+Free and open-source.

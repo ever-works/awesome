@@ -1,29 +1,25 @@
 ## Overview
 
-Tracks GitHub awesome lists with comprehensive rankings and analytics.
+Ranks awesome lists with analytics.
+
+## Aggregation
+Aggregates GitHub awesome lists.
 
 ## Features
-
-- Daily star/fork/update tracking
-- Multi-metric rankings (stars, freshness, forks)
-- Trend graphs and historical data
-- Category-based browsing
-- Comparison tools
+- Multi-metric rankings
+- Trend graphs
+- Category browsing
 
 ## Use Cases
-
-- Identify top/trending awesome lists
-- Monitor resource popularity over time
-- Research adoption of tools/categories
+- Find top-quality lists
+- Track trends
 
 ## Comparisons
 
-| Metric | Awesome Rank | Static Lists |
-|--------|--------------|--------------|
-| Stars  | Live tracking| Snapshot |
+| Feature | Awesome Rank | GitHub Search |
+|---------|--------------|---------------|
+| Rankings | Comprehensive | Stars only |
 | Trends | Graphs | None |
-| Ranks  | Computed | None |
 
 ## Pricing
-
-Free platform.
+Free.

@@ -1,6 +1,19 @@
-## Overview
-Awesome resources for Benthos, a high-performance stream processor.
+## Topics Covered
 
-## Characteristics
-- Follows standard awesome list format: Markdown on GitHub with curated links and descriptions.
-- Part of the broader ecosystem of independently-managed awesome directories aggregated in meta lists.
+- Processors and components
+- Configuration examples
+- Deployment and observability
+- Community contributions
+
+## Use Cases
+
+- High-throughput data transformation
+- Real-time event processing
+
+## Comparisons
+
+Benthos-focused, unlike general data pipeline awesome lists.
+
+## Pricing
+
+Free and open-source.

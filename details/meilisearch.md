@@ -1,6 +1,18 @@
-## Overview
-Awesome resources for Meilisearch, an open-source search engine.
+## Topics Covered
 
-## Characteristics
-- Follows standard awesome list format: Markdown on GitHub with curated links and descriptions.
-- Part of the broader ecosystem of independently-managed awesome directories aggregated in meta lists.
+- Client libraries
+- Integrations and UIs
+- Tutorials and deploy
+
+## Use Cases
+
+- Typo-tolerant search
+- E-commerce/product search
+
+## Comparisons
+
+Meilisearch-focused vs. general search engine lists.
+
+## Pricing
+
+Free and open-source.

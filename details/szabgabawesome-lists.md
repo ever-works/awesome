@@ -1,5 +1,21 @@
-# szabgab/awesome-lists
+## Overview
 
-GitHub repository curating a collection of awesome lists.
+Collection of awesome lists.
 
-[https://github.com/szabgab/awesome-lists](https://github.com/szabgab/awesome-lists)
+## Aggregation
+Aggregates GitHub awesome repos.
+
+## Features
+- Curated selection
+
+## Use Cases
+- Resource discovery
+
+## Comparisons
+
+| Feature | szabgab/awesome-lists | GitHub Search |
+|---------|------------------------|---------------|
+| Curation | Yes | No |
+
+## Pricing
+Free.

@@ -1,6 +1,18 @@
-## Overview
-Awesome resources for Pkl, a configuration language.
+## Topics Covered
 
-## Characteristics
-- Follows standard awesome list format: Markdown on GitHub with curated links and descriptions.
-- Part of the broader ecosystem of independently-managed awesome directories aggregated in meta lists.
+- Libraries and tools
+- Examples
+- Integrations
+
+## Use Cases
+
+- Complex config generation
+- Templating
+
+## Comparisons
+
+Pkl vs. HCL/JSON configs.
+
+## Pricing
+
+Free and open-source.

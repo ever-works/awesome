@@ -1,6 +1,18 @@
-## Overview
-Awesome resources for Biome, a toolchain for web projects.
+## Topics Covered
 
-## Characteristics
-- Follows standard awesome list format: Markdown on GitHub with curated links and descriptions.
-- Part of the broader ecosystem of independently-managed awesome directories aggregated in meta lists.
+- Plugins and extensions
+- Integrations with editors/IDEs
+- Guides and tutorials
+
+## Use Cases
+
+- Web project linting/formatting
+- Toolchain optimization
+
+## Comparisons
+
+Biome-specific, unlike broad Awesome JavaScript.
+
+## Pricing
+
+Free and open-source.

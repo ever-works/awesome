@@ -1,6 +1,18 @@
-## Overview
-Awesome resources for Nushell, a modern shell.
+## Topics Covered
 
-## Characteristics
-- Follows standard awesome list format: Markdown on GitHub with curated links and descriptions.
-- Part of the broader ecosystem of independently-managed awesome directories aggregated in meta lists.
+- Plugins and commands
+- Themes
+- Modules
+
+## Use Cases
+
+- Data-friendly shelling
+- Pipeline processing
+
+## Comparisons
+
+Nushell vs. traditional shells awesome.
+
+## Pricing
+
+Free and open-source.

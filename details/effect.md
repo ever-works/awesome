@@ -1,6 +1,18 @@
-## Overview
-Awesome resources for Effect, a TypeScript library.
+## Topics Covered
 
-## Characteristics
-- Follows standard awesome list format: Markdown on GitHub with curated links and descriptions.
-- Part of the broader ecosystem of independently-managed awesome directories aggregated in meta lists.
+- Core libraries
+- Examples and patterns
+- Integrations
+
+## Use Cases
+
+- Scalable TypeScript apps
+- Error handling in FP style
+
+## Comparisons
+
+Effect-specific vs. broad FP lists.
+
+## Pricing
+
+Free and open-source.
