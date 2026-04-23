@@ -10,14 +10,6 @@ A curated meta-list of AI tool directories, making it easy to discover and submi
 - Focuses on fostering collaboration and visibility within the AI community
 - Available as an open-source GitHub repository for transparency and contribution
 
-## Category
-Meta-directories
-
-## Tags
-ai-tools, meta-directory, curated-lists, github
-
-## Source
-[https://github.com/Emlyjones/ai-directories](https://github.com/Emlyjones/ai-directories)
-
 ## Pricing
+
 - Free and open-source (no pricing plans mentioned)
