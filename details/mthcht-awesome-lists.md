@@ -1,5 +1,18 @@
-# mthcht/awesome-lists
+## Overview
 
-A GitHub repository curating and listing various 'awesome' lists, serving as a meta-collection relevant to directories of awesome resources. It aggregates links to themed awesome lists across topics.
+Meta-collection curating awesome lists.
 
-[https://github.com/mthcht/awesome-lists](https://github.com/mthcht/awesome-lists)
+## Features
+
+- Aggregates themed awesome repos
+- Categorized by topic
+- Community-driven
+
+## Use Cases
+
+- Resource discovery across topics
+- Curated learning paths
+
+## Pricing
+
+Free and open-source.

@@ -27,6 +27,7 @@ The list is organized into multiple categories, each collecting relevant tools a
 
 - **Desktop**  
   Tools for improving and customizing the desktop environment.
+
   
 - **Documentation**  
   Tools for documenting projects, codebases, and APIs.

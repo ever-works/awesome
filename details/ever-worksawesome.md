@@ -1,18 +1,18 @@
-# ever-works/awesome
-
 ## Overview
-Meta collection mirroring dir.works, aggregating awesome directories.
+
+ever-works/awesome aggregates awesome directories, providing structured access to curated resources.
 
 ## Features
-- Deep categorization
-- Details on PaaS, entities, official links
-- 2026 updates
+
+- Deeply categorized lists of directories
+- Includes PaaS details, entities, and official links
+- Community-driven with regular updates
 
 ## Use Cases
-- Comprehensive discovery
 
-## Comparisons
-More directory-focused than sindresorhus/awesome.
+- Comprehensive discovery of directories
+- Building learning paths across topics
 
 ## Pricing
+
 Free and open-source.

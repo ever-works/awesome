@@ -1,21 +1,18 @@
 ## Overview
 
-Collection of awesome lists.
-
-## Aggregation
-Aggregates GitHub awesome repos.
+Aggregates GitHub awesome lists.
 
 ## Features
-- Curated selection
+
+- Searchable index
+- Categorized starred lists
+- Community curation
 
 ## Use Cases
-- Resource discovery
 
-## Comparisons
-
-| Feature | szabgab/awesome-lists | GitHub Search |
-|---------|------------------------|---------------|
-| Curation | Yes | No |
+- Cross-topic discovery
+- Structured learning
 
 ## Pricing
+
 Free.
