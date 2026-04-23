@@ -1,17 +1,17 @@
 ## Overview
 
-Meta-collection curating awesome lists.
+Security-focused collection of awesome lists for SOC/DFIR.
 
 ## Features
 
-- Aggregates themed awesome repos
-- Categorized by topic
-- Community-driven
+- Specialized detections
+- Event IDs
+- Cybersecurity resources
 
 ## Use Cases
 
-- Resource discovery across topics
-- Curated learning paths
+- SOC operations
+- Incident response
 
 ## Pricing
 

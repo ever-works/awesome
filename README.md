@@ -3,14 +3,14 @@
 A curated list of awesome directories
 ## 📑 Table of Contents
 
-- [Featured Awesome Lists (20)](#featured-awesome-lists)
 - [Themed Directories (1,048)](#themed-directories)
-- [Meta Directories (247)](#meta-directories)
+- [Canonical Awesome Hubs (14)](#canonical-awesome-hubs)
+- [Featured Awesome Lists (12)](#featured-awesome-lists)
+- [Meta Directories (244)](#meta-directories)
 - [Learning & Education (49)](#learning--education)
-- [Awesome Meta Collections (19)](#awesome-meta-collections)
-- [Project Awesome Lists (14)](#project-awesome-lists)
+- [Meta Awesome Collections (20)](#meta-awesome-collections)
 - [Remote Work (19)](#remote-work)
-- [Development Tools (83)](#development-tools)
+- [Development Tools (82)](#development-tools)
 - [Automation & Integration (4)](#automation--integration)
 - [Data Engineering (24)](#data-engineering)
 - [Directory Promotion Tools (12)](#directory-promotion-tools)
@@ -19,13 +19,12 @@ A curated list of awesome directories
 - [AI Awesome Directories (2)](#ai-awesome-directories)
 - [Awesome Indexes & Hubs (1)](#awesome-indexes--hubs)
 - [Awesome List Aggregators (5)](#awesome-list-aggregators)
-- [Awesome List Tools & Trackers (5)](#awesome-list-tools--trackers)
-- [Canonical Awesome Hubs (1)](#canonical-awesome-hubs)
+- [Awesome List Tools & Trackers (6)](#awesome-list-tools--trackers)
 - [DevOps & SRE (33)](#devops--sre)
 - [Dynamic List Trackers (2)](#dynamic-list-trackers)
-- [Inception Meta Lists (1)](#inception-meta-lists)
 - [Inception-Level Metas (1)](#inception-level-metas)
 - [Learning Education (3)](#learning-education)
+- [Meta Awesome Directories (10)](#meta-awesome-directories)
 - [Programming Languages (27)](#programming-languages)
 - [Security (35)](#security)
 - [Startup Accelerators (1)](#startup-accelerators)
@@ -35,10 +34,8 @@ A curated list of awesome directories
 - [Audio & Music (12)](#audio--music)
 - [Automation (3)](#automation)
 - [Awesome Aggregators (1)](#awesome-aggregators)
+- [Awesome Linters & Validators (1)](#awesome-linters--validators)
 - [Awesome List Generators (1)](#awesome-list-generators)
-- [Awesome List Tools (2)](#awesome-list-tools)
-- [Awesome List Trackers (1)](#awesome-list-trackers)
-- [Awesome Meta Directories (1)](#awesome-meta-directories)
 - [Blockchain & Crypto (18)](#blockchain--crypto)
 - [Business & Entrepreneurship (21)](#business--entrepreneurship)
 - [Business Entrepreneurship (1)](#business-entrepreneurship)
@@ -60,12 +57,15 @@ A curated list of awesome directories
 - [Directory Promotion Tools (1)](#directory-promotion-tools-1)
 - [Directory Search (6)](#directory-search)
 - [Download Tools (3)](#download-tools)
+- [Dynamic Awesome Generators (1)](#dynamic-awesome-generators)
 - [Events (1)](#events)
 - [FTP Search (2)](#ftp-search)
 - [Game Development (14)](#game-development)
 - [General Directories (22)](#general-directories)
 - [General Directories (1)](#general-directories-1)
+- [Generated Awesome Lists (1)](#generated-awesome-lists)
 - [Hardware (11)](#hardware)
+- [Inception Awesome (1)](#inception-awesome)
 - [IoT (8)](#iot)
 - [Launch Directories (1)](#launch-directories-1)
 - [Learning Education (2)](#learning-education-1)
@@ -73,7 +73,6 @@ A curated list of awesome directories
 - [Machine Learning & AI (82)](#machine-learning--ai)
 - [Machine Learning & AI (1)](#machine-learning--ai-1)
 - [MCP Servers (1)](#mcp-servers)
-- [Meta Awesome Directories (6)](#meta-awesome-directories)
 - [Meta Directories (4)](#meta-directories-1)
 - [Mobile Development (5)](#mobile-development)
 - [Mobile Development (2)](#mobile-development-1)
@@ -81,39 +80,18 @@ A curated list of awesome directories
 - [Open Source (11)](#open-source)
 - [Open Source (3)](#open-source-1)
 - [Programming Languages (1)](#programming-languages-1)
+- [Project Awesome Lists (9)](#project-awesome-lists)
 - [Quantum Computing (1)](#quantum-computing)
 - [Robotics (10)](#robotics)
 - [Security (1)](#security-1)
 - [Self Hosting (2)](#self-hosting)
 - [Self-Hosting (1)](#self-hosting-1)
+- [Star Trackers (1)](#star-trackers)
 - [Time Tracking (1)](#time-tracking)
 - [Vector Databases (1)](#vector-databases)
 - [Voice (1)](#voice)
 - [Web Development (39)](#web-development)
 
-
-## Featured Awesome Lists
-
-- [Awesome Benthos](https://github.com/redpanda-data/awesome-benthos) - Curated list covering Benthos plugins, configs, tutorials for high-performance stream processing and data pipelines. About 40 GitHub stars. Suited for event-driven architectures; alternative to broader stream processing lists like Awesome Kafka. ([Read more](/details/benthos.md)) `Project Awesome` `Curated Topic` `Stream Processing`
-- [Awesome Biome](https://github.com/biomejs/awesome-biome) - Curated GitHub list of Biome resources including plugins, integrations, guides for the web toolchain (linter, formatter). Around 50 GitHub stars. For Rust/JS developers optimizing tooling; narrower than general Awesome Rust or JS tooling lists. ([Read more](/details/biome.md)) `Project Awesome` `Curated Topic` `Linter`
-- [Awesome Bun](https://github.com/apvarun/awesome-bun) - Curated list of Bun plugins, loaders, benchmarks covering the fast JS runtime ecosystem. Modest GitHub stars. Useful for Bun users seeking extensions; focused vs. general Awesome Node.js (60k+ stars). ([Read more](/details/bun-plugins.md)) `Project Awesome` `Curated Topic` `Javascript`
-- [Awesome ClickHouse](https://github.com/korchasa/awesome-clickhouse) - Curated resources for ClickHouse: integrations, UIs, exporters, operators. ~100 GitHub stars. For OLAP database users; more targeted than general Awesome Databases. ([Read more](/details/clickhouse.md)) `Project Awesome` `Curated Topic` `Database`
-- [Awesome Convex](https://github.com/get-convex/awesome-convex) - Curated Convex ecosystem: components, integrations, guides for reactive backend platform. Low GitHub stars. Backend devs onboarding; distinct from general serverless awesome lists. ([Read more](/details/convex.md)) `Project Awesome` `Curated Topic` `Backend`
-- [Awesome Dat](https://github.com/datproject/awesome-dat) - Curated GitHub list of Dat protocol resources covering client libraries (JS, Rust, Go), tools, apps, and research on decentralized data sharing and P2P syncing. Around 250 GitHub stars. Ideal for developers building collaborative data apps; more focused than broader P2P lists like Awesome IPFS. ([Read more](/details/awesome-dat.md)) `Project Awesome` `Curated Topic` `Decentralized`
-- [Awesome Effect](https://github.com/Effect-TS/awesome-effect) - Curated Effect-TS ecosystem: libraries, examples, integrations for functional TypeScript effects. Low GitHub stars. For FP devs; focused unlike general Awesome TypeScript. ([Read more](/details/effect.md)) `Project Awesome` `Curated Topic` `Functional Programming`
-- [Awesome Filament](https://github.com/filamentphp/awesome-filament) - Curated Filament resources: plugins, themes, packages for TALL stack admin panels. Growing GitHub stars. Laravel devs extending UIs; distinct from general PHP admin lists. ([Read more](/details/filament.md)) `Project Awesome` `Curated Topic` `Admin Panel`
-- [Awesome Foundry](https://github.com/crisgarner/awesome-foundry) - Curated Foundry tools: plugins, scripts for Ethereum smart contract dev. Modest stars. Foundry users; alternative to Hardhat/Truffle ecosystems. ([Read more](/details/foundry.md)) `Project Awesome` `Curated Topic` `Ethereum`
-- [Awesome Gleam](https://github.com/gleam-lang/awesome-gleam) - Curated Gleam packages, tools, learning resources for Erlang VM language. Low stars. Gleam devs; narrower than Awesome Elixir/Erlang. ([Read more](/details/gleam.md)) `Project Awesome` `Curated Topic` `Programming Languages`
-- [Awesome Hardhat](https://github.com/katat/awesome-hardhat) - Curated Hardhat ecosystem: plugins, networks, tools for Ethereum dev environment. Modest GitHub stars. For smart contract devs; compares to Foundry awesome list as alternative toolchain. ([Read more](/details/hardhat.md)) `Project Awesome` `Curated Topic` `Ethereum`
-- [Awesome Inertia.js](https://github.com/innocenzi/awesome-inertiajs) - Curated Inertia.js resources: adapters, servers, components for SPA-like apps without JS SPA complexity. Low stars. Laravel/Laravel Nova users; distinct from full SPA frameworks like Nuxt. ([Read more](/details/inertiajs.md)) `Project Awesome` `Curated Topic` `Spa`
-- [Awesome Inngest](https://github.com/inngest/awesome-inngest) - Curated Inngest functions, examples, integrations for durable workflows. Emerging stars. Serverless workflow devs; alternative to Temporal/awesome-temporal. ([Read more](/details/inngest.md)) `Project Awesome` `Curated Topic` `Workflows`
-- [Awesome Livewire](https://github.com/livewire/awesome-livewire) - Curated Livewire packages, components for reactive Laravel apps without JS. Solid stars. Laravel full-stack; compares to Hotwire/Stimulus. ([Read more](/details/livewire.md)) `Project Awesome` `Curated Topic` `Laravel`
-- [Awesome Meilisearch](https://github.com/meilisearch/awesome-meilisearch) - Curated Meilisearch integrations, clients, UIs, guides for open-source search engine. Strong GitHub stars. Search engine users; alternative to Elasticsearch/TypeSense awesome lists. ([Read more](/details/meilisearch.md)) `Project Awesome` `Curated Topic` `Search`
-- [Awesome Mitosis](https://github.com/BuilderIO/awesome-mitosis) - Curated Mitosis components, targets, plugins for multi-framework UI portability. Low stars. Cross-framework devs; distinct from component libraries like Awesome React. ([Read more](/details/mitosis.md)) `Project Awesome` `Curated Topic` `Components`
-- [Awesome Moonbit](https://github.com/moonbitlang/awesome-moonbit) - Curated Moonbit libraries, tools for Rust-like language targeting WASM/JS/native. Emerging stars. Moonbit adopters; narrower than Awesome Rust/WASM. ([Read more](/details/moonbit.md)) `Project Awesome` `Curated Topic` `Rust`
-- [Awesome Nushell](https://github.com/nushell/awesome-nu) - Curated Nushell plugins, themes, modules for modern structured shell. Good stars. Shell scripting; alternative to Awesome Zsh/Fish. ([Read more](/details/nushell.md)) `Project Awesome` `Curated Topic` `Shell`
-- [Awesome OXC](https://github.com/oxc-project/awesome-oxc) - Curated OXC resources: plugins, integrations for JavaScript/OXlint toolchain. Emerging stars. JS tooling users; alternative to ESLint/Prettier ecosystems. ([Read more](/details/oxc.md)) `Project Awesome` `Curated Topic` `Javascript Tooling`
-- [Awesome Pkl](https://github.com/pkl-community/awesome-pkl) - Curated Pkl libraries, tools, examples for programmable config language. Low stars. Config management; distinct from JSON/YAML tooling lists. ([Read more](/details/pkl.md)) `Project Awesome` `Curated Topic` `Configuration`
 
 ## Themed Directories
 
@@ -1166,9 +1144,40 @@ A curated list of awesome directories
 - [Web Tools (Awesome List)](https://github.com/lvwzhen/tools#readme) - A curated collection of useful web-related tools and utilities presented in an awesome-list format. ([Read more](/details/web-tools-awesome-list.md)) `Web Development` `Developer Tools` `Awesome Lists`
 - [WSU Graph Database](http://www.eecs.wsu.edu/mgd/gdb.html) - The WSU Graph Database is a collection of graph datasets maintained by Washington State University, providing a directory of network and graph instances used for research in data mining, pattern recognition, and graph algorithms. It serves as a centralized listing of reusable graph data resources. ([Read more](/details/wsu-graph-database.md)) `Datasets` `Graph` `Research`
 
+## Canonical Awesome Hubs
+
+- [Awesome](https://github.com/sindresorhus/awesome) - A central hub aggregating thousands of curated Awesome lists across topics like programming, design, and security; features searchable interface, star rankings, and daily updates; ideal for developers seeking topic-specific resources; compared to single Awesome lists, it's a meta-index. ([Read more](/details/awesome.md)) `Meta Awesome` `List Aggregator` `Github Stars` `Curated Index`
+- [Awesome Benthos](https://github.com/redpanda-data/awesome-benthos) - Curated list covering Benthos plugins, configs, tutorials for high-performance stream processing and data pipelines. About 40 GitHub stars. Suited for event-driven architectures; alternative to broader stream processing lists like Awesome Kafka. ([Read more](/details/awesome-benthos.md)) `Project Awesome` `Meta Awesome` `Directory Of Lists` `Inception Lists` `Stream Processing`
+- [Awesome Biome](https://github.com/biomejs/awesome-biome) - Curated GitHub list of Biome resources including plugins, integrations, guides for the web toolchain (linter, formatter). Around 50 GitHub stars. For Rust/JS developers optimizing tooling; narrower than general Awesome Rust or JS tooling lists. ([Read more](/details/awesome-biome.md)) `Project Awesome` `Meta Awesome` `Directory Of Lists` `Inception Lists` `Linter`
+- [Awesome Bun](https://github.com/apvarun/awesome-bun) - Curated list of Bun plugins, loaders, benchmarks covering the fast JS runtime ecosystem. Modest GitHub stars. Useful for Bun users seeking extensions; focused vs. general Awesome Node.js (60k+ stars). ([Read more](/details/bun-plugins.md)) `Project Awesome` `Curated Topic` `Javascript`
+- [Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt) - Curates awesome lists of tools, prompts, extensions, and resources specifically for ChatGPT. Key features include categorized starred repositories, community-driven contributions, and comprehensive coverage of the ChatGPT ecosystem. Use cases: quick resource discovery, building learning paths for AI prompting and integrations; niche ChatGPT focus versus general awesome lists like sindresorhus/awesome. ([Read more](/details/awesome-chatgpt.md)) `Awesome Lists` `Chatgpt` `Ai` `Open Source` `Community Driven`
+- [Awesome ClickHouse](https://github.com/korchasa/awesome-clickhouse) - Curated resources for ClickHouse: integrations, UIs, exporters, operators. ~100 GitHub stars. For OLAP database users; more targeted than general Awesome Databases. ([Read more](/details/clickhouse.md)) `Project Awesome` `Curated Topic` `Database`
+- [Awesome Convex](https://github.com/get-convex/awesome-convex) - Curated Convex ecosystem: components, integrations, guides for reactive backend platform. Low GitHub stars. Backend devs onboarding; distinct from general serverless awesome lists. ([Read more](/details/convex.md)) `Project Awesome` `Curated Topic` `Backend`
+- [Awesome Dat](https://github.com/datproject/awesome-dat) - Curated GitHub list of Dat protocol resources covering client libraries (JS, Rust, Go), tools, apps, and research on decentralized data sharing and P2P syncing. Around 250 GitHub stars. Ideal for developers building collaborative data apps; more focused than broader P2P lists like Awesome IPFS. ([Read more](/details/awesome-dat.md)) `Project Awesome` `Curated Topic` `Decentralized`
+- [Awesome Effect](https://github.com/Effect-TS/awesome-effect) - Curated Effect-TS ecosystem: libraries, examples, integrations for functional TypeScript effects. Low GitHub stars. For FP devs; focused unlike general Awesome TypeScript. ([Read more](/details/effect.md)) `Project Awesome` `Curated Topic` `Functional Programming`
+- [Awesome Electron](https://github.com/sindresorhus/awesome-electron) - Curates awesome lists of resources, libraries, tools, and boilerplates for building desktop apps with Electron. Key features: categorized starred repositories, community-driven maintenance, and comprehensive ecosystem coverage. Use cases: quick discovery of Electron utilities, structured learning paths for cross-platform development; specialized for Electron vs broader desktop frameworks in general awesome lists like sindresorhus/awesome. ([Read more](/details/awesome-electron.md)) `Awesome Lists` `Electron` `Desktop` `Open Source` `Community Driven`
+- [Awesome Filament](https://github.com/filamentphp/awesome-filament) - Curated Filament resources: plugins, themes, packages for TALL stack admin panels. Growing GitHub stars. Laravel devs extending UIs; distinct from general PHP admin lists. ([Read more](/details/filament.md)) `Project Awesome` `Curated Topic` `Admin Panel`
+- [Awesome Gleam](https://github.com/gleam-lang/awesome-gleam) - Curated Gleam packages, tools, learning resources for Erlang VM language. Low stars. Gleam devs; narrower than Awesome Elixir/Erlang. ([Read more](/details/gleam.md)) `Project Awesome` `Curated Topic` `Programming Languages`
+- [Awesome Hardhat](https://github.com/katat/awesome-hardhat) - Curated Hardhat ecosystem: plugins, networks, tools for Ethereum dev environment. Modest GitHub stars. For smart contract devs; compares to Foundry awesome list as alternative toolchain. ([Read more](/details/hardhat.md)) `Project Awesome` `Curated Topic` `Ethereum`
+- [Awesome Bun](https://github.com/oven-sh/awesome-bun) - Awesome Bun is a comprehensive index of GitHub awesome lists and resources for Bun, featuring categorization, star rankings as of 2026. Ideal for developers seeking Bun-specific resources. More meta/focused than sindresorhus/awesome, this curates project-specific directories. ([Read more](/details/awesome-bun.md)) `Project Awesome` `Meta Awesome` `Directory Of Lists` `Inception Lists`
+
+## Featured Awesome Lists
+
+- [Awesome Benthos](https://github.com/redpanda-data/awesome-benthos) - Curated list covering Benthos plugins, configs, tutorials for high-performance stream processing and data pipelines. About 40 GitHub stars. Suited for event-driven architectures; alternative to broader stream processing lists like Awesome Kafka. ([Read more](/details/benthos.md)) `Project Awesome` `Curated Topic` `Stream Processing`
+- [Awesome Biome](https://github.com/biomejs/awesome-biome) - Curated GitHub list of Biome resources including plugins, integrations, guides for the web toolchain (linter, formatter). Around 50 GitHub stars. For Rust/JS developers optimizing tooling; narrower than general Awesome Rust or JS tooling lists. ([Read more](/details/biome.md)) `Project Awesome` `Curated Topic` `Linter`
+- [Awesome Foundry](https://github.com/crisgarner/awesome-foundry) - Curated Foundry tools: plugins, scripts for Ethereum smart contract dev. Modest stars. Foundry users; alternative to Hardhat/Truffle ecosystems. ([Read more](/details/foundry.md)) `Project Awesome` `Curated Topic` `Ethereum`
+- [Awesome Inertia.js](https://github.com/innocenzi/awesome-inertiajs) - Curated Inertia.js resources: adapters, servers, components for SPA-like apps without JS SPA complexity. Low stars. Laravel/Laravel Nova users; distinct from full SPA frameworks like Nuxt. ([Read more](/details/inertiajs.md)) `Project Awesome` `Curated Topic` `Spa`
+- [Awesome Inngest](https://github.com/inngest/awesome-inngest) - Curated Inngest functions, examples, integrations for durable workflows. Emerging stars. Serverless workflow devs; alternative to Temporal/awesome-temporal. ([Read more](/details/inngest.md)) `Project Awesome` `Curated Topic` `Workflows`
+- [Awesome Livewire](https://github.com/livewire/awesome-livewire) - Curated Livewire packages, components for reactive Laravel apps without JS. Solid stars. Laravel full-stack; compares to Hotwire/Stimulus. ([Read more](/details/livewire.md)) `Project Awesome` `Curated Topic` `Laravel`
+- [Awesome Meilisearch](https://github.com/meilisearch/awesome-meilisearch) - Curated Meilisearch integrations, clients, UIs, guides for open-source search engine. Strong GitHub stars. Search engine users; alternative to Elasticsearch/TypeSense awesome lists. ([Read more](/details/meilisearch.md)) `Project Awesome` `Curated Topic` `Search`
+- [Awesome Mitosis](https://github.com/BuilderIO/awesome-mitosis) - Curated Mitosis components, targets, plugins for multi-framework UI portability. Low stars. Cross-framework devs; distinct from component libraries like Awesome React. ([Read more](/details/mitosis.md)) `Project Awesome` `Curated Topic` `Components`
+- [Awesome Moonbit](https://github.com/moonbitlang/awesome-moonbit) - Curated Moonbit libraries, tools for Rust-like language targeting WASM/JS/native. Emerging stars. Moonbit adopters; narrower than Awesome Rust/WASM. ([Read more](/details/moonbit.md)) `Project Awesome` `Curated Topic` `Rust`
+- [Awesome Nushell](https://github.com/nushell/awesome-nu) - Curated Nushell plugins, themes, modules for modern structured shell. Good stars. Shell scripting; alternative to Awesome Zsh/Fish. ([Read more](/details/nushell.md)) `Project Awesome` `Curated Topic` `Shell`
+- [Awesome OXC](https://github.com/oxc-project/awesome-oxc) - Curated OXC resources: plugins, integrations for JavaScript/OXlint toolchain. Emerging stars. JS tooling users; alternative to ESLint/Prettier ecosystems. ([Read more](/details/oxc.md)) `Project Awesome` `Curated Topic` `Javascript Tooling`
+- [Awesome Pkl](https://github.com/pkl-community/awesome-pkl) - Curated Pkl libraries, tools, examples for programmable config language. Low stars. Config management; distinct from JSON/YAML tooling lists. ([Read more](/details/pkl.md)) `Project Awesome` `Curated Topic` `Configuration`
+
 ## Meta Directories
 
-- [apd-core - NaturalLanguage section](https://github.com/awesomedata/apd-core/tree/master/core/NaturalLanguage) - A curated Awesome-style sub-collection within the APD (Awesome Public Datasets) core repository that indexes multiple high‑quality natural language datasets and lexical resources via individual YAML meta files (e.g., SQuAD, Universal Dependencies, WordNet). It serves as a meta directory of links to external NLP datasets, aligning with the broader Awesome ecosystem as a directory-of-resources pattern. ([Read more](/details/apd-core-naturallanguage-section.md)) `Datasets` `Nlp` `Directory Of Directories`
 - [Awesome Repositories](https://github.com/pawelborkar/awesome-repos) - Awesome Repositories is a curated, GitHub-hosted collection of repositories that provide free resources, serving as a meta-directory of valuable GitHub projects. It aligns with the broader "Awesome" ecosystem by organizing and linking to multiple resource-rich repos in one place. ([Read more](/details/awesome-repositories.md)) `Meta Directory` `Github` `Curated Lists`
 - [Ecosyste.ms Awesome](https://awesome.ecosyste.ms) - Ecosyste.ms Awesome is an analytics-driven meta-directory for exploring GitHub awesome lists, offering filtering by topic (e.g., web3, solidity), language, ecosystem metrics, dependencies, star tracking, and contributor statistics. It provides advanced features like topic clustering, trend analysis, and cross-list search for in-depth insights. Use cases include discovering and analyzing awesome lists by theme or language, far surpassing static alternatives like sindresorhus/awesome with data-rich visualizations. ([Read more](/details/ecosystems-awesome.md)) `Meta Awesome` `List Discovery` `Analytics`
 - [Github Ranking](https://github.com/EvanLi/Github-Ranking) - Dynamic ranking of GitHub repositories sorted by stars and forks, with separate leaderboards for overall and per programming language. Features top 10 lists with links to full top 100, including metrics like stars, forks, language, open issues, description, and last commit date. Automatically updated regularly. ([Read more](/details/github-ranking.md)) `Open Source` `Github` `Rankings` `Awesome Lists`
@@ -1178,8 +1187,6 @@ A curated list of awesome directories
 - [The Definitive List of Lists](https://github.com/jnv/lists) - The Definitive List of Lists is an extensive meta-directory cataloging curated lists from GitHub and beyond, encompassing awesome lists, reading lists, and more across all topics with quality and maintenance criteria. It organizes content by categories like programming, design, and business for topic-based discovery. It provides a broader, more diverse collection than focused awesome hubs like sindresorhus/awesome or TrackAwesomeList. ([Read more](/details/the-definitive-list-of-lists.md)) `Meta Awesome` `List Discovery` `Curated Lists`
 - [Top GitHub Repos 2026](https://md8-habibullah.github.io/top-github-repos-list/) - Top GitHub Repos 2026 is a curated meta-directory assembling 200+ high-impact GitHub repositories into thematic awesome-style lists for 2026, tracking stars, contributors, and trends across Web Dev, AI, DevOps, and Security. It offers structured category browsing and quality-vetted selections for discovering influential projects. More focused on current top performers than aggregators like TrackAwesomeList or general lists like sindresorhus/awesome. ([Read more](/details/top-github-repos-2026.md)) `Meta Awesome` `List Discovery` `Trending`
 - [Yet Another Awesome List](https://github.com/0xWelt/yaal) - Yet Another Awesome List (yaal) is a meta awesome list that automatically aggregates and generates curated collections of other awesome lists. It focuses on organizing topic-specific awesome directories—such as AI and large language models—into a unified, browsable catalog, making it easier to discover and navigate multiple awesome lists from one place. ([Read more](/details/yet-another-awesome-list.md)) `Meta Directory` `Ai` `Awesome Lists`
-- [Awesome All](https://github.com/bradoyler/awesome-all) - Lists of awesome frameworks, libraries, and software. This project acts as a centralized directory for various awesome lists, making it highly relevant as a directory of directories. ([Read more](/details/awesome-all.md)) `Meta Directory` `Curated Lists` `Awesome Lists` `Github`
-- [Awesome Artificial Intelligence](https://github.com/awesomelistsio/awesome-ai) - A curated list of awesome frameworks, libraries, tools, and resources for Artificial Intelligence (AI). This list covers everything from foundational machine learning and deep learning to specialized areas like NLP, computer vision, and AI ethics. ([Read more](/details/awesome-artificial-intelligence.md)) `Awesome Lists` `Ai` `Machine Learning`
 - [Awesome Azure OpenAI LLM](https://github.com/sinaptik-labs/awesome-azure-openai-llm) - A curated collection of resources for Azure OpenAI, LLMs including RAG and Agents. Highly starred list with 399 stars as of the latest update on 02/26. ([Read more](/details/awesome-azure-openai-llm.md)) `Curated Lists` `Llm` `Azure` `Open Source`
 - [Awesome Coffee](https://github.com/jaweth/awesome-coffee) - A comprehensive meta-collection of productivity resources and curated lists for tech professionals, aggregating GitHub repositories, articles, tools, and guides for easy discovery. Key features include categorized sections, searchable content, and regular updates. Ideal for researching awesome productivity projects and finding workflow alternatives; more niche than broad collections like sindresorhus/awesome. ([Read more](/details/awesome-coffee.md)) `Meta List` `List Of Lists` `Productivity`
 - [Awesome DevOps](https://github.com/awesomelistsio/awesome-devops) - A curated list of platforms, tools, and practices used to build, deploy, and operate modern software infrastructure. Focuses on awesome tools, resources, and best practices in DevOps. ([Read more](/details/awesome-devops.md)) `Awesome Lists` `Devops` `Open Source`
@@ -1468,12 +1475,13 @@ A curated list of awesome directories
 - [Hashnode](https://hashnode.com) - Developer blogging platform with custom domains, built-in audience, and no ads. Focuses on technical content with Markdown support, series, newsletters, and team blogs. Alternative to Medium for developers wanting ownership. ([Read more](/details/hashnode.md)) `Blogging` `Developer Resources` `Content Platform`
 - [Technical Writing Resources](https://github.com/dharmelolar/technical-writing-resources) - A compilation of technical writing resources including courses, tools, style guides, and community resources for improving documentation and technical communication skills. ([Read more](/details/technical-writing-resources.md)) `Technical Writing` `Documentation` `Resources`
 
-## Awesome Meta Collections
+## Meta Awesome Collections
 
 - [Awesome (awesomelistsio)](https://github.com/awesomelistsio/awesome) - Awesome (awesomelistsio) is a comprehensive index of GitHub awesome lists, featuring categorization, searchability, star rankings as of 2026, and daily tracking. Ideal for developers seeking topic-specific resources. More meta/focused than sindresorhus/awesome, this emphasizes comprehensive indexing of specialized lists. ([Read more](/details/awesome-awesomelistsio.md)) `Meta Index` `List Of Lists` `Discovery Tool`
 - [awesome-awesome-awesome-awesome](https://github.com/sindresorhus/awesome-awesome-awesome-awesome) - Multi-level meta-list curating lists of awesome lists by Sindre Sorhus. Focuses on awesome lists about awesome topics; highly meta, useful for discovering directories of directories. Ideal for meta-research on the awesome ecosystem and compares to jnv/lists as more GitHub-focused. ([Read more](/details/awesome-awesome-awesome-awesome.md)) `Awesome Lists` `Multi Meta` `Sindresorhus`
 - [Best of Show HN](https://bestofshowhn.com) - Best of Show HN is a comprehensive index of directories curating top Show HN projects from Hacker News (2008-2026), featuring daily/weekly/monthly rankings, topic categories, and engagement metrics as of 2026. Ideal for developers seeking innovative project resources. More meta/focused than sindresorhus/awesome, this aggregates HN showcases. ([Read more](/details/best-of-show-hn.md)) `Meta Index` `List Of Lists` `Discovery Tool`
 - [Best-of Lists](https://github.com/best-of-lists/best-of) - Best-of Lists is a comprehensive index of GitHub awesome lists with data-driven rankings of open-source projects across topics, featuring categorization, star/contributor metrics, and weekly updates as of 2026. Ideal for developers seeking topic-specific resources. More meta/focused than sindresorhus/awesome, this uses quantitative curation. ([Read more](/details/best-of-lists.md)) `Meta Index` `List Of Lists` `Discovery Tool`
+- [lologl](https://github.com/yaph/lologl) - Meta directory aggregating lists of GitHub lists, enabling inception-level discovery of awesome resources. GitHub-focused with chronological sorting by first commit date. Ideal for exploring interconnected awesome lists, distinguishing itself as a list-of-lists index rather than a general directory. ([Read more](/details/lologl.md)) `List Index` `Inception Meta` `Github Lists` `Meta List` `Auto Generated`
 - [Meta Awesome](https://github.com/jepemo/meta-awesome) - Jepemo's meta-list of awesome lists, organized by categories like security and programming. It tracks hundreds of awesome repositories with direct links, offering categorized and searchable access. Ideal for quickly discovering themed awesome lists; an alternative to the more general sindresorhus/awesome. ([Read more](/details/meta-awesome.md)) `Categorized Meta`
 - [Ultimate Awesome](https://github.com/andrew/ultimate-awesome) - Automatically generated meta-list aggregating thousands of GitHub 'awesome' lists across all topics, including meta-lists of awesome lists, ranked by stars and regenerated daily from the awesome.ecosyste.ms API. Features comprehensive coverage with quality thresholds (30+ items, descriptions required), categorized navigation (e.g., by language or domain), and daily freshness. Ideal for exhaustive discovery of specialized resources; unlike hand-curated sindresorhus/awesome, it prioritizes automation, scale, and popularity sorting over strict manual selection. ([Read more](/details/ultimate-awesome.md)) `Meta List` `Inception Level` `Automated` `Star Ranking` `Directory Of Directories` `Meta Directory` `Awesome Lists`
 - [AI Directories](https://www.analyticsinsight.net/artificial-intelligence/best-10-ai-directories-to-promote-your-tools-2025) - AI Directories compiles all AI-related directories in one place, serving as a meta-directory specifically for the AI sector. ([Read more](/details/ai-directories.md)) `Ai Tools` `Directory Of Directories` `Meta Directory` `Aggregator`
@@ -1489,23 +1497,6 @@ A curated list of awesome directories
 - [Get Awesome Lists](https://getawesomelists.com/) - Get Awesome Lists is a searchable directory of GitHub Awesome lists, allowing filtering by stars, topics, and languages. It indexes thousands of awesomes for quick discovery. Key features: advanced search, categorization, submission form; outperforms basic GitHub search. Compared to Awesome Rank, it focuses on searchability. ([Read more](/details/getawesomelists-com.md)) `Searchable` `Indexed` `Submission`
 - [list-of-lists](https://github.com/cyrusstoller/list-of-lists) - List-of-Lists is a curated meta-directory that aggregates hundreds of GitHub awesome lists and directory repositories across diverse topics including programming, tools, and domains. Key features include simple categorization for quick browsing and regular updates to keep the collection current. Ideal for discovering themed awesome lists, it offers a concise index compared to broader platforms like GitHub topics or sindresorhus/awesome. ([Read more](/details/list-of-lists.md)) `Meta Awesome` `List Aggregator` `Curated Lists`
 - [Meta Awesome - Data Structure and Storage](https://github.com/jepemo/meta-awesome/blob/master/doc/data-structure-and-storage.md) - Meta Awesome - Data Structure and Storage aggregates multiple awesome lists on data structures, storage, databases, data visualization, debugging, and deployment topics. Key features include curated links and high-level navigation to specialized collections for streamlined discovery. Use cases include finding themed awesome lists for data engineering, providing a structured overview vs scattered GitHub topics. ([Read more](/details/meta-awesome-data-structure-and-storage.md)) `Meta Awesome` `List Aggregator` `Data Engineering`
-
-## Project Awesome Lists
-
-- [Awesome Benthos](https://github.com/redpanda-data/awesome-benthos) - Curated list covering Benthos plugins, configs, tutorials for high-performance stream processing and data pipelines. About 40 GitHub stars. Suited for event-driven architectures; alternative to broader stream processing lists like Awesome Kafka. ([Read more](/details/awesome-benthos.md)) `Project Awesome` `Meta Awesome` `Directory Of Lists` `Inception Lists` `Stream Processing`
-- [Awesome Biome](https://github.com/biomejs/awesome-biome) - Curated GitHub list of Biome resources including plugins, integrations, guides for the web toolchain (linter, formatter). Around 50 GitHub stars. For Rust/JS developers optimizing tooling; narrower than general Awesome Rust or JS tooling lists. ([Read more](/details/awesome-biome.md)) `Project Awesome` `Meta Awesome` `Directory Of Lists` `Inception Lists` `Linter`
-- [Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt) - Curates awesome lists of tools, prompts, extensions, and resources specifically for ChatGPT. Key features include categorized starred repositories, community-driven contributions, and comprehensive coverage of the ChatGPT ecosystem. Use cases: quick resource discovery, building learning paths for AI prompting and integrations; niche ChatGPT focus versus general awesome lists like sindresorhus/awesome. ([Read more](/details/awesome-chatgpt.md)) `Awesome Lists` `Chatgpt` `Ai` `Open Source` `Community Driven`
-- [Awesome Electron](https://github.com/sindresorhus/awesome-electron) - Curates awesome lists of resources, libraries, tools, and boilerplates for building desktop apps with Electron. Key features: categorized starred repositories, community-driven maintenance, and comprehensive ecosystem coverage. Use cases: quick discovery of Electron utilities, structured learning paths for cross-platform development; specialized for Electron vs broader desktop frameworks in general awesome lists like sindresorhus/awesome. ([Read more](/details/awesome-electron.md)) `Awesome Lists` `Electron` `Desktop` `Open Source` `Community Driven`
-- [Awesome Bun](https://github.com/oven-sh/awesome-bun) - Awesome Bun is a comprehensive index of GitHub awesome lists and resources for Bun, featuring categorization, star rankings as of 2026. Ideal for developers seeking Bun-specific resources. More meta/focused than sindresorhus/awesome, this curates project-specific directories. ([Read more](/details/awesome-bun.md)) `Project Awesome` `Meta Awesome` `Directory Of Lists` `Inception Lists`
-- [Rector](https://github.com/rectorphp/awesome-rector) - Official Awesome list for Rector, aggregating the best libraries, tools, and tutorials in the Rector ecosystem. Topic-focused and maintained by the core team. Ideal for onboarding developers to the Rector ecosystem, unlike general awesome lists which cover broader topics. ([Read more](/details/rector.md)) `Official Awesome` `Project Ecosystem` `Curated Resources`
-- [ReScript](https://github.com/rescript-association/awesome-rescript) - Official Awesome list for ReScript, aggregating the best libraries, tools, and tutorials in the ReScript ecosystem. Topic-focused and maintained by the core team. Ideal for onboarding developers to the ReScript ecosystem, unlike general awesome lists which cover broader topics. ([Read more](/details/rescript.md)) `Official Awesome` `Project Ecosystem` `Curated Resources`
-- [Temporal](https://github.com/temporalio/awesome-temporal) - Official Awesome list for Temporal, aggregating the best libraries, tools, and tutorials in the Temporal ecosystem. Topic-focused and maintained by the core team. Ideal for onboarding developers to the Temporal ecosystem, unlike general awesome lists which cover broader topics. ([Read more](/details/temporal.md)) `Official Awesome` `Project Ecosystem` `Curated Resources`
-- [Tinybird](https://github.com/tinybirdco/awesome-tinybird) - Official Awesome list for Tinybird, aggregating the best libraries, tools, and tutorials in the Tinybird ecosystem. Topic-focused and maintained by the core team. Ideal for onboarding developers to the Tinybird ecosystem, unlike general awesome lists which cover broader topics. ([Read more](/details/tinybird.md)) `Official Awesome` `Project Ecosystem` `Curated Resources`
-- [Turborepo](https://github.com/vercel/awesome-turbo) - Official Awesome list for Turborepo, aggregating the best libraries, tools, and tutorials in the Turborepo ecosystem. Topic-focused and maintained by the core team. Ideal for onboarding developers to the Turborepo ecosystem, unlike general awesome lists which cover broader topics. ([Read more](/details/turborepo.md)) `Official Awesome` `Project Ecosystem` `Curated Resources`
-- [Typesense](https://github.com/typesense/awesome-typesense) - Official Awesome list for Typesense, aggregating the best libraries, tools, and tutorials in the Typesense ecosystem. Topic-focused and maintained by the core team. Ideal for onboarding developers to the Typesense ecosystem, unlike general awesome lists which cover broader topics. ([Read more](/details/typesense.md)) `Official Awesome` `Project Ecosystem` `Curated Resources`
-- [Viem](https://github.com/wevm/awesome-viem) - Official Awesome list for Viem, aggregating the best libraries, tools, and tutorials in the Viem ecosystem. Topic-focused and maintained by the core team. Ideal for onboarding developers to the Viem ecosystem, unlike general awesome lists which cover broader topics. ([Read more](/details/viem.md)) `Official Awesome` `Project Ecosystem` `Curated Resources`
-- [wagmi](https) - A curated collection of resources for wagmi, the collection of React Hooks for Ethereum. ([Read more](/details/wagmi.md)) `Blockchain & Crypto:wagmi` `React` `Ethereum`
-- [Wails](https) - A curated list of resources for Wails, the framework for building desktop applications using Go and web technologies. ([Read more](/details/wails.md)) `Development Tools:wails` `Desktop` `Golang`
 
 ## Remote Work
 
@@ -1567,7 +1558,6 @@ A curated list of awesome directories
 - [Awesome GitHub Copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot, featuring 175+ agents, 208+ skills, and extensive customizations. ([Read more](/details/awesome-github-copilot.md)) `Ai` `Coding Assistant` `Github`
 - [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - A curated list of awesome GitHub Profile READs with creative examples, tools for generating profile content, widgets, badges, and real-time updating components. ([Read more](/details/awesome-github-profile-readme.md)) `Github` `Profile` `Markdown`
 - [Awesome Integration](https://github.com/stn1slv/awesome-integration) - A curated list of system integration software and resources, covering message brokers, API management, ETL tools, and enterprise integration patterns for connecting disparate systems. ([Read more](/details/awesome-integration.md)) `Integration` `Apis` `Middleware`
-- [Awesome Linters](https://github.com/caramelomartins/awesome-linters) - A community-driven list of awesome linters for various programming languages and file formats, helping developers maintain code quality through static analysis tools that check for common mistakes, style violations, and potential bugs. ([Read more](/details/awesome-linters.md)) `Linters` `Code Quality` `Static Analysis`
 - [Awesome Linux Ricing](https://github.com/avtzis/awesome-linux-ricing) - A curated list of themes, tools, window managers, and customization resources for creating aesthetically pleasing and highly customized Linux desktop environments through 'ricing'. ([Read more](/details/awesome-linux-ricing.md)) `Linux` `Customization` `Desktop`
 - [Awesome Low Code](https://github.com/antdimot/awesome-lowcode) - A comprehensive collection of low-code development platforms (LCDP) including Lowdefy, Budibase, and other tools for rapid application development with minimal coding. ([Read more](/details/awesome-low-code.md)) `Low Code` `No Code` `Rapid Development`
 - [Awesome Low-Code No-Code](https://github.com/kairichard/awesome-nocode-lowcode) - A curated list of delightful no-code and low-code applications, platforms, and resources for building software without extensive coding, including workflow automation and internal tools. ([Read more](/details/awesome-low-code-no-code.md)) `Low Code` `No Code` `Workflow Automation`
@@ -1704,11 +1694,8 @@ A curated list of awesome directories
 - [Awesome Rank](https://awesomerank.github.io/) - Aggregator ranking GitHub Awesome lists by stars, forks, activity, freshness with sortable tables and trend graphs. Combines multiple lists for comparison. Facilitates quick discovery of top/maintained lists; excels over GitHub search with dedicated metrics and visualizations. ([Read more](/details/awesome-rank.md)) `Meta Awesome` `List Aggregator` `Github Stars` `Curated Index`
 - [Awesome-Lists.net](https://awesome-lists.net) - Awesome-Lists.net is a dynamic searchable index of awesome lists with stats on stars, forks, and updates. It provides category filters, sortable dashboards, and efficient navigation for quick topic discovery. It outperforms GitHub search through awesome-specific categorization and live metrics. ([Read more](/details/awesome-listsnet.md)) `Meta Awesome` `List Aggregator` `Github Stars` `Curated Index`
 - [awindex](https://github.com/digipres/awesome-indexer) - awindex is a generator for building and maintaining static searchable indexes from awesome lists, Zotero, Zenodo, and JSONL sources to track and update curated collections. Key features include Pagefind faceted search, SQLite databases for monitoring updates, and static site generation for easy deployment. Curators use it to create dynamic, searchable directories that keep lists current, outperforming manual GitHub searches or static markdown views with automated ingestion and search capabilities. ([Read more](/details/awindex.md)) `Meta Awesome` `List Aggregator` `Github Stars` `Curated Index` `List Tools` `Maintenance`
-- [generator-awesome-list](https://github.com/sindresorhus/generator-awesome-list) - Yeoman generator for building and maintaining GitHub awesome lists by auto-generating standardized README.md templates, contributing guidelines, and repository structure compliant with Awesome Lint rules. Simplifies starting new curated directories and ensures consistency for ongoing maintenance. Ideal for developers creating topic-specific resource compilations. ([Read more](/details/generator-awesome-list.md)) `Meta Awesome` `List Aggregator` `Github Stars` `List Builder`
-
-## Canonical Awesome Hubs
-
-- [Awesome](https://github.com/sindresorhus/awesome) - The canonical Awesome lists about all kinds of interesting topics, serving as the original inspiration for thousands of GitHub awesome lists. Features: Curated, community-maintained, categorized links with stars and descriptions. Use cases: Discovering resources across tech domains. Comparisons: Broader than niche awesomes like awesome-python, more manual curation than dynamic trackers. ([Read more](/details/awesome.md)) `Meta Awesome` `List Aggregator` `Github Stars` `Curated Index`
+- [BurntFen's Awesome Lists](https://www.burntfen.com/projects/awesome/) - Personal website by burntfen showcasing and maintaining several awesome-* lists on GitHub. Tracks GitHub stars as a metric for user engagement with collaborative, curated lists of awesome resources. Mentions additional lists like git-flight-rules and endangered-languages that fit awesome criteria. ([Read more](/details/burntfens-awesome-lists.md)) `Awesome Lists` `Curated Lists` `Github` `Open Source`
+- [gh-stars](https://github.com/sokai/gh-stars) - An auto-updated list of sokai’s starred GitHub repositories, organized in an awesome-list style. It effectively acts as a dynamic awesome collection derived from GitHub stars, useful for discovering curated repositories. ([Read more](/details/gh-stars.md)) `Github` `Awesome Lists` `Curated Lists` `Github Stars` `Open Source Discovery` `2026 Curated`
 
 ## DevOps & SRE
 
@@ -1748,12 +1735,8 @@ A curated list of awesome directories
 
 ## Dynamic List Trackers
 
-- [Track Awesome List](https://www.trackawesomelist.com/) - Dynamic tracker monitoring daily updates to GitHub awesome lists, with stats and notifications. Features: Real-time dashboards, RSS/email alerts, update archives. Use cases: Tracking trending additions and maintaining awareness of new resources. Comparisons: Dynamic monitoring unlike static lists such as sindresorhus/awesome, more actionable than pure aggregators. ([Read more](/details/track-awesome-list.md)) `Meta Awesome` `List Aggregator` `Github Stars` `Dynamic`
+- [Track Awesome List](https://www.trackawesomelist.com/) - Dynamic tracker monitoring GitHub Awesome lists for updates and stars. Features daily reports and RSS feeds, ideal for staying current on curations versus static lists. ([Read more](/details/track-awesome-list.md)) `Meta Awesome` `List Aggregator` `Github Stars` `Dynamic`
 - [Directories.so](https://directories.so) - Directories.so is a comprehensive index of awesome directories across AI, design, development, featuring filtering, popularity rankings, and daily updates as of 2026. Ideal for developers seeking topic-specific directory resources. More meta/focused than sindresorhus/awesome, this aggregates internet-wide collections. ([Read more](/details/directoriesso.md)) `Meta Index` `List Of Lists` `Discovery Tool`
-
-## Inception Meta Lists
-
-- [lologl](https://github.com/yaph/lologl) - Meta directory aggregating lists of GitHub lists, enabling inception-level discovery of awesome resources. GitHub-focused with chronological sorting by first commit date. Ideal for exploring interconnected awesome lists, distinguishing itself as a list-of-lists index rather than a general directory. ([Read more](/details/lologl.md)) `List Index` `Inception Meta` `Github Lists` `Meta List` `Auto Generated`
 
 ## Inception-Level Metas
 
@@ -1764,6 +1747,19 @@ A curated list of awesome directories
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. ([Read more](/details/developer-roadmap.md)) `Roadmaps` `Interactive` `Careers`
 - [Coding Articles](https://github.com/jakobnielsen/coding-articles) - Coding articles to level up your development skills. Collection of JavaScript articles for developers. ([Read more](/details/coding-articles.md)) `Javascript` `Articles` `Development`
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. ([Read more](/details/system-design-primer.md)) `System Design` `Interview Prep` `Flashcards`
+
+## Meta Awesome Directories
+
+- [apd-core - NaturalLanguage section](https://github.com/awesomedata/apd-core/tree/master/core/NaturalLanguage) - A curated Awesome-style sub-collection within the APD (Awesome Public Datasets) core repository that indexes multiple high‑quality natural language datasets and lexical resources via individual YAML meta files (e.g., SQuAD, Universal Dependencies, WordNet). It serves as a meta directory of links to external NLP datasets, aligning with the broader Awesome ecosystem as a directory-of-resources pattern. ([Read more](/details/apd-core-naturallanguage-section.md)) `Datasets` `Nlp` `Directory Of Directories`
+- [Aero Structures](https://github.com/teresagris/aero-structures) - A curated meta-collection of awesome resources and lists focused on aircraft structures analysis for aerospace engineers, aggregating GitHub repositories, tools, papers, and tutorials for easy discovery. Key features include categorized content and ongoing updates. Ideal for researching aerospace projects and finding structural analysis alternatives; more niche than sindresorhus/awesome. ([Read more](/details/aero-structures.md)) `Meta List` `List Of Lists` `Aerospace`
+- [AI Agents Directories](https://github.com/danielmiessler/ai-agents-directories) - A comprehensive list of the best AI agent directories available online. It provides a resource for discovering directories focused on AI agents. ([Read more](/details/ai-agents-directories.md)) `Ai` `Agents` `Directories`
+- [Awesome All](https://github.com/bradoyler/awesome-all) - Centralized meta-directory compiling awesome lists of frameworks, libraries, software, and tools across numerous domains, functioning as a comprehensive index of awesome resources. Features organized categorization and direct access to star-ranked GitHub repositories for quick evaluation. Suited for developers seeking diverse curations in one place; provides aggregated multi-topic access unlike focused single-subject awesome lists. ([Read more](/details/awesome-all.md)) `Meta Directory` `Curated Lists` `Awesome Lists` `Github`
+- [Awesome Artificial Intelligence](https://github.com/awesomelistsio/awesome-ai) - A curated list of awesome frameworks, libraries, tools, and resources for Artificial Intelligence (AI). This list covers everything from foundational machine learning and deep learning to specialized areas like NLP, computer vision, and AI ethics. ([Read more](/details/awesome-artificial-intelligence.md)) `Awesome Lists` `Ai` `Machine Learning`
+- [awesome-cn](https://github.com/icopy-site/awesome-cn) - awesome-cn aggregates Chinese-language awesome lists for programming languages, frameworks, tools, and developer resources with categorization, search, and star rankings. Key features include a centralized index for quick discovery and Python-based search tooling. Perfect for discovering localized themed awesome lists, more focused than general collections like sindresorhus/awesome or GitHub topics. ([Read more](/details/awesome-cn.md)) `Meta Awesome` `List Aggregator` `Chinese`
+- [ever-works/awesome](https://github.com/ever-works/awesome) - Curates a meta-collection of awesome directories and lists, mirroring dir.works with details on PaaS, entities, and official links. Key features include deep categorization, starred repositories, and community-driven updates as of 2026. Ideal for quick resource discovery and learning paths in directory ecosystems; more niche and directory-focused compared to general collections like sindresorhus/awesome. ([Read more](/details/ever-worksawesome.md)) `Awesome Lists` `Meta Directory` `Curated Lists` `Open Source` `Directory Of Directories`
+- [Lists - The Definitive List of Lists](https://github.com/jnv/lists) - Comprehensive index serving as the ultimate aggregator of curated lists from GitHub and other platforms, encompassing awesome lists across programming, data science, design, and more. Key features include categorization by topic and list type, with emphasis on star-ranked and community-maintained collections for quality assurance. Use cases range from discovering specialized topic curations to assembling broad resource libraries; offers superior breadth compared to single-topic awesome lists. ([Read more](/details/lists-the-definitive-list-of-lists.md)) `Meta` `Lists` `Curation`
+- [mthcht/awesome-lists](https://github.com/mthcht/awesome-lists) - Security-focused Awesome lists for SOC/DFIR, featuring specialized content on detections and event IDs. Curated for cybersecurity professionals in Security Operations Center and Digital Forensics & Incident Response. ([Read more](/details/mthcht-awesome-lists.md)) `Awesome Lists` `Security` `Soc` `Dfir` `Detections`
+- [szabgab/awesome-lists](https://github.com/szabgab/awesome-lists) - Curates and aggregates GitHub awesome lists for efficient resource discovery across diverse topics. Key features: searchable meta-index, categorized collections of starred repos, community-driven updates. Use cases: quick browsing and learning paths; complements GitHub search as a focused aggregator versus broad lists like sindresorhus/awesome. ([Read more](/details/szabgabawesome-lists.md)) `Awesome Lists` `Meta Directory` `Curated Lists` `Open Source` `Searchable`
 
 ## Programming Languages
 
@@ -1915,24 +1911,15 @@ A curated list of awesome directories
 
 ## Awesome Aggregators
 
-- [Directory of Directories](https://github.com/dariubs/directory-of-directories) - Aggregator compiling 300+ directories including awesome lists, AI tools, SaaS across categories. Features type-based grouping (AI/SaaS), update status. Enables quick discovery and submission; broader than GitHub search for promotional directories. ([Read more](/details/directory-of-directories.md)) `Meta Awesome` `List Aggregator` `Github Stars` `Curated Index`
+- [Directory of Directories](https://github.com/dariubs/directory-of-directories) - Curated directory of directories beyond Awesome lists, including web directories and SEO sites. Serves as a discovery resource for non-GitHub curated resources and promotional listings. ([Read more](/details/directory-of-directories.md)) `Meta Awesome` `List Aggregator` `Github Stars` `Curated Index`
+
+## Awesome Linters & Validators
+
+- [Awesome Linters](https://github.com/caramelomartins/awesome-linters) - A community-driven list of awesome linters for various programming languages and file formats, helping developers maintain code quality through static analysis tools that check for common mistakes, style violations, and potential bugs. ([Read more](/details/awesome-linters.md)) `Linters` `Code Quality` `Static Analysis`
 
 ## Awesome List Generators
 
 - [curalist](https://github.com/queelius/curations) - CLI tool for managing curated collections: list entries across collections, filter by collection, download free PDFs, generate per-collection READMEs, and unified MkDocs sites. Used to generate the queelius/curations multi-collection awesome-lists. ([Read more](/details/curalist.md)) `Cli` `Open Source` `Markdown`
-
-## Awesome List Tools
-
-- [awesome-go-repo-stats](https://github.com/emanuelef/awesome-go-repo-stats) - awesome-go-repo-stats is a tool for tracking, building, and maintaining statistics for repositories in the 'awesome-go' awesome list. It provides daily updated star history, commit activity, dependency data, and exports in CSV/JSON for visualizations, helping curators stay informed on trends and health without manual GitHub searches. Compared to manual checks, it automates monitoring and offers aggregated insights for efficient list maintenance. ([Read more](/details/awesome-go-repo-stats.md)) `List Tools` `Maintenance` `Star Tracker` `Dynamic Updater` `Analytics` `Go`
-- [gh-stars](https://github.com/sokai/gh-stars) - An auto-updated list of sokai’s starred GitHub repositories, organized in an awesome-list style. It effectively acts as a dynamic awesome collection derived from GitHub stars, useful for discovering curated repositories. ([Read more](/details/gh-stars.md)) `Github` `Awesome Lists` `Curated Lists` `Github Stars` `Open Source Discovery` `2026 Curated`
-
-## Awesome List Trackers
-
-- [BurntFen's Awesome Lists](https://www.burntfen.com/projects/awesome/) - Personal website by burntfen showcasing and maintaining several awesome-* lists on GitHub. Tracks GitHub stars as a metric for user engagement with collaborative, curated lists of awesome resources. Mentions additional lists like git-flight-rules and endangered-languages that fit awesome criteria. ([Read more](/details/burntfens-awesome-lists.md)) `Awesome Lists` `Curated Lists` `Github` `Open Source`
-
-## Awesome Meta Directories
-
-- [awesome-cn](https://github.com/icopy-site/awesome-cn) - awesome-cn aggregates Chinese-language awesome lists for programming languages, frameworks, tools, and developer resources with categorization, search, and star rankings. Key features include a centralized index for quick discovery and Python-based search tooling. Perfect for discovering localized themed awesome lists, more focused than general collections like sindresorhus/awesome or GitHub topics. ([Read more](/details/awesome-cn.md)) `Meta Awesome` `List Aggregator` `Chinese`
 
 ## Blockchain & Crypto
 
@@ -2200,6 +2187,10 @@ A curated list of awesome directories
 - [OpenDirectoryDownloader](https://github.com/Devaro/OpenDirectoryDownloader) - Standalone program that indexes 100+ formats of open directories for downloading. ([Read more](/details/opendirectorydownloader.md)) `Open Source` `Downloader`
 - [Wget](https://www.gnu.org/software/wget) - Free software package for retrieving files using HTTP, HTTPS, FTP, and FTPS. ([Read more](/details/wget.md)) `Open Source` `Cli`
 
+## Dynamic Awesome Generators
+
+- [generator-awesome-list](https://github.com/sindresorhus/generator-awesome-list) - Yeoman generator for building and maintaining GitHub awesome lists by auto-generating standardized README.md templates, contributing guidelines, and repository structure compliant with Awesome Lint rules. Simplifies starting new curated directories and ensures consistency for ongoing maintenance. Ideal for developers creating topic-specific resource compilations. ([Read more](/details/generator-awesome-list.md)) `Meta Awesome` `List Aggregator` `Github Stars` `List Builder`
+
 ## Events
 
 - [Planet Ruby Calendar](https://planetruby.github.io/calendar/) - Calendar of Ruby events including meetups, conferences, and camps from around the world. ([Read more](/details/planet-ruby-calendar.md)) `Ruby` `Calendar` `Events`
@@ -2255,6 +2246,10 @@ A curated list of awesome directories
 
 - [FAVZ](https://favz.link/) - FAVZ is a categorized directory of websites, making it a relevant example of an awesome directory site. ([Read more](/details/favz.md)) `Web Directory` `Curated Lists` `Categorized` `Websites`
 
+## Generated Awesome Lists
+
+- [Generated Awesomeness](https://github.com/orsinium-labs/generated-awesomeness) - A GitHub repository that generates awesomeness lists or directories based on GitHub data and features. It appears to produce structured pages highlighting GitHub products like Copilot, Spark, and Models for developer workflows, security, and more, serving as a meta-collection tool. ([Read more](/details/generated-awesomeness.md)) `Generator` `Awesome Lists` `Github` `Automation` `Meta Awesome Index` `Autogenerated Lists` `List Of Awesome`
+
 ## Hardware
 
 - [Awesome Arduino](https://github.com/Lembed/Awesome-arduino) - A curated list of awesome Arduino hardware, libraries, and software with update script, covering Arduino development resources, sensor libraries, communication protocols, shields, and projects for makers and embedded systems developers. ([Read more](/details/awesome-arduino.md)) `Arduino` `Maker` `Embedded`
@@ -2268,6 +2263,10 @@ A curated list of awesome directories
 - [Awesome Open Source Hardware](https://github.com/aolofsson/awesome-opensource-hardware) - List of awesome open source hardware tools, generators, and reusable designs for digital hardware development, FPGA programming, and chip design. ([Read more](/details/awesome-open-source-hardware.md)) `Open Hardware` `Fpga` `Chip Design`
 - [Awesome Raspberry Pi](https://github.com/samyk/awesome-raspberrypi) - A curated list of awesome Raspberry Pi tools, projects, images and resources including operating systems like Ubuntu Core and Raspberry Pi OS, IoT projects, and development tools. ([Read more](/details/awesome-raspberry-pi.md)) `Raspberry Pi` `Iot` `Embedded` `Hardware` `Diy`
 - [Awesome Retro Computing](https://github.com/NuSkooler/awesome-retro-computing) - An awesome list of retro computing resources, covering vintage hardware, classic gaming, DOS environments, and vintage computing communities. A celebration of computing history and nostalgia. ([Read more](/details/awesome-retro-computing.md)) `Retro` `Vintage` `Gaming`
+
+## Inception Awesome
+
+- [awesome-awesomes (fleveque)](https://github.com/fleveque/awesome-awesomes) - Awesome collection of awesome lists of libraries, tools, frameworks and software for any programming language or related topics. It categorizes lists into programming languages, frameworks/platforms, and related useful resources like editors, IoT, shell, sysadmin, talks, machine learning, and other awesomes. ([Read more](/details/awesome-awesomes-fleveque.md)) `Awesome Lists` `Meta Directory` `Curated Lists` `Open Source` `Meta Awesome Index` `Autogenerated Lists` `List Of Awesome`
 
 ## IoT
 
@@ -2386,15 +2385,6 @@ A curated list of awesome directories
 
 - [mcp-servers](https://github.com/ever-works/awesome-mcp-servers) - A curated list of the best MCP Servers, featuring top solutions, libraries, tools, and more. ([Read more](/details/mcp-servers.md)) `Mcp` `Server` `Ai`
 
-## Meta Awesome Directories
-
-- [Aero Structures](https://github.com/teresagris/aero-structures) - A curated meta-collection of awesome resources and lists focused on aircraft structures analysis for aerospace engineers, aggregating GitHub repositories, tools, papers, and tutorials for easy discovery. Key features include categorized content and ongoing updates. Ideal for researching aerospace projects and finding structural analysis alternatives; more niche than sindresorhus/awesome. ([Read more](/details/aero-structures.md)) `Meta List` `List Of Lists` `Aerospace`
-- [AI Agents Directories](https://github.com/danielmiessler/ai-agents-directories) - A comprehensive list of the best AI agent directories available online. It provides a resource for discovering directories focused on AI agents. ([Read more](/details/ai-agents-directories.md)) `Ai` `Agents` `Directories`
-- [ever-works/awesome](https://github.com/ever-works/awesome) - Curates a meta-collection of awesome directories and lists, mirroring dir.works with details on PaaS, entities, and official links. Key features include deep categorization, starred repositories, and community-driven updates as of 2026. Ideal for quick resource discovery and learning paths in directory ecosystems; more niche and directory-focused compared to general collections like sindresorhus/awesome. ([Read more](/details/ever-worksawesome.md)) `Awesome Lists` `Meta Directory` `Curated Lists` `Open Source` `Directory Of Directories`
-- [Lists - The Definitive List of Lists](https://github.com/jnv/lists) - The definitive list of lists curated on GitHub and elsewhere. Meta-collection aggregating awesome lists, curated lists, and other resource collections across all topics and platforms. ([Read more](/details/lists-the-definitive-list-of-lists.md)) `Meta` `Lists` `Curation`
-- [mthcht/awesome-lists](https://github.com/mthcht/awesome-lists) - Curates a meta-collection of various 'awesome' lists across topics, serving as a directory of awesome resources. Key features: aggregation of themed awesome lists, categorized by topic, community-driven curation. Use cases: quick cross-topic resource discovery, building learning paths; more specialized meta-index than comprehensive general lists like sindresorhus/awesome. ([Read more](/details/mthcht-awesome-lists.md)) `Awesome Lists` `Meta Directory` `Curated Lists` `Open Source` `Aggregator`
-- [szabgab/awesome-lists](https://github.com/szabgab/awesome-lists) - Curates and aggregates GitHub awesome lists for efficient resource discovery across diverse topics. Key features: searchable meta-index, categorized collections of starred repos, community-driven updates. Use cases: quick browsing and learning paths; complements GitHub search as a focused aggregator versus broad lists like sindresorhus/awesome. ([Read more](/details/szabgabawesome-lists.md)) `Awesome Lists` `Meta Directory` `Curated Lists` `Open Source` `Searchable`
-
 ## Meta Directories
 
 - [best-of](https://github.com/best-of-lists/best-of) - A curated meta-directory of 'best-of' lists featuring awesome open-source projects organized across multiple topics. Serves as a central resource for discovering high-quality directory listings and collections on GitHub, making it directly relevant to 'Awesome Directories'. ([Read more](/details/best-of.md)) `Meta Directory` `Curated Lists` `Open Source` `Github`
@@ -2443,6 +2433,18 @@ A curated list of awesome directories
 
 - [Awesome Java](https://github.com/akullpp/awesome-java) - A curated list of awesome Java frameworks, libraries and software. ([Read more](/details/awesome-java.md)) `Java` `Awesome Lists` `Frameworks`
 
+## Project Awesome Lists
+
+- [Rector](https://github.com/rectorphp/awesome-rector) - Official Awesome list for Rector, aggregating the best libraries, tools, and tutorials in the Rector ecosystem. Topic-focused and maintained by the core team. Ideal for onboarding developers to the Rector ecosystem, unlike general awesome lists which cover broader topics. ([Read more](/details/rector.md)) `Official Awesome` `Project Ecosystem` `Curated Resources`
+- [ReScript](https://github.com/rescript-association/awesome-rescript) - Official Awesome list for ReScript, aggregating the best libraries, tools, and tutorials in the ReScript ecosystem. Topic-focused and maintained by the core team. Ideal for onboarding developers to the ReScript ecosystem, unlike general awesome lists which cover broader topics. ([Read more](/details/rescript.md)) `Official Awesome` `Project Ecosystem` `Curated Resources`
+- [Temporal](https://github.com/temporalio/awesome-temporal) - Official Awesome list for Temporal, aggregating the best libraries, tools, and tutorials in the Temporal ecosystem. Topic-focused and maintained by the core team. Ideal for onboarding developers to the Temporal ecosystem, unlike general awesome lists which cover broader topics. ([Read more](/details/temporal.md)) `Official Awesome` `Project Ecosystem` `Curated Resources`
+- [Tinybird](https://github.com/tinybirdco/awesome-tinybird) - Official Awesome list for Tinybird, aggregating the best libraries, tools, and tutorials in the Tinybird ecosystem. Topic-focused and maintained by the core team. Ideal for onboarding developers to the Tinybird ecosystem, unlike general awesome lists which cover broader topics. ([Read more](/details/tinybird.md)) `Official Awesome` `Project Ecosystem` `Curated Resources`
+- [Turborepo](https://github.com/vercel/awesome-turbo) - Official Awesome list for Turborepo, aggregating the best libraries, tools, and tutorials in the Turborepo ecosystem. Topic-focused and maintained by the core team. Ideal for onboarding developers to the Turborepo ecosystem, unlike general awesome lists which cover broader topics. ([Read more](/details/turborepo.md)) `Official Awesome` `Project Ecosystem` `Curated Resources`
+- [Typesense](https://github.com/typesense/awesome-typesense) - Official Awesome list for Typesense, aggregating the best libraries, tools, and tutorials in the Typesense ecosystem. Topic-focused and maintained by the core team. Ideal for onboarding developers to the Typesense ecosystem, unlike general awesome lists which cover broader topics. ([Read more](/details/typesense.md)) `Official Awesome` `Project Ecosystem` `Curated Resources`
+- [Viem](https://github.com/wevm/awesome-viem) - Official Awesome list for Viem, aggregating the best libraries, tools, and tutorials in the Viem ecosystem. Topic-focused and maintained by the core team. Ideal for onboarding developers to the Viem ecosystem, unlike general awesome lists which cover broader topics. ([Read more](/details/viem.md)) `Official Awesome` `Project Ecosystem` `Curated Resources`
+- [wagmi](https) - A curated collection of resources for wagmi, the collection of React Hooks for Ethereum. ([Read more](/details/wagmi.md)) `Blockchain & Crypto:wagmi` `React` `Ethereum`
+- [Wails](https) - A curated list of resources for Wails, the framework for building desktop applications using Go and web technologies. ([Read more](/details/wails.md)) `Development Tools:wails` `Desktop` `Golang`
+
 ## Quantum Computing
 
 - [Awesome Quantum Software](https://github.com/qosf/awesome-quantum-software) - A curated list of open-source quantum software projects including Qiskit, Cirq, and other quantum computing frameworks, libraries, and simulators. ([Read more](/details/awesome-quantum-software.md)) `Quantum Computing` `Quantum Software` `Qiskit`
@@ -2472,6 +2474,10 @@ A curated list of awesome directories
 ## Self-Hosting
 
 - [Self-Hosting Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - A comprehensive guide to locally hosting and managing software applications including Cloud, LLMs, WireGuard, automation, Home Assistant, and networking on your own servers. ([Read more](/details/self-hosting-guide.md)) `Self Hosting` `Homelab` `Privacy`
+
+## Star Trackers
+
+- [awesome-go-repo-stats](https://github.com/emanuelef/awesome-go-repo-stats) - awesome-go-repo-stats is a tool for tracking, building, and maintaining statistics for repositories in the 'awesome-go' awesome list. It provides daily updated star history, commit activity, dependency data, and exports in CSV/JSON for visualizations, helping curators stay informed on trends and health without manual GitHub searches. Compared to manual checks, it automates monitoring and offers aggregated insights for efficient list maintenance. ([Read more](/details/awesome-go-repo-stats.md)) `List Tools` `Maintenance` `Star Tracker` `Dynamic Updater` `Analytics` `Go`
 
 ## Time Tracking
 
