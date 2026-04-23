@@ -1,5 +1,5 @@
 # Submit SaaS
 
-This is a meta collection aggregating SaaS directories for easy product submissions. Key features include a straightforward list of submission sites. Use cases for SaaS makers discovering directories to list their products, focused on submissions unlike broad awesome lists like sindresorhus/awesome.
+Submit SaaS is a focused meta-directory listing directories where SaaS products can be submitted for visibility and promotion. It features a simple, categorized compilation of submission sites tailored for makers and bootstrappers. Use cases center on streamlining product listing discovery, offering a practical alternative to expansive awesome lists like sindresorhus/awesome with its submission-oriented approach.
 
 [https://github.com/submit-saas/submit-saas](https://github.com/submit-saas/submit-saas)
