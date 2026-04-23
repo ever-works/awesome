@@ -9,10 +9,10 @@ jnv/lists is a comprehensive meta-directory that curates lists of directories fr
 ## Features
 - Extensive collection of curated lists, including both technical and non-technical topics
 - Lists sourced from GitHub and external websites
-- Multiple levels of list organization ("lists of lists", up to several levels deep)
+- Multiple levels of list organization (\"lists of lists\", up to several levels deep)
 - Contributions from a large community (over 130 contributors)
 - Available in CSV format for easier data manipulation
-- Includes "awesome-*" style lists and other themed collections
+- Includes \"awesome-*\" style lists and other themed collections
 - Open for contributions via GitHub
 
 ## Tags
