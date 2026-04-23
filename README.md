@@ -4,16 +4,18 @@ A curated list of awesome directories
 ## 📑 Table of Contents
 
 - [Featured Awesome Lists (20)](#featured-awesome-lists)
-- [Themed Directories (1,036)](#themed-directories)
+- [Themed Directories (1,048)](#themed-directories)
 - [Meta Directories (247)](#meta-directories)
 - [Learning & Education (49)](#learning--education)
 - [Awesome Meta Collections (19)](#awesome-meta-collections)
 - [Project Awesome Lists (14)](#project-awesome-lists)
 - [Remote Work (19)](#remote-work)
-- [Development Tools (79)](#development-tools)
+- [Development Tools (83)](#development-tools)
 - [Automation & Integration (4)](#automation--integration)
 - [Data Engineering (24)](#data-engineering)
 - [Directory Promotion Tools (12)](#directory-promotion-tools)
+- [Launch Directories (3)](#launch-directories)
+- [Product Directories (8)](#product-directories)
 - [AI Awesome Directories (2)](#ai-awesome-directories)
 - [Awesome Indexes & Hubs (1)](#awesome-indexes--hubs)
 - [Awesome List Aggregators (5)](#awesome-list-aggregators)
@@ -23,7 +25,6 @@ A curated list of awesome directories
 - [Dynamic List Trackers (2)](#dynamic-list-trackers)
 - [Inception Meta Lists (1)](#inception-meta-lists)
 - [Inception-Level Metas (1)](#inception-level-metas)
-- [Launch Directories (1)](#launch-directories)
 - [Learning Education (3)](#learning-education)
 - [Programming Languages (27)](#programming-languages)
 - [Security (35)](#security)
@@ -32,7 +33,7 @@ A curated list of awesome directories
 - [Themed Directories (36)](#themed-directories-1)
 - [AI Directories (1)](#ai-directories)
 - [Audio & Music (12)](#audio--music)
-- [Automation (2)](#automation)
+- [Automation (3)](#automation)
 - [Awesome Aggregators (1)](#awesome-aggregators)
 - [Awesome List Generators (1)](#awesome-list-generators)
 - [Awesome List Tools (2)](#awesome-list-tools)
@@ -53,27 +54,32 @@ A curated list of awesome directories
 - [Design (11)](#design)
 - [Development Tools (1)](#development-tools-1)
 - [Devops Sre (1)](#devops-sre)
+- [Devops Sre (1)](#devops-sre-1)
 - [Directory Building Tools (2)](#directory-building-tools)
 - [Directory of Directories (2)](#directory-of-directories)
 - [Directory Promotion Tools (1)](#directory-promotion-tools-1)
+- [Directory Search (6)](#directory-search)
+- [Download Tools (3)](#download-tools)
 - [Events (1)](#events)
+- [FTP Search (2)](#ftp-search)
 - [Game Development (14)](#game-development)
-- [General Directories (21)](#general-directories)
+- [General Directories (22)](#general-directories)
 - [General Directories (1)](#general-directories-1)
 - [Hardware (11)](#hardware)
 - [IoT (8)](#iot)
+- [Launch Directories (1)](#launch-directories-1)
 - [Learning Education (2)](#learning-education-1)
 - [List of Lists Indexes (1)](#list-of-lists-indexes)
-- [Machine Learning & AI (81)](#machine-learning--ai)
+- [Machine Learning & AI (82)](#machine-learning--ai)
 - [Machine Learning & AI (1)](#machine-learning--ai-1)
 - [MCP Servers (1)](#mcp-servers)
 - [Meta Awesome Directories (6)](#meta-awesome-directories)
 - [Meta Directories (4)](#meta-directories-1)
 - [Mobile Development (5)](#mobile-development)
 - [Mobile Development (2)](#mobile-development-1)
+- [Music Directories (1)](#music-directories)
 - [Open Source (11)](#open-source)
 - [Open Source (3)](#open-source-1)
-- [Product Directories (1)](#product-directories)
 - [Programming Languages (1)](#programming-languages-1)
 - [Quantum Computing (1)](#quantum-computing)
 - [Robotics (10)](#robotics)
@@ -162,6 +168,7 @@ A curated list of awesome directories
 - [Awesome Adafruit IO](https://github.com/adafruit/awesome-adafruitio#readme) - An awesome collection of examples, libraries, and resources for Adafruit IO, a cloud service for visualizing and storing data from devices. ([Read more](/details/awesome-adafruit-io.md)) `Iot` `Cloud` `Data Visualization`
 - [Awesome Ads](https://github.com/cenoura/awesome-ads) - A curated list of resources and tools for online advertising and programmatic media for websites. ([Read more](/details/awesome-ads.md)) `Awesome Lists` `Marketing` `Advertising`
 - [Awesome ADS-B](https://github.com/rickstaa/awesome-adsb#readme) - Awesome collection of tools, libraries, and resources centered on ADS-B, the technology for broadcasting aircraft data. ([Read more](/details/awesome-ads-b.md)) `Awesome Lists` `Gis` `Hardware`
+- [Awesome Agents](https://github.com/NipunaRanasinghe/awesome-ai-agents) - A curated list of AI agent platforms, frameworks, protocols, tools, and resources. This list is tracked on TrackAwesomeList with 45 stars as of March 28. ([Read more](/details/awesome-agents.md)) `Awesome Lists` `Ai` `Agents` `Curated`
 - [Awesome AGI & CoCoSci](https://github.com/YuzheSHI/awesome-agi-cocosci#readme) - A curated Awesome list on the intersection of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci). ([Read more](/details/awesome-agi-cocosci.md)) `Ai` `Research` `Awesome Lists`
 - [Awesome Agile](https://lorabv.github.io/awesome-agile) - Curated list of Agile software development resources, tools, books, and methodologies. ([Read more](/details/awesome-agile.md)) `Agile` `Software Development` `Methodologies`
 - [Awesome Agriculture](https://github.com/brycejohnston/awesome-agriculture#readme) - A curated list of open source technology projects for farming and gardening, including hardware, software, and data resources. ([Read more](/details/awesome-agriculture.md)) `Awesome Lists` `Agriculture` `Open Source`
@@ -482,6 +489,7 @@ A curated list of awesome directories
 - [Awesome Kustomize](https://github.com/DevOpsHiveHQ/awesome-kustomize#readme) - A curated list of awesome Kustomize resources, plugins, tools, and examples for Kubernetes-native declarative configuration management. ([Read more](/details/awesome-kustomize.md)) `Kubernetes` `Devops` `Configuration`
 - [Awesome Laravel](https://github.com/chiraggude/awesome-laravel) - A curated awesome list of Laravel ecosystem resources, including packages, tutorials, and learning materials. ([Read more](/details/awesome-laravel.md)) `Awesome Lists` `Php` `Web Development`
 - [Awesome Laravel Education](https://github.com/fukuball/Awesome-Laravel-Education#readme) - A curated collection of educational resources for learning Laravel, including tutorials, screencasts, and courses. ([Read more](/details/awesome-laravel-education.md)) `Laravel` `Education` `Web Development`
+- [Awesome Laravel Filament](https://github.com/laravel-filament/awesome-laravel-filament) - A list for the topic Laravel and Filament. Tracked with 5 stars as of March 19. ([Read more](/details/awesome-laravel-filament.md)) `Awesome Lists` `Laravel` `Filament`
 - [Awesome LaTeX](https://github.com/egeerardyn/awesome-LaTeX#readme) - An Awesome collection of LaTeX packages, templates, editors, and learning materials. ([Read more](/details/awesome-latex.md)) `Awesome Lists` `Documentation` `Math`
 - [Awesome Learn by Playing](https://github.com/lmammino/awesome-learn-by-playing) - An Awesome-style curated list of resources that teach programming languages through games and playful activities, part of the wider Awesome directories ecosystem. ([Read more](/details/awesome-learn-by-playing.md)) `Awesome Lists` `Education` `Games`
 - [Awesome Learn Data Science](https://github.com/siboehm/awesome-learn-datascience#readme) - An Awesome list focused specifically on high-quality tutorials and learning resources for data science, extending the broader Awesome Data Science directory. ([Read more](/details/awesome-learn-data-science.md)) `Data Science` `Education` `Resources`
@@ -891,6 +899,12 @@ A curated list of awesome directories
 - [awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems) - An awesome list focused on distributed systems, curating educational materials, papers, and tools, and serving as a specialized directory within the Awesome collection. ([Read more](/details/awesome-distributed-systems.md)) `Awesome Lists` `Distributed` `Computer Science`
 - [awesome-ecs](https://github.com/awesome-ecs/awesome-ecs) - AWS Elastic Container Service and Fargate. A curated list of awesome AWS ECS resources. ([Read more](/details/awesome-ecs.md)) `Awesome Lists` `Aws` `Cloud Native`
 - [awesome-ejabberd by shantanudeshmukh](https://ejabberd.shantanudeshmukh.com) - All awesome stuff of the ejabberd ecosystem. Curated resources for ejabberd XMPP server. ([Read more](/details/awesome-ejabberd-by-shantanudeshmukh.md)) `Xmpp` `Chat` `Ejabberd`
+- [awesome-elisp](https://github.com/emacs-tw/awesome-elisp) - Emacs Lisp development resources. A curated list of resources for Emacs Lisp development. ([Read more](/details/awesome-elisp.md)) `Awesome Lists` `Emacs` `Elisp`
+- [awesome-embedded-security](https://github.com/tenable/awesome-embedded-security) - Curated list of embedded security resources. ([Read more](/details/awesome-embedded-security.md)) `Awesome Lists` `Security` `Embedded`
+- [awesome-endless-codeforall-list](https://github.com/codeforamerica/awesome-endless-codeforall-list) - Every tool that civic hackers worldwide use to work. ([Read more](/details/awesome-endless-codeforall-list.md)) `Awesome Lists` `Civic Tech` `Open Source`
+- [awesome-engineer-onboarding](https://github.com/Engineering-Handbook/awesome-engineer-onboarding) - Resources for engineering onboarding. ([Read more](/details/awesome-engineer-onboarding.md)) `Awesome Lists` `Onboarding` `Engineering`
+- [awesome-engineering-ladders](https://github.com/opendevrel/engineering-ladders) - Engineering ladders for software engineers. Resources and examples of engineering ladders. ([Read more](/details/awesome-engineering-ladders.md)) `Awesome Lists` `Engineering` `Career`
+- [awesome-engineering-team-principles](https://github.com/Engineering-Handbook/awesome-engineering-team-principles) - Engineering team principles. Curated list of engineering team principles. ([Read more](/details/awesome-engineering-team-principles.md)) `Awesome Lists` `Engineering` `Team`
 - [Awesome-Hacker-Search-Engines](https://github.com/123tool/Awesome-Hacker-Search-Engines) - An Awesome-style curated list of specialized search engines valuable for penetration testing, vulnerability assessment, red/blue team operations, and bug bounty work. ([Read more](/details/awesome-hacker-search-engines.md)) `Security` `Search` `Hacking`
 - [Awesome-Historic_al-Maps](https://github.com/stark1tty/Awesome-Historic_al-Maps) - An Awesome-style meta collection of guidance, tools, repositories, databases, and search engines for exploring historical maps. ([Read more](/details/awesome-historic_al-maps.md)) `Maps` `History` `Gis`
 - [awesome-homelab](https://github.com/miantiao-me/awesome-homelab) - A specialized awesome list curating top open-source applications and resources for homelab and self-hosting enthusiasts, fitting into the wider awesome-lists ecosystem. ([Read more](/details/awesome-homelab.md)) `Awesome Lists` `Self Hosted` `Homelab`
@@ -1079,7 +1093,11 @@ A curated list of awesome directories
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love#readme) - An Awesome-style community-driven repository of academic computer science papers, organized by topic and institution. ([Read more](/details/papers-we-love.md)) `Computer Science` `Research` `Papers`
 - [Personal-AI-Resources](https://github.com/danielrosehill/Personal-AI-Resources) - Aggregated personal AI resources. ([Read more](/details/personal-ai-resources.md)) `Personal Ai` `Resources` `Awesome Lists`
 - [phillipadsmith/awesome-github](https://github.com/phillipadsmith/awesome-github) - A curated list of GitHub-related tools, tips, and resources, collecting GitHub’s "awesomeness" in a single directory-style repository. ([Read more](/details/phillipadsmithawesome-github.md)) `Awesome Lists` `Github` `Developer Tools`
+- [phpvietnam/bookmarks](https://github.com/phpvietnam/bookmarks) - PHP resources for Vietnamese developers. Curated bookmarks and links related to PHP. ([Read more](/details/phpvietnambookmarks.md)) `Php` `Vietnamese` `Resources`
 - [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup#readme) - An awesome-style curated directory of sites, communities, and platforms where founders can post and promote their startups. ([Read more](/details/places-to-post-your-startup.md)) `Startups` `Marketing` `Promotion`
+- [Product-Management-and-Leadership](https://github.com/dend/Product-Management-and-Leadership) - Resources on product management and leadership. Curated list of articles, books, and tools for product managers. ([Read more](/details/product-management-and-leadership.md)) `Product Management` `Leadership` `Business`
+- [programmers-proverbs](https://github.com/mneumann/programmers-proverbs) - Proverbs from the programmer. Collection of sayings and wisdom relevant to software developers. ([Read more](/details/programmers-proverbs.md)) `Proverbs` `Programming` `Awesome Lists`
+- [programming-talks](https://github.com/enaqx/awesome-programming-talks) - Awesome & Interesting Talks concerning Programming. Collection of video talks on programming topics. ([Read more](/details/programming-talks.md)) `Talks` `Videos` `Programming`
 - [Progressive Enhancement Resources](https://github.com/jbmoelker/progressive-enhancement-resources#readme) - An awesome-style curated collection of articles, tools, and references focused on progressive enhancement in web development. ([Read more](/details/progressive-enhancement-resources.md)) `Web Development` `Accessibility` `Resources`
 - [Project Awesome: Android Security](https://github.com/ashishb/android-security-awesome) - Curated GitHub awesome list for Android security, with 5800 stars. Covers tools, academic research, publications, exploits, vulnerabilities, and bugs. Ideal for developers and security researchers seeking resources to analyze, exploit, and defend Android apps and devices. Alternative to general directories. ([Read more](/details/android-security-awesome.md)) `Android` `Security` `Awesome Lists`
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning) - An awesome-style curated list of project-based tutorials across languages and domains, helping learners build skills through hands-on projects. ([Read more](/details/project-based-learning.md)) `Education` `Tutorials` `Projects`
@@ -1583,6 +1601,7 @@ A curated list of awesome directories
 - [Awesome Workflow Automation](https://github.com/dariubs/awesome-workflow-automation) - A curated list of workflow automation software, engines, and tools for engineers managing data flows, ETL pipelines, scheduled jobs, and complex production workflows including Apache Airflow, Prefect, and n8n. ([Read more](/details/awesome-workflow-automation.md)) `Automation` `Workflow` `Orchestration`
 - [Awesome YAML](https://github.com/dreftymac/awesome-yaml) - A collection of awesome YAML (Ain't Markup Language) goodies for structured metadata in text, including parsers, tools, libraries, and resources for working with YAML configuration files. ([Read more](/details/awesome-yaml.md)) `Yaml` `Configuration` `Data Formats`
 - [Awesome Zsh](https://github.com/unixorn/awesome-zsh-plugins) - A curated collection of resources, plugins, themes, and frameworks for Zsh (Z shell), the powerful Unix shell with extensive customization options, intelligent command completion, and enhanced scripting capabilities. ([Read more](/details/awesome-zsh.md)) `Zsh` `Shell` `Terminal`
+- [classlayout.nvim](https://github.com/J-Cowsert/classlayout.nvim) - Neovim plugin to visualize C/C++ struct and class memory layouts, showing field offsets, padding, and alignment in a floating window. Featured in Awesome Neovim under Programming Languages Support and Diagnostics. Useful for low-level C/C++ development and debugging memory structures. ([Read more](/details/classlayoutnvim.md)) `Neovim` `c++` `Visualizer` `Open Source`
 - [Documentation Handbook](https://github.com/jamiebuilds/documentation-handbook) - How to write high-quality friendly documentation that people want to read featuring best practices, templates, and writing guidelines for technical documentation. ([Read more](/details/documentation-handbook.md)) `Documentation` `Writing` `Best Practices`
 - [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Software reverse engineering (SRE) framework developed by NSA. It supports disassembly, decompilation, graphing, scripting, and more for various processor architectures. ([Read more](/details/ghidra.md)) `Open Source` `Reverse Engineering` `Security`
 - [GraphQL APIs](https://github.com/APIs-guru/graphql-apis) - A collective list of public GraphQL APIs curated by APIs-guru, featuring APIs for anime, Pokémon, SpaceX, Spotify, Star Wars, UFC, foreign exchange rates, and more. Ideal for developers exploring and adopting GraphQL capabilities in their projects. ([Read more](/details/graphql-apis.md)) `Apis` `Graphql` `Developer Resources`
@@ -1590,8 +1609,11 @@ A curated list of awesome directories
 - [Lovable](https://lovable.ai) - AI-powered app builder enabling non-technical founders to build full-stack applications in 2026. Part of the no-code revolution where anyone can build SaaS products with zero technical knowledge. Features AI code generation and logic building. ([Read more](/details/lovable.md)) `Ai` `No Code` `App Builder`
 - [Low-Code No-Code Platforms](https://github.com/Mintahandrews/Low-Code-No-Code-Platforms) - Curated list of the best low-code and no-code platforms for rapid application development, automation, and digital transformation with open-source and commercial tools. ([Read more](/details/low-code-no-code-platforms.md)) `Low Code` `No Code` `Rapid Development`
 - [Markdown Badges](https://github.com/Ileriayo/markdown-badges) - A comprehensive collection of badges for personal developer branding, GitHub profiles, and project READMEs with simple markdown syntax for various technologies and platforms. ([Read more](/details/markdown-badges.md)) `Badges` `Markdown` `Github`
+- [nvim.pack](https://github.com/plutowang/nvim.pack) - A declarative, event-driven lazy-loading configuration for Neovim built purely on native Vim.pack, optimized for extreme startup performance. Listed in Awesome Neovim under Preconfigured Configuration and Automation. Ideal for high-performance Neovim setups. ([Read more](/details/nvimpack.md)) `Neovim` `Configuration` `Lazy Loading` `Open Source`
 - [Pull Request Review Guide](https://github.com/mawrkus/pull-request-review-guide) - Guidelines for better, faster pull request reviews. Comprehensive guide for both authors and reviewers to improve collaborative code review process and maintain high code quality. ([Read more](/details/pull-request-review-guide.md)) `Code Review` `Best Practices` `Collaboration`
+- [shebang.nvim](https://github.com/DrKJeff16/shebang.nvim) - A Neovim plugin designed to add or modify the shebang line at the top of the current file, enhancing editing support particularly for scripts. Recently added to Awesome Neovim under Editing Support and Scrollbar. Provides utility for developers working with executable scripts in Neovim. ([Read more](/details/shebangnvim.md)) `Neovim` `Plugin` `Open Source`
 - [Tiny Tools Directory](https://tinytools.directory/) - Curated collection of open source, experimental, and tiny tools for building games, websites, and interactive projects. ([Read more](/details/tiny-tools-directory.md)) `Tiny Tools` `Open Source` `Game Development` `Web Development`
+- [verify](https://github.com/tickstem/verify) - Go library to validate email addresses before database insertion, checking syntax, MX records, disposable domains, and role-based inboxes. Added to Awesome Go under Email. Enhances data quality in applications handling user registrations. ([Read more](/details/verify.md)) `Go` `Email` `Validation` `Open Source`
 
 ## Automation & Integration
 
@@ -1641,6 +1663,23 @@ A curated list of awesome directories
 - [ShipSquad](https://shipsquad.space) - Product launch platform and Microlaunch alternative for getting feedback and early users. Community-driven product discovery focusing on sustained engagement rather than viral moments. Listed among top Microlaunch competitors in 2026. ([Read more](/details/shipsquad.md)) `Startup` `Product Discovery` `Community`
 - [Startup Stash](https://startupstash.com) - A curated directory of tools and resources to build your startup, featuring thousands of vetted products across design, marketing, development, and business tools. Offers strong SEO benefits and is ideal for established tools with clear value propositions. ([Read more](/details/startup-stash.md)) `Startup` `Tools` `Curated Lists`
 - [submitsaas.com](https://submitsaas.com) - A service that facilitates the submission of SaaS products to over 100 directories, aiming to save time and enhance online presence for SaaS businesses. ([Read more](/details/submitsaascom.md)) `Saas` `Submission Service` `Promotion`
+
+## Launch Directories
+
+- [LaunchDirectories](https://launchdirectories.com) - LaunchDirectories is a meta-index of startup directories and launch sites, aggregating curated collections with submission guides. It features filtering by platform, traffic rankings, and regular 2026 updates. Ideal for quick discovery of niche launch platforms; more comprehensive than single awesome lists. ([Read more](/details/launchdirectories.md)) `Directory Of Lists` `Curated Meta` `Star Ranking`
+- [Product Hunt](https://www.producthunt.com) - The go-to platform to launch and discover new products. Product Hunt is where makers launch their products and get feedback from early adopters in the tech community. ([Read more](/details/product-hunt.md)) `Saas` `Product Launch` `Startup`
+- [Altern](https://altern.cc) - Launch platform for AI tools. Altern helps AI tool makers launch and promote their products. ([Read more](/details/altern.md)) `Ai` `Launch` `Tools`
+
+## Product Directories
+
+- [Capterra](https://www.capterra.com) - Comprehensive software listing and reviews platform. Capterra helps users discover and compare software with detailed reviews. ([Read more](/details/capterra.md)) `Reviews` `Saas` `Comparison`
+- [G2](https://www.g2.com) - Software reviews platform to build credibility and reach businesses. G2 provides authentic user reviews to help buyers evaluate software solutions. ([Read more](/details/g2.md)) `Reviews` `B2b` `Saas`
+- [B2B Stack](https://www.b2bstack.co) - SaaS tools directory for B2B use. Curates tools for business-to-business applications. ([Read more](/details/b2b-stack.md)) `B2b` `Saas` `Tools`
+- [GetApp](https://www.getapp.com) - Platform to discover and compare software tools. GetApp offers reviews and comparisons for business software. ([Read more](/details/getapp.md)) `Reviews` `Saas` `Business`
+- [Productivity Directory](https://productivity.directory) - List of top Productivity tools, books, podcasts and products. Curated directory of productivity resources. ([Read more](/details/productivity-directory.md)) `Productivity` `Tools` `Directory`
+- [TapRefer](https://taprefer.com) - Biggest directory of affiliate programs. Lists affiliate opportunities for SaaS and digital products. ([Read more](/details/taprefer.md)) `Affiliate` `Saas` `Marketing`
+- [Trustpilot](https://www.trustpilot.com) - Platform to collect customer reviews and establish trust. Trustpilot allows businesses to gather and display customer feedback. ([Read more](/details/trustpilot.md)) `Reviews` `Trust` `Customer Feedback`
+- [Zapier Directory](https://zapier.com/apps) - Directory of tools integrated with Zapier. Lists apps that can be connected via Zapier for automation. ([Read more](/details/zapier-directory.md)) `Automation` `Integration` `Saas`
 
 ## AI Awesome Directories
 
@@ -1719,10 +1758,6 @@ A curated list of awesome directories
 ## Inception-Level Metas
 
 - [Awesome Awesomes](https://github.com/athityakumar/awesome-awesomes) - Inception-level curated list of awesome lists, automatically generated. Aggregates hundreds of awesome repos by topic. Features: Topic categorization, star rankings, daily tracking, broken link detection. Use cases: Rapid discovery of relevant awesome lists. Comparisons: Deeper automated aggregation than sindresorhus/awesome, more metrics-focused than manual curations. ([Read more](/details/awesome-awesomes.md)) `Meta Awesome` `List Aggregator` `Github Stars` `Curated Index`
-
-## Launch Directories
-
-- [LaunchDirectories](https://launchdirectories.com) - LaunchDirectories is a meta-index of startup directories and launch sites, aggregating curated collections with submission guides. It features filtering by platform, traffic rankings, and regular 2026 updates. Ideal for quick discovery of niche launch platforms; more comprehensive than single awesome lists. ([Read more](/details/launchdirectories.md)) `Directory Of Lists` `Curated Meta` `Star Ranking`
 
 ## Learning Education
 
@@ -1876,6 +1911,7 @@ A curated list of awesome directories
 
 - [Awesome RPA](https://github.com/rpabotsworld/awesome-rpa) - A curated list of Robotic Process Automation tools, frameworks, libraries, blogs, tutorials, and resources for automating repetitive business processes and tasks across applications. ([Read more](/details/awesome-rpa.md)) `Rpa` `Automation` `Workflow`
 - [Awesome Workflow Engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of open source workflow engines for orchestrating complex business processes, data pipelines, and distributed systems, enabling design, execution, and monitoring of workflows. ([Read more](/details/awesome-workflow-engines.md)) `Workflow` `Orchestration` `Automation`
+- [cron](https://github.com/tickstem/cron) - Go client for scheduling HTTP cron jobs with execution history, failure alerts, and tsk-local for testing without live credentials. Featured in Awesome Go under Job Scheduler. Simplifies scheduled task management in Go applications. ([Read more](/details/cron.md)) `Go` `Cron` `Job Scheduler` `Open Source`
 
 ## Awesome Aggregators
 
@@ -2131,6 +2167,10 @@ A curated list of awesome directories
 
 - [ops-books](https://github.com/opscrawl/ops-books) - Book recommendations on Continuous Delivery, DevOps, Operations, and Systems Thinking. ([Read more](/details/ops-books.md)) `Books` `Devops` `Awesome Lists`
 
+## Devops Sre
+
+- [os-moda](https://github.com/bolivian-peru/os-moda) - A NixOS distribution featuring an AI agent with root access through 91 typed MCP tools. Includes 9 Rust daemons for system bridging, atomic deploys with auto-rollback, audit ledger, crypto wallets, P2P mesh, local STT/TTS, MCP server management, system learning, and egress proxy. Added to Awesome Rust under Applications and System tools. ([Read more](/details/os-moda.md)) `Rust` `Nixos` `Ai Agent` `Mcp` `Open Source`
+
 ## Directory Building Tools
 
 - [Awesome Lists Website](https://github.com/ravern/awesome) - Website for creating and sharing awesome lists, which are curated collections of links to resources on specific topics. Built using Phoenix framework in Elixir with Bootstrap 4.0 for the frontend. Developed by Ravern Koh as a pet project to learn photo uploads, email sending, and other features. ([Read more](/details/awesome-lists-website.md)) `Open Source` `Awesome Lists` `Elixir`
@@ -2145,9 +2185,29 @@ A curated list of awesome directories
 
 - [SubmitDirs](https://submitdirs.com/) - SubmitDirs is a service that submits websites to a curated list of directories, useful for those looking to promote their directory listings or discover quality directories for backlinking. ([Read more](/details/submitdirs.md)) `Directory Submission` `Seo` `Promotion` `Web Directory`
 
+## Directory Search
+
+- [CatFiles](https://www.catfiles.net) - File and directory search tool. ([Read more](/details/catfiles.md)) `Search`
+- [Do You Need More HDD Space](https://doyou.needmorehdd.space) - Open directory and file search service. ([Read more](/details/do-you-need-more-hdd-space.md)) `File Search`
+- [Eye of Justice OD](https://www.eyeofjustice.com/od) - Open directory search tool. ([Read more](/details/eye-of-justice-od.md)) `Open Directories`
+- [FilePursuit](https://filepursuit.com) - File search engine including open directories. ([Read more](/details/filepursuit.md)) `File Search`
+- [FileSearching](http://www.filesearching.com) - File searching service for open directories. ([Read more](/details/filesearching.md)) `Search`
+- [OpenDirSearch](https://opendirsearch.abifog.com) - Search engine for open directories. ([Read more](/details/opendirsearch.md)) `Search`
+
+## Download Tools
+
+- [Open Directory Downloader](https://open-directory-downloader.herokuapp.com) - Heroku app for downloading open directories. ([Read more](/details/open-directory-downloader.md)) `Downloader`
+- [OpenDirectoryDownloader](https://github.com/Devaro/OpenDirectoryDownloader) - Standalone program that indexes 100+ formats of open directories for downloading. ([Read more](/details/opendirectorydownloader.md)) `Open Source` `Downloader`
+- [Wget](https://www.gnu.org/software/wget) - Free software package for retrieving files using HTTP, HTTPS, FTP, and FTPS. ([Read more](/details/wget.md)) `Open Source` `Cli`
+
 ## Events
 
 - [Planet Ruby Calendar](https://planetruby.github.io/calendar/) - Calendar of Ruby events including meetups, conferences, and camps from around the world. ([Read more](/details/planet-ruby-calendar.md)) `Ruby` `Calendar` `Events`
+
+## FTP Search
+
+- [FTP Search Tools](https://search-22.com/ftp-search-tools) - Collection of FTP search tools. ([Read more](/details/ftp-search-tools.md)) `Ftp` `Tools`
+- [SearchFTPS](https://www.searchftps.net) - FTP search tool. ([Read more](/details/searchftps.md)) `Ftp`
 
 ## Game Development
 
@@ -2179,6 +2239,7 @@ A curated list of awesome directories
 - [Mlops Feature Stores](https://github.com/awesome-mlops/awesome-feature-store) - Mlops Feature Stores curates general software tools including open-source and commercial feature stores for MLOps pipelines. Features categorized lists with descriptions for easy exploration and search. Ideal for broad discovery by ML engineers, offering a curated overview versus launch-focused sites like Product Hunt. ([Read more](/details/mlops-feature-stores.md)) `General Directory` `Software Discovery` `Mlops`
 - [Mlops Kelvins](https://github.com/kelvins/awesome-mlops) - Mlops Kelvins curates a broad collection of general MLOps tools, platforms, and resources for production machine learning. It provides categories for organized browsing and GitHub integration for search. Great for developers seeking broad MLOps discovery, as a hand-picked directory compared to trend-based platforms like Product Hunt. ([Read more](/details/mlops-kelvins.md)) `General Directory` `Software Discovery` `Mlops`
 - [Mlops Umitkacar](https://github.com/umitkacar/awesome-mlops) - Mlops Umitkacar curates general software tools and frameworks for production-grade MLOps workflows and machine learning operations. It features detailed categories and descriptions for browsing and search. Suited for broad discovery by ML practitioners, as a curated directory versus launch-oriented sites like Product Hunt. ([Read more](/details/mlops-umitkacar.md)) `General Directory` `Software Discovery` `Mlops`
+- [MMNT](https://www.mmnt.net) - General open directory resource. ([Read more](/details/mmnt.md)) `Directories`
 - [Platform Engineering Tools](https://github.com/seifrajhi/awesome-platform-engineering-tools) - Platform Engineering Tools curates general software directories of platform and production engineering tools and resources. It offers categorized lists for easy navigation and discovery features. Ideal for broad use cases in engineering discovery, providing a hand-picked collection unlike specialized platforms like Product Hunt. ([Read more](/details/platform-engineering-tools.md)) `General Directory` `Software Discovery` `Platform Engineering`
 - [Platform Engineering Toptechevangelist](https://github.com/toptechevangelist/awesome-platform-engineering) - Platform Engineering Toptechevangelist curates bilingual resources on platform engineering tools and practices in English and Chinese. Features organized categories for broad browsing and search. Perfect for developers' broad discovery needs, as a comprehensive directory compared to trend-focused sites like Product Hunt. ([Read more](/details/platform-engineering-toptechevangelist.md)) `General Directory` `Software Discovery` `Platform Engineering`
 - [Privacy Kevincoleman](https://github.com/KevinColemanInc/awesome-privacy) - Privacy Kevincoleman curates general software tools, services, and resources focused on limiting personal data leaks and enhancing online privacy. It features extensive categorized lists for browsing and search capabilities. Ideal for users seeking broad privacy tool discovery, as a comprehensive directory versus launch platforms like Product Hunt. ([Read more](/details/privacy-kevincoleman.md)) `General Directory` `Software Discovery` `Privacy`
@@ -2218,6 +2279,10 @@ A curated list of awesome directories
 - [Awesome Open IoT](https://github.com/Agile-IoT/awesome-open-iot) - A curated list of awesome open source IoT frameworks, libraries, and software. Comprehensive collection of tools for building Internet of Things applications with open-source technologies. ([Read more](/details/awesome-open-iot.md)) `Iot` `Open Source` `Embedded`
 - [Awesome SmartHome](https://github.com/pfalcon/awesome-smarthome) - Curated list of awesome SmartHome and Home Automation things focusing on open technologies and solutions that leave users in control. Includes self-hosted home automation systems, IoT frameworks, and smart device integrations. ([Read more](/details/awesome-smarthome.md)) `Home Automation` `Iot` `Self Hosted`
 - [Awesome Zephyr RTOS](https://github.com/golioth/awesome-zephyr-rtos) - A curated list of awesome projects and resources for the Zephyr RTOS project. Zephyr is a scalable real-time operating system supporting multiple hardware architectures, optimized for resource-constrained devices. ([Read more](/details/awesome-zephyr-rtos.md)) `Embedded` `Rtos` `Firmware`
+
+## Launch Directories
+
+- [Awesome Directories](https://awesome-directories.com/) - Hand-picked collection of over 316 launch directories featuring verified Ahrefs Domain Rating (DR) scores, updated weekly to ensure quality and no dead links. Offers smart filtering with presets like 'Quick Wins' or 'Premium', submission tracking per project, and rankings of top DoFollow directories by DR for driving real traffic. ([Read more](/details/awesome-directories-com.md)) `Curated` `Seo` `Dofollow` `Startup`
 
 ## Learning Education
 
@@ -2306,6 +2371,7 @@ A curated list of awesome directories
 - [Context Engineering Resources](https://github.com/yzfly/awesome-context-engineering) - A curated collection of resources, papers, tools, and best practices for context engineering in AI agents and Large Language Models from prompt engineering to production systems. ([Read more](/details/context-engineering-resources.md)) `Context Engineering` `Llm` `Ai Agents`
 - [Deep Learning Collection](https://github.com/ChristosChristofidis/awesome-deep-learning) - Curated collection of deep learning tutorials, projects, frameworks and communities for neural networks, computer vision, NLP and reinforcement learning applications. ([Read more](/details/deep-learning-collection.md)) `Deep Learning` `Neural Networks` `Ai`
 - [Deep Learning in Biology](https://github.com/hussius/deeplearning-biology) - A curated list of deep learning implementations and applications in biology, covering genomics, protein structure prediction, drug discovery, and medical imaging. ([Read more](/details/deep-learning-in-biology.md)) `Deep Learning` `Bioinformatics` `Healthcare`
+- [gloamy](https://github.com/iBz-04/gloamy) - Rust-first autonomous agent runtime supporting CLI, channels, gateway, and hardware workflows. Included in Awesome Rust under Applications and Productivity. Enables building agentic systems in Rust. ([Read more](/details/gloamy.md)) `Rust` `Autonomous Agent` `Cli` `Open Source`
 - [Graphiti - Knowledge Graphs for AI](https://github.com/getzep/graphiti) - Build real-time temporal knowledge graphs for AI agents that track how facts change over time and maintain provenance to source data for enhanced context and reasoning. ([Read more](/details/graphiti-knowledge-graphs-for-ai.md)) `Knowledge Graphs` `Ai Agents` `Temporal`
 - [Project Awesome: 3D Base Models](https://github.com/wendashi/awesome-3D-base-models) - Curated GitHub awesome list for 3D foundation models, with 800 stars. Covers text-to-3D, image-to-3D, understanding, segmentation, and multi-modal representations. Ideal for developers seeking generative models bridging text/images to 3D data. Alternative to general directories. ([Read more](/details/awesome-3d-base-models.md)) `3d` `Foundation Models` `Ai` `Awesome Lists`
 - [Project Awesome: 3D Diffusion](https://github.com/cwchenwang/awesome-3d-diffusion) - Curated GitHub awesome list for 3D diffusion models, with 1200 stars, covering text-to-3D, image-to-3D, texture generation, mesh synthesis; ideal for developers seeking papers on generative AI for 3D content; alternative to general directories. ([Read more](/details/awesome-3d-diffusion.md)) `3d Generation` `Diffusion Models` `Generative Ai` `Awesome Lists`
@@ -2349,6 +2415,10 @@ A curated list of awesome directories
 - [open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) - Collection of open-source Android applications. ([Read more](/details/open-source-android-apps.md)) `Open Source` `Android` `Awesome Lists`
 - [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - Curated list of open-source iOS apps. ([Read more](/details/open-source-ios-apps.md)) `Open Source` `Ios` `Awesome Lists`
 
+## Music Directories
+
+- [JimmyR MP3 Search](http://www.jimmyr.com/mp3_search.php) - Music-specific open directory search. ([Read more](/details/jimmyr-mp3-search.md)) `Music` `Mp3`
+
 ## Open Source
 
 - [Awesome Biology](https://github.com/raivivek/awesome-biology) - Curated meta-directory of open-source biology resources, including databases like NCBI and UniProt, sequence analysis tools, phylogenetics software, microscopy image processors, and educational courses. Aggregates tools for molecular biology, ecology, evolution, and computational biology, enabling researchers and students to discover vetted, freely accessible software and data. Ideal for bioinformatics workflows, academic research, and self-study; specialized alternative to general science awesome lists. ([Read more](/details/awesome-biology.md)) `Biology` `Research` `Education` `Bioinformatics`
@@ -2368,10 +2438,6 @@ A curated list of awesome directories
 - [Open Source Discord Bots](https://github.com/agubelu/opensource-discordbots) - Curated collection of open-source Discord bots for moderation, fun, music, utilities, enabling server owners to self-host customizable automation. Features repos with active maintenance, diverse functionalities. Use cases: community management, entertainment; contrasts closed bots by offering transparency and modifiability. ([Read more](/details/open-source-discord-bots.md)) `Open Source` `Discord` `Bots` `Awesome Lists`
 - [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - Curated list of open-source macOS applications. ([Read more](/details/open-source-mac-os-apps.md)) `Open Source` `Macos` `Awesome Lists`
 - [opensource-discordbots](https://github.com/agubelu/opensource-discordbots) - Curated list of open-source Discord bots. ([Read more](/details/opensource-discordbots.md)) `Open Source` `Discord` `Bots` `Awesome Lists`
-
-## Product Directories
-
-- [Productivity Directory](https://productivity.directory) - List of top Productivity tools, books, podcasts and products. Curated directory of productivity resources. ([Read more](/details/productivity-directory.md)) `Productivity` `Tools` `Directory`
 
 ## Programming Languages
 
