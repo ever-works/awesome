@@ -4,7 +4,7 @@ A curated list of awesome directories
 ## 📑 Table of Contents
 
 - [Project Awesome Lists (26)](#project-awesome-lists)
-- [Meta Awesome Directories (281)](#meta-awesome-directories)
+- [Meta Awesome Directories (279)](#meta-awesome-directories)
 - [Themed Directories (1,042)](#themed-directories)
 - [Learning & Education (49)](#learning--education)
 - [Remote Work (19)](#remote-work)
@@ -28,7 +28,8 @@ A curated list of awesome directories
 - [Sustainability (9)](#sustainability)
 - [Themed Directories (36)](#themed-directories-1)
 - [AI Awesome Hubs (5)](#ai-awesome-hubs)
-- [AI Directories (1)](#ai-directories)
+- [Ai Directories (1)](#ai-directories)
+- [AI Directories (1)](#ai-directories-1)
 - [Audio & Music (12)](#audio--music)
 - [Automation (3)](#automation)
 - [Awesome Linters & Validators (1)](#awesome-linters--validators)
@@ -37,6 +38,7 @@ A curated list of awesome directories
 - [Awesome List Generators (4)](#awesome-list-generators)
 - [Awesome List Generators (1)](#awesome-list-generators-1)
 - [Awesome List Tools (1)](#awesome-list-tools)
+- [Awesome List Tools (1)](#awesome-list-tools-1)
 - [Blockchain & Crypto (18)](#blockchain--crypto)
 - [Business & Entrepreneurship (21)](#business--entrepreneurship)
 - [Business Entrepreneurship (1)](#business-entrepreneurship)
@@ -54,7 +56,7 @@ A curated list of awesome directories
 - [Devops Sre (1)](#devops-sre)
 - [Devops Sre (1)](#devops-sre-1)
 - [Directory Building Tools (2)](#directory-building-tools)
-- [Directory of Directories (2)](#directory-of-directories)
+- [Directory of Directories (1)](#directory-of-directories)
 - [Directory Promotion Tools (1)](#directory-promotion-tools-1)
 - [Directory Search (6)](#directory-search)
 - [Download Tools (3)](#download-tools)
@@ -72,7 +74,9 @@ A curated list of awesome directories
 - [LLM Awesome Meta Lists (16)](#llm-awesome-meta-lists)
 - [LLM Awesome Meta Lists (2)](#llm-awesome-meta-lists-1)
 - [Machine Learning & AI (93)](#machine-learning--ai)
-- [Meta Directories (7)](#meta-directories)
+- [Machine Learning Ai (1)](#machine-learning-ai)
+- [Meta Directories (3)](#meta-directories)
+- [Meta Directories (13)](#meta-directories-1)
 - [Mobile Development (5)](#mobile-development)
 - [Mobile Development (2)](#mobile-development-1)
 - [Music Directories (1)](#music-directories)
@@ -121,7 +125,7 @@ A curated list of awesome directories
 ## Meta Awesome Directories
 
 - [apd-core - NaturalLanguage section](https://github.com/awesomedata/apd-core/tree/master/core/NaturalLanguage) - A curated Awesome-style sub-collection within the APD (Awesome Public Datasets) core repository that indexes multiple high‑quality natural language datasets and lexical resources via individual YAML meta files (e.g., SQuAD, Universal Dependencies, WordNet). It serves as a meta directory of links to external NLP datasets, aligning with the broader Awesome ecosystem as a directory-of-resources pattern. ([Read more](/details/apd-core-naturallanguage-section.md)) `Datasets` `Nlp` `Directory Of Directories`
-- [Awesome](https://github.com/sindresorhus/awesome) - A central hub aggregating thousands of curated Awesome lists across topics like programming, design, and security; features searchable interface, star rankings, and daily updates; ideal for developers seeking topic-specific resources; compared to single Awesome lists, it's a meta-index. ([Read more](/details/awesome.md)) `Meta Awesome` `List Aggregator` `Github Stars` `Curated Index`
+- [Awesome](https://github.com/sindresorhus/awesome) - Canonical curated mega-list aggregating awesome lists across diverse topics including programming, design, security, and beyond. Key features: extensive categorization, community-driven maintenance, and record-high GitHub stars signaling widespread adoption. Enables quick discovery of resources in any domain; surpasses other meta-directories with broadest scope and reference status. ([Read more](/details/awesome.md)) `Canonical Meta` `Highly Starred` `Topic Aggregated` `Meta Awesome` `List Aggregator`
 - [Awesome (awesomelistsio)](https://github.com/awesomelistsio/awesome) - Awesome (awesomelistsio) is a comprehensive index of GitHub awesome lists, featuring categorization, searchability, star rankings as of 2026, and daily tracking. Ideal for developers seeking topic-specific resources. More meta/focused than sindresorhus/awesome, this emphasizes comprehensive indexing of specialized lists. ([Read more](/details/awesome-awesomelistsio.md)) `Meta Index` `List Of Lists` `Discovery Tool`
 - [Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt) - Curates awesome lists of tools, prompts, extensions, and resources specifically for ChatGPT. Key features include categorized starred repositories, community-driven contributions, and comprehensive coverage of the ChatGPT ecosystem. Use cases: quick resource discovery, building learning paths for AI prompting and integrations; niche ChatGPT focus versus general awesome lists like sindresorhus/awesome. ([Read more](/details/awesome-chatgpt.md)) `Awesome Lists` `Chatgpt` `Ai` `Open Source` `Community Driven`
 - [Awesome Dat](https://github.com/datproject/awesome-dat) - Curated GitHub list of Dat protocol resources covering client libraries (JS, Rust, Go), tools, apps, and research on decentralized data sharing and P2P syncing. Around 250 GitHub stars. Ideal for developers building collaborative data apps; more focused than broader P2P lists like Awesome IPFS. ([Read more](/details/awesome-dat.md)) `Project Awesome` `Curated Topic` `Decentralized`
@@ -135,7 +139,7 @@ A curated list of awesome directories
 - [Best-of Lists](https://github.com/best-of-lists/best-of) - Best-of Lists is a comprehensive index of GitHub awesome lists with data-driven rankings of open-source projects across topics, featuring categorization, star/contributor metrics, and weekly updates as of 2026. Ideal for developers seeking topic-specific resources. More meta/focused than sindresorhus/awesome, this uses quantitative curation. ([Read more](/details/best-of-lists.md)) `Meta Index` `List Of Lists` `Discovery Tool`
 - [Ecosyste.ms Awesome](https://awesome.ecosyste.ms) - Ecosyste.ms Awesome is an analytics-driven meta-directory for exploring GitHub awesome lists, offering filtering by topic (e.g., web3, solidity), language, ecosystem metrics, dependencies, star tracking, and contributor statistics. It provides advanced features like topic clustering, trend analysis, and cross-list search for in-depth insights. Use cases include discovering and analyzing awesome lists by theme or language, far surpassing static alternatives like sindresorhus/awesome with data-rich visualizations. ([Read more](/details/ecosystems-awesome.md)) `Meta Awesome` `List Discovery` `Analytics`
 - [Github Ranking](https://github.com/EvanLi/Github-Ranking) - Dynamic ranking of GitHub repositories sorted by stars and forks, with separate leaderboards for overall and per programming language. Features top 10 lists with links to full top 100, including metrics like stars, forks, language, open issues, description, and last commit date. Automatically updated regularly. ([Read more](/details/github-ranking.md)) `Open Source` `Github` `Rankings` `Awesome Lists`
-- [jnv/lists](https://github.com/jnv/lists) - jnv/lists is a definitive meta-directory compiling lists of lists from GitHub and beyond, including awesome lists, open-source apps, APIs, and more. It provides categorized indexes like open-source Mac apps and static site generators. Ideal for discovering curated resources across topics, it compares to sindresorhus/awesome by being a list-of-lists hub. ([Read more](/details/jnvlists.md)) `List Of Lists` `Meta Index` `Github Hub`
+- [jnv/lists](https://github.com/jnv/lists) - Comprehensive curated mega-list aggregating lists-of-lists from GitHub and web across myriad topics like apps, APIs, directories. Key features: hierarchical categorization, community-driven expansions, high engagement stars. Facilitates quick discovery of resources in diverse domains; vs other metas, broadest inclusive scope including non-awesome lists, canonical reference hub. ([Read more](/details/jnvlists.md)) `Canonical Meta` `Highly Starred` `Topic Aggregated` `List Of Lists` `Meta Index`
 - [lologl](https://github.com/yaph/lologl) - lologl (List of Lists of GitHub Lists) is a meta-collection tracking awesome lists and their sub-lists. It features recursive indexing of GitHub awesomes. Ideal for navigating inception-level metas; unique for depth in list hierarchies. ([Read more](/details/lologl.md)) `Inception Meta` `Recursive Lists` `Github Lists`
 - [Meta Awesome](https://github.com/jepemo/meta-awesome) - Jepemo's meta-list of awesome lists, organized by categories like security and programming. It tracks hundreds of awesome repositories with direct links, offering categorized and searchable access. Ideal for quickly discovering themed awesome lists; an alternative to the more general sindresorhus/awesome. ([Read more](/details/meta-awesome.md)) `Categorized Meta`
 - [Meta Awesome - By Website Index](https://github.com/jepemo/meta-awesome/blob/master/doc/by-website.md) - Meta Awesome is a curated meta-collection of "awesome" lists, and the "By website" index organizes links to many topic-specific awesome directories (e.g., bytecode manipulation, CMS, caching, code analysis, cryptography). Each linked markdown file is itself an awesome-style list, making this page a central entry point to the broader Awesome ecosystem. ([Read more](/details/meta-awesome-by-website-index.md)) `Awesome Lists` `Meta Directory` `Directory Of Directories`
@@ -147,7 +151,6 @@ A curated list of awesome directories
 - [Aero Structures](https://github.com/teresagris/aero-structures) - A curated meta-collection of awesome resources and lists focused on aircraft structures analysis for aerospace engineers, aggregating GitHub repositories, tools, papers, and tutorials for easy discovery. Key features include categorized content and ongoing updates. Ideal for researching aerospace projects and finding structural analysis alternatives; more niche than sindresorhus/awesome. ([Read more](/details/aero-structures.md)) `Meta List` `List Of Lists` `Aerospace`
 - [AI Agents Directories](https://github.com/danielmiessler/ai-agents-directories) - A comprehensive list of the best AI agent directories available online. It provides a resource for discovering directories focused on AI agents. ([Read more](/details/ai-agents-directories.md)) `Ai` `Agents` `Directories`
 - [AI Directories](https://www.analyticsinsight.net/artificial-intelligence/best-10-ai-directories-to-promote-your-tools-2025) - AI Directories compiles all AI-related directories in one place, serving as a meta-directory specifically for the AI sector. ([Read more](/details/ai-directories.md)) `Ai Tools` `Directory Of Directories` `Meta Directory` `Aggregator`
-- [aidirectori.es](https://aidirectori.es) - aidirectori.es is a comprehensive index of AI directories and GitHub awesome lists, featuring categorization, searchability, and star rankings as of 2026. Ideal for developers seeking topic-specific AI resources. More meta/focused than sindresorhus/awesome, this aggregates multiple curated directories. ([Read more](/details/aidirectories.md)) `Meta Index` `List Of Lists` `Discovery Tool`
 - [Awesome All](https://github.com/bradoyler/awesome-all) - Centralized meta-directory compiling awesome lists of frameworks, libraries, software, and tools across numerous domains, functioning as a comprehensive index of awesome resources. Features organized categorization and direct access to star-ranked GitHub repositories for quick evaluation. Suited for developers seeking diverse curations in one place; provides aggregated multi-topic access unlike focused single-subject awesome lists. ([Read more](/details/awesome-all.md)) `Meta Directory` `Curated Lists` `Awesome Lists` `Github`
 - [Awesome Artificial Intelligence](https://github.com/awesomelistsio/awesome-ai) - A curated list of awesome frameworks, libraries, tools, and resources for Artificial Intelligence (AI). This list covers everything from foundational machine learning and deep learning to specialized areas like NLP, computer vision, and AI ethics. ([Read more](/details/awesome-artificial-intelligence.md)) `Awesome Lists` `Ai` `Machine Learning`
 - [Awesome Awesome Awesome](https://github.com/t3chnoboy/awesome-awesome-awesome) - Awesome Awesome Awesome is a comprehensive index of GitHub awesome lists, featuring categorization, searchability, and star rankings as of 2026. Ideal for developers seeking topic-specific resources. More meta/focused than sindresorhus/awesome, this aggregates directories of awesome resources. ([Read more](/details/awesome-awesome-awesome.md)) `Meta Index` `List Of Lists` `Discovery Tool`
@@ -168,7 +171,6 @@ A curated list of awesome directories
 - [awesome-directories (directorieswiki)](https://github.com/directorieswiki/awesome-directories) - DirectoriesWiki's Awesome Directories curates specialized directories on AI tools, productivity, open-source, featuring categorized lists with descriptions for quick scanning. Key features include extensive AI directory aggregation and easy discovery. Use cases: finding themed directories for AI or productivity, more niche than broad GitHub topics. ([Read more](/details/directorieswiki-awesome-directories.md)) `Meta Awesome` `List Aggregator` `Ai Directory`
 - [awesome.facts.dev](https://awesome.facts.dev) - The most popular awesome lists on GitHub, ranked and categorized. Provides a directory of awesome lists with rankings based on popularity. ([Read more](/details/awesomefactsdev.md)) `Awesome Lists` `Ranked` `Curated Lists`
 - [awesomedata/apd-core](https://github.com/awesomedata/apd-core) - APD Core is the central metadata repository that powers Awesome Public Datasets and related awesome-style data directories. It organizes links to open data sources—such as government portals for Vienna (Austria), Vietnam’s General Statistics Office, and U.S. Congressional Research Service reports—into structured YAML files for use in awesome collections and meta indexes. ([Read more](/details/awesomedataapd-core.md)) `Github` `Datasets` `Directory Of Directories`
-- [BestDirectories](https://www.jasminedirectory.com/blog/best-2025-directories-for-new-businesses/) - A meta-directory that serves as a directory of directories, curating and listing the best directory websites across various categories. Directly relevant as a resource for discovering awesome directories. ([Read more](/details/bestdirectories.md)) `Directory Of Directories` `Curated Lists` `Web Directory` `Meta Directory`
 - [Chinese Poetry](http://shici.store) - The most comprehensive database of Chinese poetry. A curated collection available in Chinese. ([Read more](/details/chinese-poetry.md)) `Curated Lists` `Chinese` `Poetry` `Database`
 - [DataChallenges](https://ucalgary.scholaris.ca/bitstreams/afaec397-18b2-4c28-a8b5-04e5f28a7eea/download) - A curated directory of data-related challenges, competitions, and problem sets, organized as part of the broader Awesome-style ecosystem of collections. ([Read more](/details/datachallenges.md)) `Curated Lists` `Challenges` `Github`
 - [Directory Surf](https://directorysurf.com) - A Directory of Top Directories. It serves as a meta-collection helping users discover and submit to various directories for product promotion across niches like SaaS and AI. ([Read more](/details/directory-surf.md)) `Meta Directory` `Directories` `Submission`
@@ -1694,7 +1696,7 @@ A curated list of awesome directories
 
 ## Awesome Aggregators & Trackers
 
-- [Track Awesome List](https://www.trackawesomelist.com/) - TrackAwesomeList monitors daily changes in GitHub awesome lists, providing stats, rankings, and notifications. Key features: star history charts, contributor stats, freshness scores. Use cases: discover active lists, track popularity; vs static directories, it's dynamic and real-time. ([Read more](/details/track-awesome-list.md)) `Dynamic` `Star History` `Notifications` `Meta Aggregator`
+- [Track Awesome List](https://www.trackawesomelist.com/) - Dynamic aggregator and tracker curating updates from awesome lists across GitHub topics, acting as a live mega-list of changes. Key features: extensive stats and categorization by stars/freshness, community notifications, historical charts. Use cases: rapid discovery of new resources in any domain; vs static metas, offers broadest real-time scope and canonical tracking reference. ([Read more](/details/track-awesome-list.md)) `Canonical Meta` `Highly Starred` `Topic Aggregated` `Dynamic` `Star History`
 - [Awesome-Lists.net](https://awesome-lists.net) - Awesome-Lists.net monitors GitHub awesome lists with live stats on stars, forks, updates, rankings, and trend data. Key features: sortable dashboards, category filters, star history views. Use cases: discover active lists, track popularity shifts; dynamic and searchable vs static directories. ([Read more](/details/awesome-listsnet.md)) `Dynamic` `Star History` `Notifications` `Meta Aggregator`
 - [awesome-stars](https://github.com/luphord/awesome-stars) - awesome-stars dynamically tracks and generates a curated list of starred GitHub repositories organized by programming languages. Key features: auto-updates from stars, language-based categorization, star history tracking. Use cases: maintain personal dynamic collections, discover popular repos; real-time vs manual static lists. ([Read more](/details/awesome-stars.md)) `Dynamic` `Star History` `Notifications` `Meta Aggregator`
 
@@ -1894,6 +1896,10 @@ A curated list of awesome directories
 - [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) - Curated meta-list focused on Large Language Models (LLMs), detailing frameworks, evaluation tools, production deployment methods, and seminal research papers. Unlike broad AI awesome lists covering computer vision, reinforcement learning, and classical ML, this specializes in LLM subtopics like fine-tuning, prompting, and inference optimization, serving as an essential research hub for AI researchers tracking LLM advancements and building production systems. ([Read more](/details/awesome-llm.md)) `Llm Meta` `Ai Directory` `Research Hub` `Large Language Models` `Transformers` `Ai` `Curated Meta` `Github Stars` `2026 Updated`
 - [awesome-ai-agents](https://github.com/NipunaRanasinghe/awesome-ai-agents) - A GitHub-hosted awesome list that curates frameworks, tools, and resources for building and deploying AI agents, including multi-agent systems and autonomous coding assistants. It is explicitly tagged as an "awesome" and "awesome-list" repository, making it directly relevant as part of the broader meta collection of awesome directories. ([Read more](/details/awesome-ai-agents.md)) `Awesome Lists` `Ai` `Conversational Ai` `Curated Meta` `Github Stars` `2026 Updated`
 
+## Ai Directories
+
+- [Awesome Awesome Prompts](https://github.com/promptslab/awesome-awesome-prompts) - An awesome list for collecting awesome lists related to prompt engineering. ([Read more](/details/awesome-awesome-prompts.md)) `Prompt Engineering` `Ai` `Awesome Lists`
+
 ## AI Directories
 
 - [AI Directories (GitHub)](https://github.com/Emlyjones/ai-directories) - A curated meta-list of AI tool directories, making it easy to discover and submit AI products across various directory platforms. Directly relevant as an 'awesome directory of directories' within the AI space. ([Read more](/details/ai-directories-github.md)) `Ai Tools` `Meta Directory` `Curated Lists` `Github`
@@ -1948,6 +1954,10 @@ A curated list of awesome directories
 ## Awesome List Tools
 
 - [Directories.so](https://directories.so) - Directories.so is a comprehensive index of awesome directories across AI, design, development, featuring filtering, popularity rankings, and daily updates as of 2026. Ideal for developers seeking topic-specific directory resources. More meta/focused than sindresorhus/awesome, this aggregates internet-wide collections. ([Read more](/details/directoriesso.md)) `Meta Index` `List Of Lists` `Discovery Tool`
+
+## Awesome List Tools
+
+- [GetAwesomeness](https://getawesomeness.herokuapp.com/) - Explorer designed for curated awesome lists hosted on GitHub. Allows searching and discovering awesome lists. ([Read more](/details/getawesomeness.md)) `Searchable` `Awesome Lists` `Directory`
 
 ## Blockchain & Crypto
 
@@ -2195,7 +2205,6 @@ A curated list of awesome directories
 
 ## Directory of Directories
 
-- [Best Directories](https://bestdirectories.org/) - BestDirectories.org is a comprehensive platform that aggregates and rates the best online directories, making it easy to explore and compare top-rated directories for different niches. It serves as a directory of directories. ([Read more](/details/best-directories.md)) `Directory Of Directories` `Ratings` `Aggregator` `Web Directory`
 - [DirectoryHunt](https://directoryhunt.com/) - A platform that aggregates and lists directory websites, helping users discover the best directories for traffic, backlinks, and exposure. Directly relevant to awesome directory collections. ([Read more](/details/directoryhunt.md)) `Directory Of Directories` `Web Directory` `Aggregator` `Promotion`
 
 ## Directory Promotion Tools
@@ -2436,9 +2445,25 @@ A curated list of awesome directories
 - [The Big Prompt Library](https://github.com/0xeb/TheBigPromptLibrary) - A comprehensive collection of prompts, system prompts, and LLM instructions for machine intelligence models from OpenAI, Anthropic, DeepSeek, Meta, Mistral, Google, xAI, and others. ([Read more](/details/the-big-prompt-library.md)) `Prompts` `Llm` `Prompt Engineering`
 - [The Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch) - A curated list of tutorials, papers, projects, communities and more relating to PyTorch. Features popular LLMs including Llama, Mistral 7B, VLLM, and Mixtral implementations. ([Read more](/details/the-incredible-pytorch.md)) `Pytorch` `Llm` `Deep Learning`
 
+## Machine Learning Ai
+
+- [Pattern Classification](https://github.com/reiinakano/pattern_classification) - A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks. This repository serves as a valuable resource for machine learning practitioners seeking practical guidance and code examples. ([Read more](/details/pattern-classification.md)) `Machine Learning` `Tutorials` `Open Source`
+
 ## Meta Directories
 
+- [aidirectori.es](https://aidirectori.es) - aidirectori.es is a curated index of AI directories and GitHub awesome lists, serving as a meta-directory for discovering specialized AI resources and themed awesome repositories. Key features include topic categorization, search functionality, star rankings, and regular updates for dynamic relevance. Ideal for developers exploring AI-themed repos; more inception-level meta than sindresorhus/awesome, aggregating multiple curated sources. ([Read more](/details/aidirectories.md)) `Inception Meta` `List Index` `Ai`
+- [Best Directories](https://bestdirectories.org/) - BestDirectories.org is a comprehensive, curated index aggregating and rating top online directories across niches, functioning as a directory-of-directories. Key features encompass ratings, category-based exploration, filtering/sorting, trending highlights, and submission for owners. Perfect for users comparing directories to discover relevant ones; offers more meta inception-level aggregation than broad lists like sindresorhus/awesome. ([Read more](/details/best-directories.md)) `Inception Meta` `List Index` `Ratings`
+- [BestDirectories](https://www.jasminedirectory.com/blog/best-2025-directories-for-new-businesses/) - BestDirectories is a curated meta-directory serving as a directory-of-directories, indexing top directory websites across niches for business visibility. Features expert-curated lists, industry categorization, update recommendations, and practical tips with case studies. Use cases include discovering directories for SEO and reach; provides inception-level meta focus on directories vs general awesome lists like sindresorhus/awesome. ([Read more](/details/bestdirectories.md)) `Inception Meta` `List Index` `Directory Of Directories`
+
+## Meta Directories
+
+- [Awesome Awesome by aligoren](https://github.com/aligoren/awesome-awesome) - List of GitHub lists, a curated collection of awesome lists. ([Read more](/details/awesome-awesome-by-aligoren.md)) `Awesome Lists` `Curated Lists` `Meta`
+- [Awesome Awesome by emijrp](https://github.com/emijrp/awesome-awesome) - Curated list of awesome curated lists of many topics. ([Read more](/details/awesome-awesome-by-emijrp.md)) `Awesome Lists` `Curated Lists` `Meta`
+- [Awesome Awesome by erichs](https://github.com/erichs/awesome-awesome) - Curated list of awesome curated lists, inspired by inspiration. ([Read more](/details/awesome-awesome-by-erichs.md)) `Awesome Lists` `Curated Lists` `Meta`
+- [Awesome Awesome by oyvindrobertsen](https://github.com/oyvindrobertsen/awesome-awesome) - Curated list of curated lists of libraries, resources and shiny things for various languages. ([Read more](/details/awesome-awesome-by-oyvindrobertsen.md)) `Awesome Lists` `Programming Languages` `Meta`
+- [awesome-ai-agents-2025](https://github.com/Supersynergy/awesome-ai-agents-2025) - Comprehensive directory of AI agents, frameworks, platforms, and tools updated to March 2026 edition. Covers over 100 tools in categories including production-ready agent frameworks, coding agents, multi-agent patterns, protocols like MCP and A2A, memory systems, observability, security, voice agents, deployment options, RAG, and key statistics on AI agent adoption. ([Read more](/details/awesome-ai-agents-2025.md)) `Awesome Lists` `Ai Agents` `Open Source`
 - [best-of](https://github.com/best-of-lists/best-of) - A curated meta-directory of 'best-of' lists featuring awesome open-source projects organized across multiple topics. Serves as a central resource for discovering high-quality directory listings and collections on GitHub, making it directly relevant to 'Awesome Directories'. ([Read more](/details/best-of.md)) `Meta Directory` `Curated Lists` `Open Source` `Github`
+- [Delightful Club](https://delightful.club/) - Home of delightful curated lists of free software, open science, and information sources. A meta collection of high-quality curated awesome lists. ([Read more](/details/delightful-club.md)) `Curated Lists` `Open Source` `Meta Directory`
 - [List of Directories on GitHub](https://github.com/dariubs/directory-of-directories) - A GitHub repository that specifically curates a list of directory and listing websites, making it a useful resource for finding meta-directories and niche directories. ([Read more](/details/list-of-directories-on-github.md)) `Meta Directory` `Curated Lists` `Github` `Directories`
 - [Lists](https://github.com/jnv/lists) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. Definitive collection of curated resources. ([Read more](/details/lists.md)) `Curated Lists` `Cheatsheets` `Awesome Lists`
 - [Meta Awesome - Formulars](https://github.com/ever-works/awesome) - A meta-awesome category (variant naming of Forms) that indexes awesome lists on form handling and related utilities. ([Read more](/details/meta-awesome-formulars.md)) `Meta Directory` `Web Development` `Awesome Lists`

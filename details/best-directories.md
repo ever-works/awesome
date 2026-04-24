@@ -11,14 +11,5 @@
 - Highlights trending and highly-rated directories in areas such as AI tools, developer resources, finance, content creation, and more
 - Offers a newsletter for updates and news
 
-## Category
-- Meta-directories
-
-## Tags
-- Directory of directories
-- Ratings
-- Aggregator
-- Web-directory
-
 ## Pricing
 No pricing information provided.
