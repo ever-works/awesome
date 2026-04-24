@@ -1,17 +1,21 @@
+## Overview
+
+Curated collection of packages and components for Livewire, a full-stack framework for Laravel.
+
 ## Topics Covered
 
-- Packages and components
 - Forms and tables
-- Utilities
+- Utilities and components
+- Packages enhancing reactivity
 
 ## Use Cases
 
-- Real-time UIs in Laravel
-- No-JS interactivity
+- Real-time UIs in Laravel apps
+- No-JavaScript interactivity
 
 ## Comparisons
 
-Livewire vs. Inertia/Hotwire.
+Alternative to Hotwire or Inertia for PHP full-stack development.
 
 ## Pricing
 
