@@ -1,5 +1,21 @@
-# Wails
+## Overview
+Curated list of resources for Wails, framework for Go + web desktop apps.
 
-A curated list of resources for Wails, the framework for building desktop applications using Go and web technologies.
+## Topics Covered
 
-[https](https)
+- Templates and starters
+- Plugins
+- Examples
+
+## Use Cases
+
+- Cross-platform desktop apps
+- Go frontend integration
+
+## Comparisons
+
+Wails vs. Electron/Tauri lists.
+
+## Pricing
+
+Free and open-source.

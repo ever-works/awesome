@@ -1,5 +1,21 @@
-# wagmi
+## Overview
+Curated collection of resources for wagmi, React Hooks for Ethereum.
 
-A curated collection of resources for wagmi, the collection of React Hooks for Ethereum.
+## Topics Covered
 
-[https](https)
+- Hooks and examples
+- Integrations
+- Guides
+
+## Use Cases
+
+- Ethereum dApp development
+- Wallet connections
+
+## Comparisons
+
+wagmi-focused vs. general web3 lists.
+
+## Pricing
+
+Free and open-source.

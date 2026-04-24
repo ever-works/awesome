@@ -2,24 +2,20 @@
 
 Meta-collection aggregating awesome lists by topic.
 
-## Aggregation
-Groups hundreds of GitHub awesome lists.
-
 ## Features
 - Topic categorization
 - Star rankings
-- Direct links
 
 ## Use Cases
-- Niche list discovery
+- Structured discovery for curation
 - Popularity tracking
 
 ## Comparisons
 
-| Feature | Brandon Himpfen | GitHub Search |
-|---------|-----------------|---------------|
+| Feature | Aggregator | Search |
+|---------|------------|--------|
 | Grouping | Topics | None |
 | Rankings | Stars | Basic |
 
 ## Pricing
-Free and open-source.
+Free open-source.

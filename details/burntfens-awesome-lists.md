@@ -1,5 +1,5 @@
 # BurntFen's Awesome Lists
 
-Personal website by burntfen showcasing and maintaining several awesome-* lists on GitHub. Tracks GitHub stars as a metric for user engagement with collaborative, curated lists of awesome resources. Mentions additional lists like git-flight-rules and endangered-languages that fit awesome criteria.
+Personal showcase and maintainer page for multiple GitHub awesome lists with star tracking and curation insights. Features list overviews and engagement metrics. Useful for awesome list maintainers to monitor and promote their collections versus static repo views.
 
 [https://www.burntfen.com/projects/awesome/](https://www.burntfen.com/projects/awesome/)

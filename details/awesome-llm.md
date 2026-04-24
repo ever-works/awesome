@@ -22,4 +22,4 @@ Awesome-LLM is a comprehensive curated list dedicated to Large Language Models, 
 
 ## Pricing
 
-Free and open-source repository on GitHub.
+Free and open-source under the Apache 2.0 license.

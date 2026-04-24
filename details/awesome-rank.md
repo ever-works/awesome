@@ -2,24 +2,21 @@
 
 Ranks awesome lists with analytics.
 
-## Aggregation
-Aggregates GitHub awesome lists.
-
 ## Features
 - Multi-metric rankings
 - Trend graphs
 - Category browsing
 
 ## Use Cases
-- Find top-quality lists
-- Track trends
+- Identify top lists for maintenance/inspiration
+- Track ecosystem trends
 
 ## Comparisons
 
-| Feature | Awesome Rank | GitHub Search |
-|---------|--------------|---------------|
-| Rankings | Comprehensive | Stars only |
-| Trends | Graphs | None |
+| Feature | Awesome Rank | Manual |
+|---------|--------------|--------|
+| Metrics | Comprehensive | Basic |
+| Visuals | Graphs | None |
 
 ## Pricing
 Free.

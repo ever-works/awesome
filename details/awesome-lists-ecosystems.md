@@ -2,25 +2,21 @@
 
 Dynamic platform aggregating GitHub awesome lists with live metrics.
 
-## Aggregation
-Indexes hundreds of awesome lists from GitHub.
-
 ## Features
-- Filters by category, tag, stars
-- Stars, trends tracking
-- RSS, notifications, API
+- Filters by category/tag/stars
+- Trends, RSS, API
+- Notifications
 
 ## Use Cases
-- Discover trends/new additions
-- Monitor popularity shifts
+- Automated maintenance and discovery
+- Popularity monitoring
 
 ## Comparisons
 
-| Feature | Awesome Lists Ecosystems | GitHub Search |
-|---------|---------------------------|---------------|
-| Updates | Real-time/daily | Manual |
-| Filters | Awesome-specific | General |
-| Trends | Yes | Limited |
+| Feature | Ecosystems | Manual |
+|---------|------------|--------|
+| Updates | Real-time | None |
+| Filters | Specialized | Basic |
 
 ## Pricing
-Free and open-source.
+Free open-source.

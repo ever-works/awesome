@@ -13,15 +13,15 @@ Real-time tracker for awesome list changes across GitHub.
 
 ## Use Cases
 
-- Receive alerts on new tools/resources
+- Receive alerts on new tools/resources for list maintenance
 - Track trends in specific topics
 - Maintain awareness without manual checks
 
 ## Comparisons
 
-| Aspect | Track Awesome List | Static Lists |
-|--------|--------------------|--------------|
-| Freshness | Daily updates | Manual |
+| Aspect | Track Awesome List | Manual Curation |
+|--------|--------------------|-----------------|
+| Freshness | Daily updates | Sporadic |
 | Alerts   | RSS/Email | None |
 | History  | Full archive| None |
 
