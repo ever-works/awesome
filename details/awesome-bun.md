@@ -1,3 +1,3 @@
 ## Overview
 
-Awesome Bun is the official curated list of resources for Bun, an incredibly fast JavaScript runtime... [preserve full markdown]
+Awesome Bun is the official curated list of resources for Bun, an incredibly fast JavaScript runtime...

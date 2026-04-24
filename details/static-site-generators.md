@@ -1,13 +1,5 @@
-## Overview
+# Static Site Generators
 
-A comprehensive list of static site generators organized by popularity, with filters by language, CMS support, and blog awareness.
+StaticSiteGenerators.net is the canonical directory of static site generators, aggregating hundreds of SSGs organized by language and popularity rankings. Features: comparison tables, filters by language, star counts; use cases: select the best SSG for projects quickly; compared to single generator docs, it's a meta-hub for all SSGs.
 
-## Features
-
-- Popularity rankings based on GitHub stars
-- Comparison charts
-- Detailed generator profiles
-
-## Pricing
-
-Free to use.
+[https://staticsitegenerators.net/](https://staticsitegenerators.net/)

@@ -1,12 +1,5 @@
-## Overview
+# Tiny Tools Directory
 
-Directory of small, focused tools under 100KB for quick prototyping.
+Tinytools.directory is the canonical directory of tiny tools, aggregating curated open source projects for building games, websites, and interactive projects by topic. Features: searchable, categorized; use cases: discover niche tiny tools quickly; compared to single-topic tools, it's a meta-hub for tiny tools.
 
-## Features
-
-- Filtered by category
-- Size limits enforced
-
-## Pricing
-
-Free.
+[https://tinytools.directory/](https://tinytools.directory/)
