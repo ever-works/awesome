@@ -5,14 +5,14 @@
 **Live directory:** https://awesome.ecosyste.ms
 
 ## Overview
-`ultimate-awesome` is an automatically generated meta–awesome list that indexes and tracks (almost) every curated "awesome" list on GitHub. It focuses on awesome lists of open source software across all topics, including higher‑level lists that aggregate other awesome lists.
+`ultimate-awesome` is an automatically generated meta–awesome list that indexes and tracks (almost) every curated \"awesome\" list on GitHub. It focuses on awesome lists of open source software across all topics, including higher‑level lists that aggregate other awesome lists.
 
 The list is built from the open API at `awesome.ecosyste.ms` and is regenerated daily.
 
 ## Features
 - **Comprehensive index of awesome lists**  
   - Aggregates every awesome list tracked by awesome.ecosyste.ms that meets basic quality criteria.
-  - Includes both topic‑specific lists and meta "lists of lists".
+  - Includes both topic‑specific lists and meta \"lists of lists\".
 
 - **Automatic generation**  
   - The master list is generated automatically from the awesome.ecosyste.ms API.  

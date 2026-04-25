@@ -5,7 +5,7 @@
 **Tags:** awesome-lists, directory-of-directories, developer-resources
 
 ## Overview
-awesome-cn is a Chinese-language meta collection that aggregates curated "awesome" lists across programming languages, frameworks, tools, and learning resources. It provides a centralized entry point for Chinese-speaking developers to discover topic-specific awesome lists (such as awesome-go, awesome-python, awesome-vue, awesome-javascript) and related resources.
+awesome-cn is a Chinese-language meta collection that aggregates curated \"awesome\" lists across programming languages, frameworks, tools, and learning resources. It provides a centralized entry point for Chinese-speaking developers to discover topic-specific awesome lists (such as awesome-go, awesome-python, awesome-vue, awesome-javascript) and related resources.
 
 ## Features
 - **Meta-directory of awesome lists**: Collects links to many existing awesome lists rather than duplicating their content.
