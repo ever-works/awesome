@@ -1,5 +1,26 @@
-# submitsaas.com
+## Overview
 
-A service that facilitates the submission of SaaS products to over 100 directories, aiming to save time and enhance online presence for SaaS businesses.
+Automates SaaS directory listings for enhanced presence.
 
-[https://submitsaas.com](https://submitsaas.com)
+## Features
+
+- 100+ directory submissions
+- SEO optimization
+- Time-saving automation
+- Listing templates
+- Visibility boost
+
+## Use Cases
+
+- Build SaaS awesome directories
+- Multi-platform promotion
+- Organic growth
+- Vs manual submissions
+
+## Comparisons
+
+**vs Manual Markdown**: Scaled listings vs single page.
+
+## Pricing
+
+Service-based.

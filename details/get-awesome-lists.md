@@ -3,14 +3,18 @@
 Search engine for GitHub awesome lists.
 
 ## Aggregation
-Indexes thousands of awesome collections.
+
+Indexes thousands of awesome collections by stars, topics, languages.
 
 ## Features
+
 - Star/topic/language filters
 - Rankings
 - Newsletter
+- Submission form
 
 ## Use Cases
+
 - Themed list discovery
 - Trending tracking
 
@@ -22,4 +26,5 @@ Indexes thousands of awesome collections.
 | Indexing | Full | Partial |
 
 ## Pricing
+
 Free.

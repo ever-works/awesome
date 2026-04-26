@@ -3,13 +3,16 @@
 Curated links to themed awesome lists.
 
 ## Aggregation
-Collects multiple awesome repositories.
+
+Groups various awesome repositories by theme.
 
 ## Features
+
 - Themed grouping
 - Direct GitHub links
 
 ## Use Cases
+
 - Meta-navigation to resources
 - Topic exploration
 
@@ -21,4 +24,5 @@ Collects multiple awesome repositories.
 | Grouping | Yes | No |
 
 ## Pricing
+
 Free.

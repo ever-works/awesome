@@ -1,60 +1,26 @@
 ## Overview
 
-AlternativeTo is a crowdsourced platform where users discover and recommend alternatives to software, apps, and online services.
+AlternativeTo enables building dynamic directories of software alternatives through crowdsourced submissions and automated comparisons.
 
-## Key Features
+## Features
 
-- User-generated recommendations
-- Software comparisons
-- Alternative suggestions
-- Filtering by platform
-- License filtering
-- User reviews and ratings
+- User-generated directory listings
+- Automated comparison templates
+- SEO-optimized category pages
+- Filtering by platform, license, pricing
+- Community ratings and reviews
 
 ## Use Cases
 
-- Find software alternatives
-- Compare features
-- Discover free alternatives to paid tools
-- Platform-specific options
-- Open-source alternatives
+- Build custom awesome-like directories of tool alternatives
+- Promote products as superior alternatives to competitors
+- Generate SEO backlinks via user submissions
+- Create comparison tables vs manual Markdown sites
 
-## Popular Searches (2026)
+## Comparisons
 
-- Laravel alternatives
-- PostgreSQL alternatives
-- Microlaunch alternatives
-- Product Hunt alternatives
-
-## Categories
-
-- Development tools
-- Productivity software
-- Design applications
-- Business tools
-- Mobile apps
-- Web services
-
-## Filters
-
-- Operating system
-- License type
-- Features
-- Pricing
-- User ratings
-
-## Benefits
-
-- Community-driven
-- Comprehensive coverage
-- Real user feedback
-- Platform comparisons
-- Feature matrices
-
-## Target Audience
-
-Users seeking alternatives to existing software based on platform, features, pricing, or licensing.
+**vs Manual Markdown**: Automated updates, community contributions, interactive search vs static maintenance.
 
 ## Pricing
 
-Free to browse and contribute.
+Free to browse, submit, and promote alternatives.

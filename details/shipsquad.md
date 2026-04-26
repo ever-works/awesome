@@ -1,30 +1,26 @@
 ## Overview
 
-ShipSquad is a product launch platform focusing on community engagement and feedback, positioning itself as an alternative to Microlaunch and Product Hunt.
+ShipSquad builds iterative product directories with community engagement features.
 
-## Key Features
+## Features
 
-- Community-driven discovery
-- Sustained engagement model
-- Product feedback
+- Launch templates
+- Feedback systems
+- SEO pages
 - Early user acquisition
-- Launch support
+- Sustained rankings
 
-## 2026 Positioning
+## Use Cases
 
-Listed among top Microlaunch alternatives, representing the trend toward platforms that prioritize sustained engagement over viral moments.
+- Create awesome-like launch lists
+- Promote with community input
+- SEO via indexed directories
+- Iterative development
 
-## Best For
+## Comparisons
 
-- Founders seeking community feedback
-- Products in active development
-- Building engaged user base
-- Long-term product discovery
-
-## Target Audience
-
-Startup founders and indie makers wanting community engagement and early user feedback.
+**vs Manual Markdown**: Dynamic feedback, traffic vs static hosting.
 
 ## Pricing
 
-Check website for current model.
+Check site.

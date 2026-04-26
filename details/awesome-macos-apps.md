@@ -1,6 +1,6 @@
 ## Overview
 
-Podcasts collection.
+Awesome macOS apps.
 
 ## Pricing
 

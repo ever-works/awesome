@@ -1,25 +1,28 @@
 ## Overview
 
-Curated meta-directory of directories and lists.
-
-## Aggregation
-Combines 300+ directories including awesome lists.
+Curated meta-directory aggregating directories and lists from GitHub and web sources.
 
 ## Features
-- Categorized (AI, SaaS)
-- Update frequency
-- Submission focus
+
+- Categorized by niche (AI, SaaS, etc.)
+- Regular updates
+- Submission for new directories
+- Star tracking for GitHub items
 
 ## Use Cases
-- SEO/promotion discovery
-- Cross-topic directories
+
+- SEO and promotion discovery
+- Cross-topic directory exploration
+- Researching awesome lists
 
 ## Comparisons
 
 | Feature | Directory of Directories | GitHub Search |
 |---------|---------------------------|---------------|
-| Scope | Directories/lists | Repos |
-| Categories | Yes | No |
+| Scope | Directories/lists/web | Repos |
+| Categories | Yes | Limited |
+| Curated | Yes | No |
 
 ## Pricing
+
 Free.

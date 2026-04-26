@@ -1,5 +1,26 @@
-# SeoMode
+## Overview
 
-A service that submits your SaaS to 100+ directories, writes niche blog articles using topical maps, and builds comparison pages (“Your SaaS vs Competitor”), so you can rank on Google and grow your domain authority fast.
+SeoMode generates directory listings and SEO content for SaaS promotion.
 
-[https://seomode.io](https://seomode.io)
+## Features
+
+- 100+ directory submissions
+- Niche blog articles
+- Comparison page templates
+- Topical map SEO
+- Google ranking optimization
+
+## Use Cases
+
+- Build distributed SaaS directories
+- Automated content promotion
+- Competitor comparison sites
+- Vs manual writing/hosting
+
+## Comparisons
+
+**vs Manual Markdown**: Scalable submissions, content gen vs hand-crafted.
+
+## Pricing
+
+Service fees; inquire on site.

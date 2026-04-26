@@ -1,27 +1,26 @@
 ## Overview
 
-OpenHunts is a product launch directory specifically designed for indie makers and bootstrapped startups, offering a supportive community and high-quality traffic.
+OpenHunts auto-generates launch directories for indie products with community support.
 
-## Key Features
+## Features
 
-- **Free Launches**: All indie projects can launch for free
-- **High Conversion**: 14.3% conversion rate on average
-- **Supportive Community**: Most engaged and supportive community for indie projects
-- **No Spam**: Quality-focused curation and moderation
-- **Long-term Visibility**: Products remain discoverable over time
+- Free submission templates
+- 14.3% conversion rankings
+- Newsletter promotion
+- SEO backlinks
+- Long-term visibility
 
-## Why Choose OpenHunts
+## Use Cases
 
-- Best free alternative to Product Hunt for indie hackers
-- Focused on indie developers and bootstrapped founders
-- Highly engaged community that provides genuine feedback
-- Excellent for early-stage products and MVPs
-- No aggressive monetization or pay-to-win mechanics
+- Build custom indie awesome lists
+- Promote bootstrapped startups
+- Gather feedback iteratively
+- SEO via community pages
 
-## Target Audience
+## Comparisons
 
-Indie hackers, solopreneurs, bootstrapped startups, and makers launching side projects.
+**vs Manual Markdown**: Community engagement, conversions, traffic vs static lists.
 
 ## Pricing
 
-Free for all indie projects.
+Free.

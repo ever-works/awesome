@@ -1,5 +1,7 @@
-# MMNT
+## Overview
 
-General open directory resource.
+Open directory of web resources.
 
-[https://www.mmnt.net](https://www.mmnt.net)
+## Pricing
+
+Free.

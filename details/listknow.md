@@ -3,13 +3,16 @@
 Curated directory of useful lists of lists.
 
 ## Aggregation
-Hand-picks verified collections.
+
+Hand-picks and verifies top collections across topics like AI, design.
 
 ## Features
+
 - Categories (AI, design)
 - Verified/up-to-date
 
 ## Use Cases
+
 - Specialized resource discovery
 - Across web topics
 
@@ -21,4 +24,5 @@ Hand-picks verified collections.
 | Verification | Yes | No |
 
 ## Pricing
+
 Free.
