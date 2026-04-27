@@ -1,17 +1,29 @@
 ## Overview
 
-awesome-awesome-awesome-awesome is a curated, multi-level meta-list aggregating awesome lists that themselves curate other awesome lists, created by Sindre Sorhus.
+Curated multi-level meta-list of awesome lists about awesome lists.
 
-## Features
+## Purpose/Function
 
-- Nested curation of high-quality meta-lists
-- Direct links to README files for easy navigation
+Highly meta aggregation for inception exploration.
+
+## Key Features
+
+- Nested curation
+- Direct README links
+- Focus on quality metas
 
 ## Use Cases
 
-- Discovering directories of directories
-- Meta-research on the GitHub awesome ecosystem
+- Discovering meta-directories
+- Awesome ecosystem research
+
+## Comparisons
+
+| Feature | AAAA | jnv/lists |
+|---------|------|-----------|
+| Focus | Awesome-only | All lists |
+| Depth | Multi-level | Broad |
 
 ## Pricing
 
-Free and open-source.
+Free, open-source.

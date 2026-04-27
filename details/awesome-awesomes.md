@@ -2,19 +2,22 @@
 
 Dynamically generated list of all "awesome" awesome lists, using a Ruby script for categorization by inception level.
 
-## Aggregation
+## Purpose/Function
 
-Automatically indexes thousands of awesome lists by topic, stars, and inception depth.
+Aggregates and indexes thousands of awesome lists for meta-discovery.
 
-## Features
+## Key Features
 
 - Auto-updates via script
-- Star counts
+- Star counts and history
 - Inception depth tracking
+- Topic and star-based categorization
 
 ## Use Cases
 
 - Meta-exploration of awesome lists
+- Monitoring trends and new additions
+- Building comprehensive resource libraries
 
 ## Comparisons
 
@@ -22,7 +25,8 @@ Automatically indexes thousands of awesome lists by topic, stars, and inception 
 |---------|------------------|---------------|
 | Exhaustiveness | All awesome lists | Partial |
 | Automation | Full | Manual |
+| Filtering | Multi-dimensional | Basic |
 
 ## Pricing
 
-Free and open-source under the Apache 2.0 license.
+Free and open-source.
