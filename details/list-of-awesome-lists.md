@@ -4,7 +4,7 @@
 **Tags:** meta-directory, awesome-lists, project-discovery
 
 ### Overview
-List Of Awesome Lists is a meta-collection that scans and indexes a large number of "awesome" list repositories (around 130 under active scanning). It serves as an aggregated directory to help users discover and navigate across many different awesome lists from a single place.
+List Of Awesome Lists is a meta-collection that scans and indexes a large number of \"awesome\" list repositories (around 130 under active scanning). It serves as an aggregated directory to help users discover and navigate across many different awesome lists from a single place.
 
 ### Features
 - **Meta index of awesome lists**: Aggregates content from many separate awesome list repositories into one unified directory.

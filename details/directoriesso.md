@@ -1,5 +1,5 @@
 # Directories.so
 
-Directories.so is a comprehensive index of awesome directories across AI, design, development, featuring filtering, popularity rankings, and daily updates as of 2026. Ideal for developers seeking topic-specific directory resources. More meta/focused than sindresorhus/awesome, this aggregates internet-wide collections.
+Comprehensive tracker and index of awesome directories across AI, design, development topics, monitoring popularity via GitHub stars and providing daily updates, filtering, and rankings. Key features include topic-specific sorting by stars, meta-directory discovery tools. Suited for developers and curators seeking dynamic project discovery and list maintenance, more focused than broad static lists like sindresorhus/awesome.
 
 [https://directories.so](https://directories.so)
