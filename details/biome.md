@@ -1,3 +1,5 @@
+![logo](https://raw.githubusercontent.com/biomejs/awesome-biome/main/banner.png)
+
 ## Topics Covered
 
 - Plugins and extensions

@@ -1,18 +1,24 @@
-## Topics Covered
+## Overview
 
-- Components and hooks
+Convex's official Awesome list of resources and tools.
+
+![Convex Logo](https://raw.githubusercontent.com/get-convex/convex/main/logo.svg)
+
+## Key Coverage
+
+- Components & hooks
 - Integrations
 - Deployment guides
 
-## Use Cases
+## Applications
 
-- Full-stack reactive apps
-- Real-time data sync
+- Reactive full-stack apps
+- Real-time sync
 
 ## Comparisons
 
-Convex-specific vs. Awesome Serverless.
+Convex-centric vs broad serverless or React lists.
 
 ## Pricing
 
-Free tier available; paid plans for scale.
+Free tier; scalable paid plans.

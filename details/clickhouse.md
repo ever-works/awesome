@@ -1,17 +1,23 @@
-## Topics Covered
+## Overview
 
-- Integrations and clients
-- UIs and tools
-- Exporters and operators
+Community-maintained Awesome list dedicated to ClickHouse ecosystem.
 
-## Use Cases
+![ClickHouse Logo](https://clickhouse.com/images/logo-clickhouse.svg)
+
+## Key Coverage
+
+- Integrations & clients
+- UIs & tools
+- Exporters & operators
+
+## Applications
 
 - Analytics pipelines
-- Real-time querying
+- Real-time data querying
 
 ## Comparisons
 
-ClickHouse-focused vs. broad databases lists.
+Hyper-focused on ClickHouse, unlike general database directories.
 
 ## Pricing
 

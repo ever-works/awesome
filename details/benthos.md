@@ -1,3 +1,5 @@
+![logo](https://raw.githubusercontent.com/redpanda-data/awesome-benthos/main/banner.png)
+
 ## Topics Covered
 
 - Processors and components
