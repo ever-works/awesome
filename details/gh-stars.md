@@ -1,20 +1,24 @@
-# gh-stars
-
 ## Overview
 
-gh-stars is a dynamically generated, awesome-list–style directory based on the GitHub stars of the user sokai. It aggregates and organizes starred repositories into a curated collection, making it easier to browse and discover noteworthy projects.
+Dynamic starred repos list.
 
 ## Features
 
-- Auto-updated list
-- Awesome-list style organization
-- Derived from GitHub stars
-- Curated discovery
+- Auto real-time updates
+- Awesome-style formatting
 
 ## Use Cases
 
-- Discovering starred repos in awesome format
+- Personal list maintenance
+- Star-based discovery
+
+## Comparisons to Static GitHub
+
+| Feature | gh-stars | Static Stars |
+|---------|----------|--------------|
+| Updates | Auto | Manual |
+| Format | Awesome list | Plain |
 
 ## Pricing
 
-Free and open-source.
+Free open-source.

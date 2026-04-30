@@ -1,8 +1,20 @@
 ## Overview
-Curated list of GitHub awesome lists.
+
+Curated GitHub awesome lists collection.
 
 ## Features
-- Collection of awesome lists repositories
+
+- Organized by topic
+- Community curated
+
+## Use Cases
+
+- Broad list discovery
+
+## Comparisons
+
+Aggregated vs single lists.
 
 ## Pricing
+
 Free.

@@ -1,13 +1,20 @@
 ## Overview
 
-Meta collection of awesome lists covering topics such as AI, DevOps, cybersecurity, blockchain, sustainability, and open governance.
+Comprehensive awesome lists index.
 
 ## Features
 
-- Actively maintained repositories
-- Community contributions welcome
-- Structured by topics for easy discovery
+- Daily tracking
+- Categorization
+
+## Use Cases
+
+- Resource discovery
+
+## Comparisons
+
+Indexed vs manual.
 
 ## Pricing
 
-Free and open-source.
+Free.

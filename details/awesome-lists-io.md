@@ -1,20 +1,26 @@
 ## Overview
 
-Awesome Lists IO provides a professionally curated collection of awesome lists with consistent structure, active maintenance, and focus on quality over quantity.
+Quality-focused Awesome aggregator.
 
 ## Features
 
-- High editorial standards and quality control
-- Consistent formatting across all lists
-- Regular updates and dead link removal
-- Topic-specific lists with clear scope
-- Community contribution guidelines
-- Verification of resources before inclusion
-- Categorized and tagged entries
-- Lists covering emerging technologies
-- Integration with awesome list ecosystem
-- Focus on long-term maintainability
+- Live star rankings
+- Topic dashboards
+- Dead-link monitoring
+
+## Use Cases
+
+- Verified list maintenance
+- Themed discovery
+
+## Comparisons to Static GitHub
+
+| Feature | Awesome Lists IO | Static GitHub |
+|---------|------------------|---------------|
+| Quality | Verified | Unchecked |
+| Updates | Regular dynamic | Manual |
+| Structure | Consistent | Varies |
 
 ## Pricing
 
-Free and open-source.
+Free open-source.

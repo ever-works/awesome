@@ -1,5 +1,20 @@
-# Awesome Artificial Intelligence
+## Overview
 
-A curated list of awesome frameworks, libraries, tools, and resources for Artificial Intelligence (AI). This list covers everything from foundational machine learning and deep learning to specialized areas like NLP, computer vision, and AI ethics.
+Curated AI resources directory.
 
-[https://github.com/awesomelistsio/awesome-ai](https://github.com/awesomelistsio/awesome-ai)
+## Features
+
+- Covers ML, DL, NLP
+- Community maintained
+
+## Use Cases
+
+- AI project starting point
+
+## Comparisons
+
+| Scope | Broad AI | Niche |
+
+## Pricing
+
+Free.

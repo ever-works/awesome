@@ -1,22 +1,26 @@
 ## Overview
 
-Ranks awesome lists with analytics.
+Ranks Awesome lists dynamically.
 
 ## Features
-- Multi-metric rankings
-- Trend graphs
+
+- Real-time multi-metric rankings
+- Graphs & sortable tables
 - Category browsing
 
 ## Use Cases
-- Identify top lists for maintenance/inspiration
-- Track ecosystem trends
 
-## Comparisons
+- Maintenance: top list ID
+- Discovery: trends/categories
 
-| Feature | Awesome Rank | Manual |
-|---------|--------------|--------|
-| Metrics | Comprehensive | Basic |
-| Visuals | Graphs | None |
+## Comparisons to Static GitHub
+
+| Feature | Awesome Rank | Static GitHub |
+|---------|--------------|---------------|
+| Metrics | Multi | Stars only |
+| Visuals | Graphs/tables | None |
+| Updates | Live | Static |
 
 ## Pricing
+
 Free.

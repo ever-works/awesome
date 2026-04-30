@@ -1,29 +1,25 @@
 ## Overview
 
-Search engine for GitHub awesome lists.
-
-## Aggregation
-
-Indexes thousands of awesome collections by stars, topics, languages.
+Awesome lists search engine.
 
 ## Features
 
-- Star/topic/language filters
-- Rankings
-- Newsletter
-- Submission form
+- Live star/topic filters
+- Daily rankings dashboard
+- RSS/newsletter
 
 ## Use Cases
 
-- Themed list discovery
-- Trending tracking
+- List maintenance/discovery
+- Trend tracking
 
-## Comparisons
+## Comparisons to Static GitHub
 
-| Feature | Get Awesome Lists | GitHub Search |
+| Feature | Get Awesome Lists | Static GitHub |
 |---------|--------------------|---------------|
-| Filters | Awesome-specific | General |
-| Indexing | Full | Partial |
+| Scale | Thousands | Single repo |
+| Filters | Advanced | Basic |
+| Alerts | RSS | None |
 
 ## Pricing
 

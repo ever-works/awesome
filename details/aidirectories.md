@@ -1,27 +1,22 @@
 ## Overview
 
-Meta-index of AI directories and awesome lists.
+Meta-index of AI directories and lists.
 
 ## Features
 
-- Topic categorization
-- Search functionality
-- Star rankings
-- Regular updates
+- Search
+- Star tracking
+- Updates
 
 ## Use Cases
 
-- AI-themed repo discovery
-- Project research
-- Themed directory hunting
+- AI discovery
 
 ## Comparisons
 
-| Feature | aidirectori.es | Static Lists |
-|---------|----------------|--------------|
-| Scope | AI meta | General |
+| Feature | aidirectori.es | Static |
+|---------|----------------|--------|
 | Search | Yes | No |
-| Stars | Tracked | Manual |
 
 ## Pricing
 

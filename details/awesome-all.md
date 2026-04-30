@@ -1,23 +1,20 @@
-# Awesome All
+## Overview
 
-**Description:**
-Awesome All is a centralized directory that curates lists of awesome frameworks, libraries, and software. It acts as a meta-directory, collecting and organizing various awesome lists to make them easily accessible.
+Centralized awesome lists hub.
 
-**Features:**
-- Aggregates curated lists of frameworks, libraries, and software from across the web
-- Serves as a meta-directory, pointing to multiple awesome lists
-- Open-source project hosted on GitHub
-- Contributions are welcome via guidelines
-- Continuously updated with input from contributors
+## Features
 
-**Category:**
-Meta-directories
+- Categorized aggregation
+- GitHub links
 
-**Tags:**
-meta-directory, curated-lists, awesome-lists, github
+## Use Cases
 
-**Source URL:**
-[https://github.com/bradoyler/awesome-all](https://github.com/bradoyler/awesome-all)
+- Multi-domain search
 
-**Pricing:**
-- Free (Open Source)
+## Comparisons
+
+Aggregated vs single-list.
+
+## Pricing
+
+Free.

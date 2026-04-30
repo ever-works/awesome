@@ -1,34 +1,29 @@
 ## Overview
 
-Web-based dashboard tracking Awesome list changes in real-time.
+Dynamic dashboard for Awesome list changes.
 
-![Track Awesome List Screenshot](https://www.trackawesomelist.com/assets/dashboard-screenshot.png)
+![Dashboard](https://www.trackawesomelist.com/assets/dashboard-screenshot.png)
 
 ## Features
 
-- Daily GitHub scans of 500+ lists
-- RSS/email notifications for updates
-- Searchable archive of additions
-- Trending/popular sections
-- Star history charts
-- Per-list RSS feeds
-- Timeline and sortable views
+- Real-time star updates
+- RSS/email notifications
+- Searchable trends/history
+- Sortable timelines
 
 ## Use Cases
 
-- Alert curators to new resources
-- Spot emerging trends
-- Discover fresh projects without manual checks
+- List maintenance & discovery
+- Trend monitoring
 
-## Comparisons
+## Comparisons to Static GitHub
 
-| Aspect       | Track Awesome List | Static Lists (e.g. Awesome) |
-|--------------|--------------------|-----------------------------|
-| Freshness    | Daily              | Manual updates              |
-| Notifications| RSS/Email          | None                        |
-| Trends      | Yes                | No                          |
-| History     | Full archive       | Limited                     |
+| Feature | Track Awesome List | Static GitHub |
+|---------|--------------------|---------------|
+| Updates | Live daily | Manual |
+| Notifications | RSS/Email | None |
+| Dashboards | Interactive charts | None |
 
 ## Pricing
 
-Free, with premium features.
+Free with premium options.

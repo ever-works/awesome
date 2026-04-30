@@ -1,23 +1,24 @@
 ## Overview
 
-automated stats tracker for awesome-go repos.
+Automated stats for awesome-go.
 
 ## Features
 
-- Daily star/commit history
-- Dependency analysis
-- CSV/JSON exports
+- Daily star/commit graphs
+- Dependency analysis dashboard
+- Exports
 
 ## Use Cases
 
-- Monitor list repo health
-- Trend analysis for maintenance
+- List health maintenance
+- Trend discovery
 
-## Comparisons
+## Comparisons to Static GitHub
 
-| Aspect | Tool | Manual |
-|--------|------|--------|
-| Updates | Daily | None |
+| Feature | Tool | Static GitHub |
+|---------|------|---------------|
+| Updates | Daily | Manual |
+| Visuals | Charts | None |
 | Exports | Yes | No |
 
 ## Pricing

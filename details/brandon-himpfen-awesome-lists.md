@@ -1,21 +1,25 @@
 ## Overview
 
-Meta-collection aggregating awesome lists by topic.
+Topic-grouped Awesome lists.
 
 ## Features
-- Topic categorization
-- Star rankings
+
+- Star rankings dashboard
+- Category navigation
 
 ## Use Cases
-- Structured discovery for curation
-- Popularity tracking
 
-## Comparisons
+- Curation maintenance
+- Themed discovery
 
-| Feature | Aggregator | Search |
-|---------|------------|--------|
+## Comparisons to Static GitHub
+
+| Feature | Aggregator | Static GitHub |
+|---------|------------|---------------|
 | Grouping | Topics | None |
-| Rankings | Stars | Basic |
+| Rankings | Live stars | Basic |
+| Navigation | Categorized | Search only |
 
 ## Pricing
+
 Free open-source.

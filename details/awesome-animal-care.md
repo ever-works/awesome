@@ -1,10 +1,19 @@
 ## Overview
 
-Caring for dogs, cats, fishes, horses, parrots, and others.
+Curated resources for animal care.
 
 ## Features
 
-- Pet care resources
+- Multi-species coverage
+- Practical guides
+
+## Use Cases
+
+- Pet owner reference
+
+## Comparisons
+
+Broader than niche lists.
 
 ## Pricing
 

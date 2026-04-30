@@ -1,8 +1,19 @@
 ## Overview
-Curated collection of awesome lists.
+
+Curated awesome lists.
 
 ## Features
-- List of lists
+
+- Inspirational selections
+
+## Use Cases
+
+- List exploration
+
+## Comparisons
+
+Curated vs raw.
 
 ## Pricing
+
 Free.

@@ -1,8 +1,19 @@
 ## Overview
-Curated lists for various programming languages and resources.
+
+Language-focused awesome lists.
 
 ## Features
-- Language-specific awesome lists
+
+- By language
+
+## Use Cases
+
+- Dev resource discovery
+
+## Comparisons
+
+Organized vs static.
 
 ## Pricing
+
 Free.

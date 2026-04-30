@@ -1,10 +1,21 @@
 ## Overview
 
-Things to read every year.
+Annual recommendations for must-read resources.
 
 ## Features
 
-- Annual reading recommendations
+- Yearly updates
+- Curated essentials
+
+## Use Cases
+
+- Personal development reading
+
+## Comparisons
+
+| Feature | This | Static |
+|---------|------|--------|
+| Updates | Annual | None |
 
 ## Pricing
 

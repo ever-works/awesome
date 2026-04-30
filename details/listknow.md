@@ -1,27 +1,24 @@
 ## Overview
 
-Curated directory of useful lists of lists.
-
-## Aggregation
-
-Hand-picks and verifies top collections across topics like AI, design.
+Curated lists-of-lists index.
 
 ## Features
 
-- Categories (AI, design)
-- Verified/up-to-date
+- Topic dashboards
+- Verified star updates
 
 ## Use Cases
 
-- Specialized resource discovery
-- Across web topics
+- Meta-list maintenance
+- Specialized discovery
 
-## Comparisons
+## Comparisons to Static GitHub
 
-| Feature | ListKnow | GitHub Search |
+| Feature | ListKnow | Static GitHub |
 |---------|----------|---------------|
-| Curation | Hand-picked | None |
-| Verification | Yes | No |
+| Curation | Hand-verified | None |
+| Updates | Dynamic | Static |
+| Filters | Topics | Basic |
 
 ## Pricing
 

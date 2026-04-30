@@ -4,19 +4,19 @@ Curated collection of resources for aircraft structure analysis.
 
 ## Features
 
-- Tutorials, research papers, and tools
-- Aggregates GitHub repositories
+- Tutorials, papers, tools
+- Aggregates GitHub repos
 - Categorized and updated
 
 ## Use Cases
 
-- Researching aero structures projects
-- Finding engineering alternatives
+- Aerospace research
+- Engineering alternatives
 
-## Comparison
+## Comparisons
 
-More niche than sindresorhus/awesome.
+More niche than general awesome.
 
 ## Pricing
 
-Free resources.
+Free.

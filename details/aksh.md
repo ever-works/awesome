@@ -1,11 +1,19 @@
 ## Overview
 
-Bibliography of STEM resources and grey literature.
+Bibliography and meta-collection for STEM resources.
 
 ## Features
 
-- STEM resources
+- Curated STEM lists
 - Grey literature
+
+## Use Cases
+
+- STEM project discovery
+
+## Comparisons
+
+Vs static lists: broader STEM coverage.
 
 ## Pricing
 

@@ -1,5 +1,19 @@
-# Directories.so
+## Overview
 
-Comprehensive tracker and index of awesome directories across AI, design, development topics, monitoring popularity via GitHub stars and providing daily updates, filtering, and rankings. Key features include topic-specific sorting by stars, meta-directory discovery tools. Suited for developers and curators seeking dynamic project discovery and list maintenance, more focused than broad static lists like sindresorhus/awesome.
+Comprehensive tracker of awesome directories.
 
-[https://directories.so](https://directories.so)
+## Features
+
+- Star monitoring
+- Daily updates
+- Topic filtering
+- Rankings
+
+## Use Cases
+
+- Popularity tracking
+- Meta-directory discovery
+
+## Pricing
+
+Free.

@@ -1,22 +1,20 @@
 ## Overview
 
-GitHub’s central aggregation of all public 'awesome' tagged repositories, serving as a searchable meta-directory of community-curated awesome lists.
+GitHub’s awesome topic hub.
 
 ## Features
-- Filters by language
-- Sorting by stars, forks, recency
-- Trend metrics
+
+- Search/sort
+- Real-time metrics
 
 ## Use Cases
-- Discover lists for curation and maintenance
-- Track trending collections
+
+- Trend monitoring
 
 ## Comparisons
 
-| Feature | All Awesome Lists | Manual |
-|---------|-------------------|--------|
-| Aggregation | Awesome-specific | None |
-| Metrics | Sortable | None |
+Automated vs manual.
 
 ## Pricing
+
 Free.

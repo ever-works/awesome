@@ -1,5 +1,24 @@
-# BurntFen's Awesome Lists
+## Overview
 
-Personal showcase and maintainer page for multiple GitHub awesome lists with star tracking and curation insights. Features list overviews and engagement metrics. Useful for awesome list maintainers to monitor and promote their collections versus static repo views.
+Personal Awesome lists showcase.
 
-[https://www.burntfen.com/projects/awesome/](https://www.burntfen.com/projects/awesome/)
+## Features
+
+- Star tracking dashboard
+- List overviews
+
+## Use Cases
+
+- Maintainer self-tracking
+- Collection discovery
+
+## Comparisons to Static GitHub
+
+| Feature | Dashboard | Static Repo |
+|---------|-----------|-------------|
+| Metrics | Live stars | Static |
+| Views | Interactive | README |
+
+## Pricing
+
+Free.

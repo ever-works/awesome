@@ -1,5 +1,25 @@
-# AI Agents Directories
+## Overview
 
-A comprehensive list of the best AI agent directories available online. It provides a resource for discovering directories focused on AI agents.
+Curated meta-directory of top AI agent directories.
 
-[https://github.com/danielmiessler/ai-agents-directories](https://github.com/danielmiessler/ai-agents-directories)
+## Features
+
+- Aggregated listings
+- Easy discovery
+- Focused on quality
+
+## Use Cases
+
+- AI agent resource hunting
+- Comparing directories
+
+## Comparisons
+
+| Aspect | This | Static GitHub |
+|--------|------|---------------|
+| Focus | Directories | Lists |
+| Updates | Dynamic | Manual |
+
+## Pricing
+
+Free.

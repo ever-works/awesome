@@ -1,8 +1,19 @@
 ## Overview
-A curated list of awesome curated lists covering various topics.
+
+Meta list of awesome resources.
 
 ## Features
-- Meta list of awesome resources
+
+- Multi-topic coverage
+
+## Use Cases
+
+- Resource hunting
+
+## Comparisons
+
+Meta vs base.
 
 ## Pricing
+
 Free.
