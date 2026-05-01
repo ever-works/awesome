@@ -1,17 +1,17 @@
 ## Overview
 
-awesome-stars is an auto-generated list of GitHub repositories starred by user luphord, categorized by programming languages like Assembly, BitBake, C, C#, C++, Go, JavaScript, Python, and more.
+A dynamic list of starred GitHub repositories, automatically generated and categorized by programming language (e.g., C with 61 repos, Go with 134). Includes high-star projects like Linux kernel (96k stars), Prometheus (32k stars), and TensorFlow (147k stars).
 
 ## Features
 
-- Organized by language (e.g., Assembly, C, Go, JavaScript)
-- Generated using 'starred' tool
-- Covers diverse projects from bare metal examples to web servers, monitoring tools, and more
+- Language-based grouping (Assembly to Vue)
+- Tables with repo name, description, owner, and stars
+- Focus on popular tools, libraries, kernels, and frameworks
 
 ## Use Cases
 
-- Discover starred projects in specific languages
-- Personal bookmarking of open-source repositories
+- Discover trending open-source projects
+- Reference for starred repos in specific languages
 
 ## Pricing
 

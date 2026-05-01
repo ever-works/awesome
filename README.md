@@ -10,9 +10,9 @@ A curated list of awesome directories
 - [Launch & Product Directories (11)](#launch--product-directories)
 - [Remote Work (19)](#remote-work)
 - [Awesome List Aggregators (4)](#awesome-list-aggregators)
-- [Development Tools (85)](#development-tools)
+- [Development Tools (93)](#development-tools)
 - [Automation & Integration (4)](#automation--integration)
-- [Data Engineering (25)](#data-engineering)
+- [Data Engineering (27)](#data-engineering)
 - [Directory Building & Promotion Tools (12)](#directory-building--promotion-tools)
 - [AI & ML Awesome Hubs (7)](#ai--ml-awesome-hubs)
 - [Canonical Awesome Hubs (1)](#canonical-awesome-hubs)
@@ -24,12 +24,13 @@ A curated list of awesome directories
 - [Meta Directories (8)](#meta-directories)
 - [Open Source (12)](#open-source)
 - [Programming Languages (28)](#programming-languages)
-- [Security (40)](#security)
-- [Star-Ranked Awesome Indexes (4)](#star-ranked-awesome-indexes)
+- [Security (41)](#security)
+- [Star-Ranked Awesome Indexes (3)](#star-ranked-awesome-indexes)
 - [Startup Accelerators (1)](#startup-accelerators)
 - [Sustainability (9)](#sustainability)
 - [Themed Awesome Directories (3)](#themed-awesome-directories)
 - [Themed Directories (43)](#themed-directories-1)
+- [Web Development (42)](#web-development)
 - [Ai Directories (2)](#ai-directories)
 - [AI Directories (1)](#ai-directories-1)
 - [Audio & Music (12)](#audio--music)
@@ -45,18 +46,19 @@ A curated list of awesome directories
 - [Blockchain & Crypto (18)](#blockchain--crypto)
 - [Business & Entrepreneurship (21)](#business--entrepreneurship)
 - [Business Entrepreneurship (1)](#business-entrepreneurship)
+- [Business Entrepreneurship (1)](#business-entrepreneurship-1)
 - [Cloud & Infrastructure (15)](#cloud--infrastructure)
 - [Computer Vision (17)](#computer-vision)
 - [Creative Coding (9)](#creative-coding)
 - [Data Competitions (6)](#data-competitions)
 - [Data Science (21)](#data-science)
 - [Data Visualization (3)](#data-visualization)
-- [Databases (3)](#databases)
+- [Databases (4)](#databases)
 - [Datasets (58)](#datasets)
 - [Datasets (7)](#datasets-1)
 - [Design (13)](#design)
 - [Development Tools (2)](#development-tools-1)
-- [Devops Sre (1)](#devops-sre)
+- [Devops Sre (2)](#devops-sre)
 - [Devops Sre (1)](#devops-sre-1)
 - [Directory Building Tools (2)](#directory-building-tools-1)
 - [Directory of Directories (1)](#directory-of-directories)
@@ -73,7 +75,7 @@ A curated list of awesome directories
 - [Inception Level Metas (2)](#inception-level-metas)
 - [IoT (8)](#iot)
 - [Launch Directories (1)](#launch-directories)
-- [Learning Education (2)](#learning-education-1)
+- [Learning Education (3)](#learning-education-1)
 - [Llm Awesome Meta Lists (31)](#llm-awesome-meta-lists)
 - [LLM Awesome Meta Lists (2)](#llm-awesome-meta-lists-1)
 - [Machine Learning & AI (93)](#machine-learning--ai)
@@ -89,9 +91,9 @@ A curated list of awesome directories
 - [Security (1)](#security-1)
 - [Self Hosting (2)](#self-hosting)
 - [Self-Hosting (1)](#self-hosting-1)
+- [Star Trackers (2)](#star-trackers)
 - [Time Tracking (1)](#time-tracking)
 - [Voice (1)](#voice)
-- [Web Development (40)](#web-development)
 
 
 ## Project Awesome Lists
@@ -1647,22 +1649,30 @@ A curated list of awesome directories
 - [Awesome Workflow Automation](https://github.com/dariubs/awesome-workflow-automation) - A curated list of workflow automation software, engines, and tools for engineers managing data flows, ETL pipelines, scheduled jobs, and complex production workflows including Apache Airflow, Prefect, and n8n. ([Read more](/details/awesome-workflow-automation.md)) `Automation` `Workflow` `Orchestration`
 - [Awesome YAML](https://github.com/dreftymac/awesome-yaml) - A collection of awesome YAML (Ain't Markup Language) goodies for structured metadata in text, including parsers, tools, libraries, and resources for working with YAML configuration files. ([Read more](/details/awesome-yaml.md)) `Yaml` `Configuration` `Data Formats`
 - [Awesome Zsh](https://github.com/unixorn/awesome-zsh-plugins) - A curated collection of resources, plugins, themes, and frameworks for Zsh (Z shell), the powerful Unix shell with extensive customization options, intelligent command completion, and enhanced scripting capabilities. ([Read more](/details/awesome-zsh.md)) `Zsh` `Shell` `Terminal`
+- [boolean-toggle.nvim](https://github.com/DrKJeff16/boolean-toggle.nvim) - Toggle between true and false under your cursor. A Neovim plugin for editing support. ([Read more](/details/boolean-togglenvim.md)) `Neovim` `Editing` `Open Source`
 - [classlayout.nvim](https://github.com/J-Cowsert/classlayout.nvim) - Neovim plugin to visualize C/C++ struct and class memory layouts, showing field offsets, padding, and alignment in a floating window. Featured in Awesome Neovim under Programming Languages Support and Diagnostics. Useful for low-level C/C++ development and debugging memory structures. ([Read more](/details/classlayoutnvim.md)) `Neovim` `c++` `Visualizer` `Open Source`
+- [dataset](https://github.com/caltechlibrary/dataset) - Dataset is a command line tool, Go package, shared library and Python package for working with JSON objects as collections. Developed by Caltech Library. ([Read more](/details/dataset.md)) `Go` `Json` `Data Management`
+- [datatools](https://github.com/caltechlibrary/datatools) - A set of tools for working with JSON, CSV and Excel workbooks. Developed by Caltech Library. ([Read more](/details/datatools.md)) `Go` `Data Processing` `Open Source`
 - [Documentation Handbook](https://github.com/jamiebuilds/documentation-handbook) - How to write high-quality friendly documentation that people want to read featuring best practices, templates, and writing guidelines for technical documentation. ([Read more](/details/documentation-handbook.md)) `Documentation` `Writing` `Best Practices`
+- [duras_bridge](https://github.com/sduras/duras_bridge) - Bridge for duras plain-text daily notes; append, search, and open notes from the editor. Neovim plugin for note taking. ([Read more](/details/duras_bridge.md)) `Neovim` `Note Taking` `Open Source`
 - [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Software reverse engineering (SRE) framework developed by NSA. It supports disassembly, decompilation, graphing, scripting, and more for various processor architectures. ([Read more](/details/ghidra.md)) `Open Source` `Reverse Engineering` `Security`
 - [GraphQL APIs](https://github.com/APIs-guru/graphql-apis) - A collective list of public GraphQL APIs curated by APIs-guru, featuring APIs for anime, Pokémon, SpaceX, Spotify, Star Wars, UFC, foreign exchange rates, and more. Ideal for developers exploring and adopting GraphQL capabilities in their projects. ([Read more](/details/graphql-apis.md)) `Apis` `Graphql` `Developer Resources`
+- [iplacard](https://github.com/fengkaijia/iplacard) - The Model United Nations Conference Management System by IMUNC since 2013. A system for managing MUN conferences. ([Read more](/details/iplacard.md)) `Conference Management` `Plpgsql` `Open Source`
 - [lean-ctx](https://github.com/yvgude/lean-ctx) - Context runtime for AI coding agents: MCP server and shell hook that compresses tool and terminal output to reduce LLM token use; Tree-sitter parsing, session caching. Part of Awesome Rust Development tools / Workflow Automation updates. ([Read more](/details/lean-ctx.md)) `Rust` `Ai` `Mcp Server` `Open Source`
 - [Linux eBPF](https://github.com/zoidbergwill/awesome-ebpf) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems. A collection of awesome eBPF projects, tools, and resources. Widely used for observability and networking in Linux environments. ([Read more](/details/linux-ebpf.md)) `Linux` `Ebpf` `Awesome Lists` `Open Source`
 - [Lovable](https://lovable.ai) - AI-powered app builder enabling non-technical founders to build full-stack applications in 2026. Part of the no-code revolution where anyone can build SaaS products with zero technical knowledge. Features AI code generation and logic building. ([Read more](/details/lovable.md)) `Ai` `No Code` `App Builder`
 - [Low-Code No-Code Platforms](https://github.com/Mintahandrews/Low-Code-No-Code-Platforms) - Curated list of the best low-code and no-code platforms for rapid application development, automation, and digital transformation with open-source and commercial tools. ([Read more](/details/low-code-no-code-platforms.md)) `Low Code` `No Code` `Rapid Development`
 - [Markdown Badges](https://github.com/Ileriayo/markdown-badges) - A comprehensive collection of badges for personal developer branding, GitHub profiles, and project READMEs with simple markdown syntax for various technologies and platforms. ([Read more](/details/markdown-badges.md)) `Badges` `Markdown` `Github`
 - [nvim.pack](https://github.com/plutowang/nvim.pack) - A declarative, event-driven lazy-loading configuration for Neovim built purely on native Vim.pack, optimized for extreme startup performance. Listed in Awesome Neovim under Preconfigured Configuration and Automation. Ideal for high-performance Neovim setups. ([Read more](/details/nvimpack.md)) `Neovim` `Configuration` `Lazy Loading` `Open Source`
+- [orgmanager](https://github.com/orgmanager/orgmanager) - Invite System for GitHub Organizations. A tool designed to manage invitations for GitHub organizations efficiently. ([Read more](/details/orgmanager.md)) `Github` `Automation` `Open Source`
 - [Pull Request Review Guide](https://github.com/mawrkus/pull-request-review-guide) - Guidelines for better, faster pull request reviews. Comprehensive guide for both authors and reviewers to improve collaborative code review process and maintain high code quality. ([Read more](/details/pull-request-review-guide.md)) `Code Review` `Best Practices` `Collaboration`
 - [shebang.nvim](https://github.com/DrKJeff16/shebang.nvim) - A Neovim plugin designed to add or modify the shebang line at the top of the current file, enhancing editing support particularly for scripts. Recently added to Awesome Neovim under Editing Support and Scrollbar. Provides utility for developers working with executable scripts in Neovim. ([Read more](/details/shebangnvim.md)) `Neovim` `Plugin` `Open Source`
 - [spearmint.nvim](https://github.com/adithyasource/spearmint.nvim) - Lightweight harpoon-style marks with terminal support for Neovim. Part of Awesome Neovim Marks / Assembly updates. ([Read more](/details/spearmintnvim.md)) `Neovim` `Open Source` `Terminal`
+- [sqlite-parser](https://github.com/codeschool/sqlite-parser) - JavaScript implementation of SQLite 3 query parser. Parses SQLite queries in JavaScript. ([Read more](/details/sqlite-parser.md)) `Javascript` `Sqlite` `Parser` `Plpgsql`
 - [taskwarrior.nvim](https://github.com/MattHandzel/taskwarrior.nvim) - Neovim plugin to edit Taskwarrior tasks in a buffer, render tasks as Markdown checkboxes, bulk-edit with Vim motions, diff-and-apply on save. Inspired by oil.nvim. Part of Awesome Neovim Note Taking / Cursorline updates. ([Read more](/details/taskwarriornvim.md)) `Neovim` `Taskwarrior` `Markdown`
 - [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy) - Terminal frameworks, plugins, and resources for CLI lovers, showcasing beautiful terminal setups. ([Read more](/details/terminals-are-sexy.md)) `Terminal` `Cli` `Customization`
 - [verify](https://github.com/tickstem/verify) - Go library to validate email addresses before database insertion, checking syntax, MX records, disposable domains, and role-based inboxes. Added to Awesome Go under Email. Enhances data quality in applications handling user registrations. ([Read more](/details/verify.md)) `Go` `Email` `Validation` `Open Source`
+- [wayfinder.nvim](https://github.com/error311/wayfinder.nvim) - Guided code exploration from the current symbol with a keepable trail. An open-source Neovim plugin originally added to Awesome Neovim LSP section. ([Read more](/details/wayfindernvim.md)) `Neovim` `Lsp` `Open Source`
 - [wharf](https://github.com/idesyatov/wharf) - K9s-inspired TUI for Docker Compose with vim-style navigation, real-time CPU/MEM monitoring with braille charts, container file browser, SSH remote host support, and command mode. Part of Awesome Docker Terminal / Terminal UI updates. ([Read more](/details/wharf.md)) `Docker` `Tui` `Terminal` `Open Source`
 
 ## Automation & Integration
@@ -1698,6 +1708,8 @@ A curated list of awesome directories
 - [Awesome SQL](https://github.com/danhuss/awesome-sql) - A curated list of tools and techniques for working with relational databases, SQL query optimization, database design, and best practices. ([Read more](/details/awesome-sql.md)) `Sql` `Databases` `Query Optimization`
 - [Awesome SQL Playground](https://github.com/marcsauter/awesome-sql-playground) - A curated list of the best SQL playgrounds and online SQL compilers for practicing and testing SQL queries directly in your browser. ([Read more](/details/awesome-sql-playground.md)) `Awesome Lists` `Sql` `Playground` `Databases`
 - [Awesome Streaming](https://github.com/manuzhang/awesome-streaming) - A curated list of awesome streaming frameworks and applications for building real-time data processing pipelines, including Apache Flink, Apache Kafka Streams, and Apache Spark Streaming. ([Read more](/details/awesome-streaming.md)) `Streaming` `Real Time` `Data Pipelines` `Stream Processing`
+- [City2Graph](https://github.com/AlanZhu99/City2Graph) - A Python library for converting GTFS data into graph representations for network analysis and Graph Neural Networks (GNNs). Supports loading GTFS feeds, constructing transit graphs, network centrality analysis, and isochrone-based accessibility analysis on multimodal networks. ([Read more](/details/city2graph.md)) `Gtfs` `Graph` `Python`
+- [gtfs-via-duckdb](https://github.com/cbernat/gtfs-via-duckdb) - Analyse GTFS Schedule data by importing it into a DuckDB database. Tool for GTFS data analysis. ([Read more](/details/gtfs-via-duckdb.md)) `Gtfs` `Duckdb` `Open Source`
 - [Open Knowledge Graphs](https://stevehedden.medium.com/open-knowledge-graphs-a-search-engine-for-ontologies-controlled-vocabularies-and-semantic-web-cfcf32a5babe) - A search engine for ontologies, controlled vocabularies, and semantic web tools helping discover and utilize existing knowledge graphs and semantic resources. ([Read more](/details/open-knowledge-graphs.md)) `Knowledge Graphs` `Semantic Web` `Ontologies`
 
 ## Directory Building & Promotion Tools
@@ -1900,6 +1912,7 @@ A curated list of awesome directories
 - [Awesome Serverless Security](https://github.com/puresec/awesome-serverless-security) - Curated collection of serverless security resources including eBooks, articles, whitepapers, blogs, and research papers for securing AWS Lambda, Azure Functions, and Google Cloud Functions. ([Read more](/details/awesome-serverless-security.md)) `Serverless` `Cloud Security` `Lambda`
 - [Awesome Threat Detection and Hunting](https://threat-hunting.github.io/awesome_Threat-Hunting/Tools,Dataset,Framework/) - A curated collection of tools, datasets, and frameworks for threat detection and hunting in cybersecurity, helping security teams identify and respond to threats proactively. ([Read more](/details/awesome-threat-detection-and-hunting.md)) `Threat Hunting` `Security Operations` `Detection`
 - [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - Comprehensive list of strings that have high probability of causing issues when used as user-input data. Essential for QA testing, fuzzing, and security validation. ([Read more](/details/big-list-of-naughty-strings.md)) `Testing` `Qa` `Security Testing`
+- [boulder](https://github.com/letsencrypt/boulder) - An ACME-based certificate authority, written in Go. Developed by Let's Encrypt. ([Read more](/details/boulder.md)) `Go` `Acme` `Certificate Authority`
 - [Dumb Password Rules](https://github.com/duffn/dumb-password-rules) - Compilation of sites with problematic and overly restrictive password rules, serving as documentation of poor authentication practices and security anti-patterns. ([Read more](/details/dumb-password-rules.md)) `Password Security` `Authentication` `Security Antipatterns`
 - [insto](https://github.com/instoapp/insto) - Interactive OSINT CLI / REPL with 35+ slash-commands for Instagram: profile + media + followers + dossier + geo-fingerprint, shared-followers intersection, superfan ranking, location search, URL metadata resolution, posting-cadence histogram, Maltego CSV export. Token-based (HikerAPI). Part of Awesome Osint updates. ([Read more](/details/insto.md)) `Osint` `Cli` `Instagram` `Open Source`
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - Useful payloads and bypasses for Web Application Security and Pentest/CTF tasks. A comprehensive collection of payloads organized by category for security testing. ([Read more](/details/payloadsallthethings.md)) `Pentest` `Payloads` `Web Security`
@@ -1912,7 +1925,6 @@ A curated list of awesome directories
 - [Github Ranking](https://github.com/EvanLi/Github-Ranking) - Dynamic ranking of GitHub repositories sorted by stars and forks, with separate leaderboards for overall and per programming language. Features top 10 lists with links to full top 100, including metrics like stars, forks, language, open issues, description, and last commit date. Automatically updated regularly. ([Read more](/details/github-ranking.md)) `Open Source` `Github` `Rankings` `Awesome Lists` `Ranked Lists` `Community Curated`
 - [Awesome Rank](https://awesomerank.github.io/) - Interactive dashboard ranking Awesome lists by stars, forks, activity with real-time graphs and sortable tables. Supports list maintenance by highlighting top/trending lists and discovery via category browsing; dynamic metrics beat static GitHub star counts. ([Read more](/details/awesome-rank.md)) `Dynamic Tracker` `Notifications` `Dashboard`
 - [Awesome-Lists.net](https://awesome-lists.net) - Aggregates thousands of Awesome lists from GitHub, with search, filters by topic/stars/forks/activity, and star rankings. Use for quick discovery of themed lists; more dynamic than static GitHub repos like sindresorhus/awesome. ![screenshot](https://awesome-lists.net/screenshot.png) ([Read more](/details/awesome-listsnet.md)) `List Aggregator` `Star Sorted` `Searchable` `Ranked Lists` `Community Curated`
-- [awesome-stars](https://github.com/luphord/awesome-stars) - Aggregates starred GitHub repositories into dynamically generated awesome-style lists grouped by programming languages, with auto-updates and star history. Features language-based categorization and real-time tracking for searchable indexes. Useful for quick discovery of popular repos across personal stars, unlike static single-topic awesome lists. ([Read more](/details/awesome-stars.md)) `Aggregator` `Index` `Searchable Lists` `Ranked Lists` `Community Curated`
 
 ## Startup Accelerators
 
@@ -1981,6 +1993,51 @@ A curated list of awesome directories
 - [sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) - A curated list of cryptography resources and links, compiling learning materials, libraries, and tools in an awesome-style directory. ([Read more](/details/sobolevnawesome-cryptography.md)) `Awesome Lists` `Cryptography` `Security`
 - [Sublime Text Bookmarks](https://github.com/dreikanter/sublime-bookmarks#readme) - A curated "awesome"-style collection of resources, plugins, and tips for the Sublime Text editor, maintained as a GitHub list of bookmarks specifically for enhancing and extending Sublime Text. ([Read more](/details/sublime-text-bookmarks.md)) `Editor` `Developer Tools` `Sublime Text`
 - [Vim Galore](https://github.com/mhinz/vim-galore) - An extensive "awesome"-style collection of Vim tips, tricks, and resources, serving as a comprehensive directory for learning and mastering Vim. ([Read more](/details/vim-galore.md)) `Vim` `Editor` `Resources`
+
+## Web Development
+
+- [Laravel](https://github.com/laravel/laravel) - A PHP framework for web artisans. Known for its elegant syntax and tools for building robust web applications. ([Read more](/details/laravel.md)) `Php` `Framework` `Web`
+- [Awesome Alpine.js](https://github.com/alpine-collective/awesome-alpinejs) - A curated collection of resources, plugins, examples, and tools for Alpine.js, the lightweight JavaScript framework offering reactive and declarative nature of frameworks like Vue or React at a fraction of the cost, ideal for sprinkling interactivity. ([Read more](/details/awesome-alpinejs.md)) `Alpinejs` `Javascript` `Lightweight`
+- [Awesome Angular](https://github.com/PatrickJS/awesome-angular) - A curated list of awesome Angular resources including official documentation, component libraries, state management solutions, testing tools, and best practices for building modern web applications with Angular. ([Read more](/details/awesome-angular.md)) `Angular` `Typescript` `Frontend` `Web Development`
+- [Awesome API](https://github.com/Kikobeats/awesome-api) - A curated list of awesome resources for designing and implementing RESTful APIs, including best practices, testing tools, and public API directories. ([Read more](/details/awesome-api.md)) `Api` `Rest` `Web Services`
+- [Awesome Apollo GraphQL](https://github.com/ooade/awesome-apollo-graphql) - A curated list of amazingly awesome things regarding Apollo GraphQL ecosystem. Apollo builds flexible open source tools for GraphQL, including Apollo Server, Apollo Client, and related tools. ([Read more](/details/awesome-apollo-graphql.md)) `Graphql` `Apollo` `Javascript`
+- [Awesome Astro](https://github.com/one-aalam/awesome-astro) - A curated list of awesome resources, tools, components, and integrations for Astro, the modern static site builder that ships zero JavaScript by default and supports multiple UI frameworks including React, Vue, Svelte, and more. ([Read more](/details/awesome-astro.md)) `Astro` `Static Site Generator` `Framework Agnostic`
+- [Awesome Backend (Russian/English)](https://github.com/zhashkevych/awesome-backend) - A curated and opinionated list of resources for Backend developers in English and Russian, covering web servers, databases, authentication, REST APIs, and backend development best practices. ([Read more](/details/awesome-backend-russianenglish.md)) `Backend` `Server Side` `Bilingual`
+- [Awesome Component-Driven Development](https://github.com/component-driven/awesome-list) - Curated list of resources on component-driven development and design systems, featuring Storybook for developing, testing, and documenting UI components in isolation across React, Vue, and Angular. ([Read more](/details/awesome-component-driven-development.md)) `Component Driven` `Design Systems` `Storybook` `Ui Components`
+- [Awesome CSS Resources](https://github.com/MarketingPipeline/Awesome-CSS-Resources) - An awesome list of CSS and SCSS frameworks and resources featuring tools like Primer CSS (GitHub's CSS toolkit), Glassmorphism CSS Generator, and GradientArt advanced CSS gradient editor. ([Read more](/details/awesome-css-resources.md)) `Css` `Scss` `Frontend`
+- [Awesome Eleventy](https://github.com/wbkd/awesome-eleventy) - Curated list of awesome Eleventy resources, plugins, and starters. Simple static site generator alternative to Jekyll with JavaScript templating. ([Read more](/details/awesome-eleventy.md)) `Eleventy` `Static Site Generator` `Jamstack`
+- [Awesome Fintech API](https://github.com/furudo-erika/awesome-fintech-api) - A curated collection of fintech APIs focusing on hidden gems, powerful developer-first or niche APIs including banking data access, identity verification, and fraud prevention tools. ([Read more](/details/awesome-fintech-api.md)) `Fintech` `Apis` `Developer Resources`
+- [Awesome Fintech India](https://github.com/gitcommitshow/awesome-fintech-india) - A curated list of financial services APIs and tools available to Indian developers, covering payment gateways, banking APIs, lending platforms, and regulatory compliance resources. ([Read more](/details/awesome-fintech-india.md)) `Fintech` `Apis` `India`
+- [Awesome Frontend Development](https://github.com/TransonQ/awesome-frontend) - Comprehensive collection linking to all major frontend framework awesome lists including React, Vue, Angular, Flutter, React Native, Webpack, Vite, Electron, and more. ([Read more](/details/awesome-frontend-development.md)) `Frontend` `Web Development` `Frameworks`
+- [Awesome Headless CMS](https://github.com/awesomelistsio/awesome-headless-cms) - A curated list of headless and decoupled CMS platforms including Strapi, Directus, Payload CMS, and other content management systems for modern web applications. ([Read more](/details/awesome-headless-cms.md)) `Cms` `Headless Cms` `Content Management`
+- [Awesome Hotwire](https://github.com/adrienpoly/awesome-hotwire) - A curated list of resources, tools, tutorials, and examples for Hotwire (HTML Over The Wire), the alternative approach to building modern web applications that sends HTML instead of JSON over the wire, consisting of Turbo, Stimulus, and Strada frameworks. ([Read more](/details/awesome-hotwire.md)) `Hotwire` `Turbo` `Stimulus`
+- [Awesome HTMX](https://github.com/rajasegar/awesome-htmx) - A curated collection of resources, examples, plugins, and tools for HTMX, the library that allows you to access modern browser features directly from HTML using attributes, enabling powerful dynamic web applications without writing JavaScript. ([Read more](/details/awesome-htmx.md)) `Htmx` `Html` `Hypermedia`
+- [Awesome IndieWeb](https://github.com/pfefferle/awesome-indieweb) - A curated list of awesome IndieWeb tools, protocols, and resources for building a people-focused alternative to the corporate web with decentralized identity and data ownership. ([Read more](/details/awesome-indieweb.md)) `Decentralized` `Open Web` `Indie`
+- [Awesome JAMstack Resources](https://github.com/Olanetsoft/awesome-jamstack-resources) - A curated list of resources for building fast, secure, and dynamic websites using the JAMstack architecture with static site generators and modern deployment workflows. ([Read more](/details/awesome-jamstack-resources.md)) `Jamstack` `Static Sites` `Modern Web`
+- [Awesome Local-First](https://github.com/alexanderop/awesome-local-first) - A curated collection of tools, frameworks, and resources for building local-first software that prioritizes data ownership, offline functionality, and synchronization, featuring databases like PouchDB, frameworks like Electric SQL, and collaboration tools with CRDTs. ([Read more](/details/awesome-local-first.md)) `Local First` `Offline First` `Crdts`
+- [Awesome Next.js Templates](https://github.com/bytefer/awesome-nextjs) - Curated collection of Next.js starters, boilerplates, and templates for rapid application development. Features e-commerce, SaaS, blogs, and full-stack templates. ([Read more](/details/awesome-nextjs-templates.md)) `Nextjs` `React` `Templates`
+- [Awesome Phoenix Framework](https://github.com/droptheplot/awesome-phoenix) - A curated list of resources, libraries, tools, and tutorials for the Phoenix Framework, a productive web framework for Elixir that provides real-time features, reliability, and scalability built on top of the Erlang VM. ([Read more](/details/awesome-phoenix-framework.md)) `Phoenix` `Elixir` `Real Time`
+- [Awesome Phoenix LiveView](https://github.com/beam-community/awesome-phoenix-liveview) - A curated list of awesome Phoenix LiveView repositories, blog posts, tutorials, and resources. Phoenix LiveView enables rich, real-time user experiences with server-rendered HTML, allowing developers to build interactive apps without writing JavaScript. ([Read more](/details/awesome-phoenix-liveview.md)) `Elixir` `Phoenix` `Real Time`
+- [Awesome Qwik](https://github.com/qwikifiers/awesome-qwik) - A curated list of resources, libraries, tools, and tutorials for Qwik, the resumable web framework that delivers instant-loading web applications with O(1) loading time regardless of application complexity through fine-grained lazy loading. ([Read more](/details/awesome-qwik.md)) `Qwik` `Frontend` `Performance`
+- [Awesome React Components](https://github.com/brillout/awesome-react-components) - Curated list of React components and libraries including UI frameworks, data grids, charts, forms, state management, and specialized components for building modern React applications. ([Read more](/details/awesome-react-components.md)) `React` `Components` `Javascript` `Ui Library`
+- [Awesome React GraphQL](https://github.com/hasura/awesome-react-graphql) - A curated collection of resources, clients, and tools that make working with GraphQL and React/React Native awesome, simplifying data fetching and state management. ([Read more](/details/awesome-react-graphql.md)) `React` `Graphql` `Frontend`
+- [Awesome Remix](https://github.com/anubra266/awesome-remix) - A curated collection of resources, tools, libraries, tutorials, and examples for Remix, the full-stack web framework that provides a web-standards-first approach to building modern web applications with React. ([Read more](/details/awesome-remix.md)) `Remix` `React` `Framework`
+- [Awesome shadcn-vue](https://github.com/radix-vue/awesome-shadcn-vue) - Curated list of awesome shadcn-vue resources and components. Vue port of shadcn/ui with accessible, customizable components built with Radix Vue and Tailwind CSS. ([Read more](/details/awesome-shadcn-vue.md)) `Vue` `Ui Components` `Shadcn`
+- [Awesome shadcn/ui](https://github.com/2-fly-4-ai/awesome-shadcnui) - The largest list online of awesome things related to shadcn/ui. Comprehensive collection of components, templates, themes, and resources for the popular React component library. ([Read more](/details/awesome-shadcnui.md)) `React` `Ui Components` `Design System`
+- [Awesome SolidJS](https://github.com/one-aalam/awesome-solid-js) - A curated collection of resources for building highly performant web applications with SolidJS, a declarative JavaScript library featuring fine-grained reactivity and true reactive primitives. ([Read more](/details/awesome-solidjs.md)) `Javascript` `Frontend` `Reactive`
+- [Awesome State Management](https://github.com/tnfe/awesome-state) - Collection of state management libraries for modern frontend applications. Covers solutions for React, Vue, Angular and more including Redux, MobX, Zustand, and Pinia. ([Read more](/details/awesome-state-management.md)) `State Management` `React` `Vue`
+- [Awesome Static Generators](https://github.com/myles/awesome-static-generators) - A curated list of static website generators including Hugo, Next.js, Gatsby, Jekyll, and other tools for building fast, secure static sites. ([Read more](/details/awesome-static-generators.md)) `Static Site Generators` `Jamstack` `Ssg`
+- [Awesome Strapi](https://github.com/strapi/awesome-strapi) - A curated collection of resources, plugins, tutorials, and tools for Strapi, the leading open-source headless CMS that gives developers freedom to use their favorite tools and frameworks while providing content editors with an intuitive interface. ([Read more](/details/awesome-strapi.md)) `Strapi` `Headless Cms` `Nodejs`
+- [Awesome Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss) - Awesome things related to Tailwind CSS including plugins, tools, UI components, templates, and resources for the utility-first CSS framework. ([Read more](/details/awesome-tailwind-css.md)) `Tailwindcss` `Css` `Ui Components`
+- [Awesome TailwindCSS](https://github.com/aniftyco/awesome-tailwindcss) - A curated list of awesome tools, components, templates, and resources for Tailwind CSS. Includes UI component libraries, plugins, design systems, and learning resources. ([Read more](/details/awesome-tailwindcss.md)) `Css` `Ui` `Design Systems`
+- [Awesome Three.js](https://github.com/AxiomeCG/awesome-threejs) - A curated list of awesome Three.js resources, libraries, tools, examples, and tutorials for creating stunning 3D graphics and experiences in the browser using JavaScript and WebGL. ([Read more](/details/awesome-threejs.md)) `Threejs` `Webgl` `3d Graphics`
+- [Awesome tRPC](https://github.com/trpc/awesome-trpc) - Curated list of tRPC resources, integrations, and examples. End-to-end typesafe APIs made easy for TypeScript applications with no code generation. ([Read more](/details/awesome-trpc.md)) `Trpc` `Typescript` `Api`
+- [Awesome UI Frameworks](https://github.com/kristianfreeman/awesome-ui-frameworks) - A comprehensive collection of UI frameworks, component libraries, and design systems including Material UI, Chakra UI, Ant Design, Shadcn UI, and other tools for building modern user interfaces across multiple frontend frameworks. ([Read more](/details/awesome-ui-frameworks.md)) `Ui Components` `Design Systems` `Frontend`
+- [Awesome Vue](https://github.com/vuejs/awesome-vue) - The official awesome list for Vue.js featuring resources, tools, libraries, UI frameworks, state management solutions, and the Vue.js ecosystem for building modern web applications. ([Read more](/details/awesome-vue.md)) `Vue` `Javascript` `Frontend` `Web Development`
+- [Awesome WebAssembly Components](https://github.com/yoshuawuyts/awesome-wasm-components) - A curated list of WebAssembly Component tooling and ready-to-use components, focusing on the Component Model and WASI standards for building typed, portable WebAssembly packages. ([Read more](/details/awesome-webassembly-components.md)) `Webassembly` `Wasm` `Component Model`
+- [BoldKit](https://boldkit.com) - Neubrutalism component library for Vue 3 & Nuxt with 55+ components, 10 chart types, 64 SVG shapes, and 17 animated ASCII shapes. Built on Reka UI, compatible with shadcn-vue CLI. Part of Awesome Vue Components & Libraries / Frameworks updates. ([Read more](/details/boldkit.md)) `Vue` `Nuxt` `Components` `Open Source`
+- [Phalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. It offers fast execution and low resource consumption. ([Read more](/details/phalcon.md)) `Php` `Framework` `High Performance`
+- [Project Awesome: A11y](https://github.com/brunopulis/awesome-a11y) - Curated GitHub awesome list for web accessibility (a11y), with 2500 stars, covering tools, guidelines, articles, screen readers; ideal for developers seeking inclusive design resources; alternative to general directories. ([Read more](/details/awesome-a11y.md)) `Accessibility` `A11y` `Wcag` `Awesome Lists`
 
 ## Ai Directories
 
@@ -2099,6 +2156,10 @@ A curated list of awesome directories
 
 ## Business Entrepreneurship
 
+- [Awesome Billing](https://github.com/kdeldycke/awesome-billing) - 💰 Billing & Payments knowledge for cloud platforms. A curated list of billing and payment resources for cloud services. ([Read more](/details/awesome-billing.md)) `Billing` `Payments` `Cloud`
+
+## Business Entrepreneurship
+
 - [open-product-management](https://github.com/dahlia/open-product-management) - Curated resources and advice on product management for technical people. ([Read more](/details/open-product-management.md)) `Product Management` `Open Source` `Awesome Lists`
 
 ## Cloud & Infrastructure
@@ -2195,6 +2256,7 @@ A curated list of awesome directories
 - [Awesome Database](https://github.com/agarcialeon/awesome-database) - A curated list of amazingly awesome database libraries and resources covering database systems, query languages, data modeling, and database tools. ([Read more](/details/awesome-database.md)) `Database` `Data Modeling` `Tools`
 - [Awesome DB](https://github.com/numetriclabz/awesome-db) - A curated list of amazingly awesome database libraries, resources and tools featuring databases like Redis, RethinkDB, and various SQL/NoSQL options. ([Read more](/details/awesome-db.md)) `Database` `Sql` `Nosql`
 - [elasticsearch](https://github.com/elastic/elasticsearch) - Free and open-source distributed RESTful search and analytics engine capable of addressing a growing number of use cases. It stores, searches, and analyzes large volumes of data quickly and in near real-time. Widely used for log analytics, full-text search, security intelligence, business analytics, and operational intelligence use cases. ([Read more](/details/elasticsearch.md)) `Open Source` `Search` `Distributed`
+- [redigo](https://github.com/gomodule/redigo) - Go client for Redis. A robust and idiomatic Redis client for Go. ([Read more](/details/redigo.md)) `Go` `Redis` `Client`
 
 ## Datasets
 
@@ -2290,11 +2352,12 @@ A curated list of awesome directories
 
 ## Devops Sre
 
-- [ops-books](https://github.com/opscrawl/ops-books) - Book recommendations on Continuous Delivery, DevOps, Operations, and Systems Thinking. ([Read more](/details/ops-books.md)) `Books` `Devops` `Awesome Lists`
+- [container-diff](https://github.com/GoogleContainerTools/container-diff) - container-diff: Diff your Docker containers. Tool for comparing container images. ([Read more](/details/container-diff.md)) `Go` `Docker` `Container Analysis`
+- [os-moda](https://github.com/bolivian-peru/os-moda) - A NixOS distribution featuring an AI agent with root access through 91 typed MCP tools. Includes 9 Rust daemons for system bridging, atomic deploys with auto-rollback, audit ledger, crypto wallets, P2P mesh, local STT/TTS, MCP server management, system learning, and egress proxy. Added to Awesome Rust under Applications and System tools. ([Read more](/details/os-moda.md)) `Rust` `Nixos` `Ai Agent` `Mcp` `Open Source`
 
 ## Devops Sre
 
-- [os-moda](https://github.com/bolivian-peru/os-moda) - A NixOS distribution featuring an AI agent with root access through 91 typed MCP tools. Includes 9 Rust daemons for system bridging, atomic deploys with auto-rollback, audit ledger, crypto wallets, P2P mesh, local STT/TTS, MCP server management, system learning, and egress proxy. Added to Awesome Rust under Applications and System tools. ([Read more](/details/os-moda.md)) `Rust` `Nixos` `Ai Agent` `Mcp` `Open Source`
+- [ops-books](https://github.com/opscrawl/ops-books) - Book recommendations on Continuous Delivery, DevOps, Operations, and Systems Thinking. ([Read more](/details/ops-books.md)) `Books` `Devops` `Awesome Lists`
 
 ## Directory Building Tools
 
@@ -2404,6 +2467,7 @@ A curated list of awesome directories
 
 ## Learning Education
 
+- [Awesome iOS Books](https://github.com/craiggrummitt/awesome-ios-books) - 📚 Directory of iOS books. A curated list focused on iOS development books. ([Read more](/details/awesome-ios-books.md)) `Books` `Ios` `Curated Lists`
 - [Awesome Language Learning](https://github.com/ajkay/awesome-language-learning) - Awesome resources for learning languages. Updated May 2025 with 47 stars. ([Read more](/details/awesome-language-learning.md)) `Awesome Lists` `Education` `Languages`
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings. Useful for learning and interview preparation. ([Read more](/details/javascript-algorithms.md)) `Algorithms` `Data Structures` `Javascript`
 
@@ -2607,6 +2671,11 @@ A curated list of awesome directories
 
 - [Self-Hosting Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - A comprehensive guide to locally hosting and managing software applications including Cloud, LLMs, WireGuard, automation, Home Assistant, and networking on your own servers. ([Read more](/details/self-hosting-guide.md)) `Self Hosting` `Homelab` `Privacy`
 
+## Star Trackers
+
+- [awesome-stars](https://github.com/adamyi/awesome-stars) - A curated list of the user's GitHub stars, generated by 'starred'. Organized by programming language with tables listing repositories by name, description, owner, and star count. Covers languages like Assembly, Awk, C, Go, and more, showcasing popular open-source projects across various domains. ([Read more](/details/awesome-stars.md)) `Github Stars` `Curated List` `Open Source` `Starred`
+- [Star History](https://www.star-history.com/) - Website for viewing and comparing the star history of GitHub repositories. Displays leaderboards of top repositories by recent star gains, such as weekly top gainers. ([Read more](/details/star-history.md)) `Github` `Star History` `Leaderboard`
+
 ## Time Tracking
 
 - [time-tracking](https://timetrack.works) - Time Tracking - Software, Methodologies and Practices. ([Read more](/details/time-tracking.md)) `Time Tracking` `App` `Desktop` `Web`
@@ -2614,49 +2683,6 @@ A curated list of awesome directories
 ## Voice
 
 - [Awesome Rhasspy](https://github.com/rhasspy/awesome-rhasspy) - Resources for Rhasspy, an open source voice assistant. ([Read more](/details/awesome-rhasspy.md)) `Voice Assistant` `Open Source` `Self Hosted`
-
-## Web Development
-
-- [Awesome Alpine.js](https://github.com/alpine-collective/awesome-alpinejs) - A curated collection of resources, plugins, examples, and tools for Alpine.js, the lightweight JavaScript framework offering reactive and declarative nature of frameworks like Vue or React at a fraction of the cost, ideal for sprinkling interactivity. ([Read more](/details/awesome-alpinejs.md)) `Alpinejs` `Javascript` `Lightweight`
-- [Awesome Angular](https://github.com/PatrickJS/awesome-angular) - A curated list of awesome Angular resources including official documentation, component libraries, state management solutions, testing tools, and best practices for building modern web applications with Angular. ([Read more](/details/awesome-angular.md)) `Angular` `Typescript` `Frontend` `Web Development`
-- [Awesome API](https://github.com/Kikobeats/awesome-api) - A curated list of awesome resources for designing and implementing RESTful APIs, including best practices, testing tools, and public API directories. ([Read more](/details/awesome-api.md)) `Api` `Rest` `Web Services`
-- [Awesome Apollo GraphQL](https://github.com/ooade/awesome-apollo-graphql) - A curated list of amazingly awesome things regarding Apollo GraphQL ecosystem. Apollo builds flexible open source tools for GraphQL, including Apollo Server, Apollo Client, and related tools. ([Read more](/details/awesome-apollo-graphql.md)) `Graphql` `Apollo` `Javascript`
-- [Awesome Astro](https://github.com/one-aalam/awesome-astro) - A curated list of awesome resources, tools, components, and integrations for Astro, the modern static site builder that ships zero JavaScript by default and supports multiple UI frameworks including React, Vue, Svelte, and more. ([Read more](/details/awesome-astro.md)) `Astro` `Static Site Generator` `Framework Agnostic`
-- [Awesome Backend (Russian/English)](https://github.com/zhashkevych/awesome-backend) - A curated and opinionated list of resources for Backend developers in English and Russian, covering web servers, databases, authentication, REST APIs, and backend development best practices. ([Read more](/details/awesome-backend-russianenglish.md)) `Backend` `Server Side` `Bilingual`
-- [Awesome Component-Driven Development](https://github.com/component-driven/awesome-list) - Curated list of resources on component-driven development and design systems, featuring Storybook for developing, testing, and documenting UI components in isolation across React, Vue, and Angular. ([Read more](/details/awesome-component-driven-development.md)) `Component Driven` `Design Systems` `Storybook` `Ui Components`
-- [Awesome CSS Resources](https://github.com/MarketingPipeline/Awesome-CSS-Resources) - An awesome list of CSS and SCSS frameworks and resources featuring tools like Primer CSS (GitHub's CSS toolkit), Glassmorphism CSS Generator, and GradientArt advanced CSS gradient editor. ([Read more](/details/awesome-css-resources.md)) `Css` `Scss` `Frontend`
-- [Awesome Eleventy](https://github.com/wbkd/awesome-eleventy) - Curated list of awesome Eleventy resources, plugins, and starters. Simple static site generator alternative to Jekyll with JavaScript templating. ([Read more](/details/awesome-eleventy.md)) `Eleventy` `Static Site Generator` `Jamstack`
-- [Awesome Fintech API](https://github.com/furudo-erika/awesome-fintech-api) - A curated collection of fintech APIs focusing on hidden gems, powerful developer-first or niche APIs including banking data access, identity verification, and fraud prevention tools. ([Read more](/details/awesome-fintech-api.md)) `Fintech` `Apis` `Developer Resources`
-- [Awesome Fintech India](https://github.com/gitcommitshow/awesome-fintech-india) - A curated list of financial services APIs and tools available to Indian developers, covering payment gateways, banking APIs, lending platforms, and regulatory compliance resources. ([Read more](/details/awesome-fintech-india.md)) `Fintech` `Apis` `India`
-- [Awesome Frontend Development](https://github.com/TransonQ/awesome-frontend) - Comprehensive collection linking to all major frontend framework awesome lists including React, Vue, Angular, Flutter, React Native, Webpack, Vite, Electron, and more. ([Read more](/details/awesome-frontend-development.md)) `Frontend` `Web Development` `Frameworks`
-- [Awesome Headless CMS](https://github.com/awesomelistsio/awesome-headless-cms) - A curated list of headless and decoupled CMS platforms including Strapi, Directus, Payload CMS, and other content management systems for modern web applications. ([Read more](/details/awesome-headless-cms.md)) `Cms` `Headless Cms` `Content Management`
-- [Awesome Hotwire](https://github.com/adrienpoly/awesome-hotwire) - A curated list of resources, tools, tutorials, and examples for Hotwire (HTML Over The Wire), the alternative approach to building modern web applications that sends HTML instead of JSON over the wire, consisting of Turbo, Stimulus, and Strada frameworks. ([Read more](/details/awesome-hotwire.md)) `Hotwire` `Turbo` `Stimulus`
-- [Awesome HTMX](https://github.com/rajasegar/awesome-htmx) - A curated collection of resources, examples, plugins, and tools for HTMX, the library that allows you to access modern browser features directly from HTML using attributes, enabling powerful dynamic web applications without writing JavaScript. ([Read more](/details/awesome-htmx.md)) `Htmx` `Html` `Hypermedia`
-- [Awesome IndieWeb](https://github.com/pfefferle/awesome-indieweb) - A curated list of awesome IndieWeb tools, protocols, and resources for building a people-focused alternative to the corporate web with decentralized identity and data ownership. ([Read more](/details/awesome-indieweb.md)) `Decentralized` `Open Web` `Indie`
-- [Awesome JAMstack Resources](https://github.com/Olanetsoft/awesome-jamstack-resources) - A curated list of resources for building fast, secure, and dynamic websites using the JAMstack architecture with static site generators and modern deployment workflows. ([Read more](/details/awesome-jamstack-resources.md)) `Jamstack` `Static Sites` `Modern Web`
-- [Awesome Local-First](https://github.com/alexanderop/awesome-local-first) - A curated collection of tools, frameworks, and resources for building local-first software that prioritizes data ownership, offline functionality, and synchronization, featuring databases like PouchDB, frameworks like Electric SQL, and collaboration tools with CRDTs. ([Read more](/details/awesome-local-first.md)) `Local First` `Offline First` `Crdts`
-- [Awesome Next.js Templates](https://github.com/bytefer/awesome-nextjs) - Curated collection of Next.js starters, boilerplates, and templates for rapid application development. Features e-commerce, SaaS, blogs, and full-stack templates. ([Read more](/details/awesome-nextjs-templates.md)) `Nextjs` `React` `Templates`
-- [Awesome Phoenix Framework](https://github.com/droptheplot/awesome-phoenix) - A curated list of resources, libraries, tools, and tutorials for the Phoenix Framework, a productive web framework for Elixir that provides real-time features, reliability, and scalability built on top of the Erlang VM. ([Read more](/details/awesome-phoenix-framework.md)) `Phoenix` `Elixir` `Real Time`
-- [Awesome Phoenix LiveView](https://github.com/beam-community/awesome-phoenix-liveview) - A curated list of awesome Phoenix LiveView repositories, blog posts, tutorials, and resources. Phoenix LiveView enables rich, real-time user experiences with server-rendered HTML, allowing developers to build interactive apps without writing JavaScript. ([Read more](/details/awesome-phoenix-liveview.md)) `Elixir` `Phoenix` `Real Time`
-- [Awesome Qwik](https://github.com/qwikifiers/awesome-qwik) - A curated list of resources, libraries, tools, and tutorials for Qwik, the resumable web framework that delivers instant-loading web applications with O(1) loading time regardless of application complexity through fine-grained lazy loading. ([Read more](/details/awesome-qwik.md)) `Qwik` `Frontend` `Performance`
-- [Awesome React Components](https://github.com/brillout/awesome-react-components) - Curated list of React components and libraries including UI frameworks, data grids, charts, forms, state management, and specialized components for building modern React applications. ([Read more](/details/awesome-react-components.md)) `React` `Components` `Javascript` `Ui Library`
-- [Awesome React GraphQL](https://github.com/hasura/awesome-react-graphql) - A curated collection of resources, clients, and tools that make working with GraphQL and React/React Native awesome, simplifying data fetching and state management. ([Read more](/details/awesome-react-graphql.md)) `React` `Graphql` `Frontend`
-- [Awesome Remix](https://github.com/anubra266/awesome-remix) - A curated collection of resources, tools, libraries, tutorials, and examples for Remix, the full-stack web framework that provides a web-standards-first approach to building modern web applications with React. ([Read more](/details/awesome-remix.md)) `Remix` `React` `Framework`
-- [Awesome shadcn-vue](https://github.com/radix-vue/awesome-shadcn-vue) - Curated list of awesome shadcn-vue resources and components. Vue port of shadcn/ui with accessible, customizable components built with Radix Vue and Tailwind CSS. ([Read more](/details/awesome-shadcn-vue.md)) `Vue` `Ui Components` `Shadcn`
-- [Awesome shadcn/ui](https://github.com/2-fly-4-ai/awesome-shadcnui) - The largest list online of awesome things related to shadcn/ui. Comprehensive collection of components, templates, themes, and resources for the popular React component library. ([Read more](/details/awesome-shadcnui.md)) `React` `Ui Components` `Design System`
-- [Awesome SolidJS](https://github.com/one-aalam/awesome-solid-js) - A curated collection of resources for building highly performant web applications with SolidJS, a declarative JavaScript library featuring fine-grained reactivity and true reactive primitives. ([Read more](/details/awesome-solidjs.md)) `Javascript` `Frontend` `Reactive`
-- [Awesome State Management](https://github.com/tnfe/awesome-state) - Collection of state management libraries for modern frontend applications. Covers solutions for React, Vue, Angular and more including Redux, MobX, Zustand, and Pinia. ([Read more](/details/awesome-state-management.md)) `State Management` `React` `Vue`
-- [Awesome Static Generators](https://github.com/myles/awesome-static-generators) - A curated list of static website generators including Hugo, Next.js, Gatsby, Jekyll, and other tools for building fast, secure static sites. ([Read more](/details/awesome-static-generators.md)) `Static Site Generators` `Jamstack` `Ssg`
-- [Awesome Strapi](https://github.com/strapi/awesome-strapi) - A curated collection of resources, plugins, tutorials, and tools for Strapi, the leading open-source headless CMS that gives developers freedom to use their favorite tools and frameworks while providing content editors with an intuitive interface. ([Read more](/details/awesome-strapi.md)) `Strapi` `Headless Cms` `Nodejs`
-- [Awesome Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss) - Awesome things related to Tailwind CSS including plugins, tools, UI components, templates, and resources for the utility-first CSS framework. ([Read more](/details/awesome-tailwind-css.md)) `Tailwindcss` `Css` `Ui Components`
-- [Awesome TailwindCSS](https://github.com/aniftyco/awesome-tailwindcss) - A curated list of awesome tools, components, templates, and resources for Tailwind CSS. Includes UI component libraries, plugins, design systems, and learning resources. ([Read more](/details/awesome-tailwindcss.md)) `Css` `Ui` `Design Systems`
-- [Awesome Three.js](https://github.com/AxiomeCG/awesome-threejs) - A curated list of awesome Three.js resources, libraries, tools, examples, and tutorials for creating stunning 3D graphics and experiences in the browser using JavaScript and WebGL. ([Read more](/details/awesome-threejs.md)) `Threejs` `Webgl` `3d Graphics`
-- [Awesome tRPC](https://github.com/trpc/awesome-trpc) - Curated list of tRPC resources, integrations, and examples. End-to-end typesafe APIs made easy for TypeScript applications with no code generation. ([Read more](/details/awesome-trpc.md)) `Trpc` `Typescript` `Api`
-- [Awesome UI Frameworks](https://github.com/kristianfreeman/awesome-ui-frameworks) - A comprehensive collection of UI frameworks, component libraries, and design systems including Material UI, Chakra UI, Ant Design, Shadcn UI, and other tools for building modern user interfaces across multiple frontend frameworks. ([Read more](/details/awesome-ui-frameworks.md)) `Ui Components` `Design Systems` `Frontend`
-- [Awesome Vue](https://github.com/vuejs/awesome-vue) - The official awesome list for Vue.js featuring resources, tools, libraries, UI frameworks, state management solutions, and the Vue.js ecosystem for building modern web applications. ([Read more](/details/awesome-vue.md)) `Vue` `Javascript` `Frontend` `Web Development`
-- [Awesome WebAssembly Components](https://github.com/yoshuawuyts/awesome-wasm-components) - A curated list of WebAssembly Component tooling and ready-to-use components, focusing on the Component Model and WASI standards for building typed, portable WebAssembly packages. ([Read more](/details/awesome-webassembly-components.md)) `Webassembly` `Wasm` `Component Model`
-- [BoldKit](https://boldkit.com) - Neubrutalism component library for Vue 3 & Nuxt with 55+ components, 10 chart types, 64 SVG shapes, and 17 animated ASCII shapes. Built on Reka UI, compatible with shadcn-vue CLI. Part of Awesome Vue Components & Libraries / Frameworks updates. ([Read more](/details/boldkit.md)) `Vue` `Nuxt` `Components` `Open Source`
-- [Project Awesome: A11y](https://github.com/brunopulis/awesome-a11y) - Curated GitHub awesome list for web accessibility (a11y), with 2500 stars, covering tools, guidelines, articles, screen readers; ideal for developers seeking inclusive design resources; alternative to general directories. ([Read more](/details/awesome-a11y.md)) `Accessibility` `A11y` `Wcag` `Awesome Lists`
 
 
 ## ™️ Legal
