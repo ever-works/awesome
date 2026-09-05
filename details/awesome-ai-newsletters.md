@@ -6,6 +6,7 @@ Awesome AI Newsletters curates the best newsletters for staying updated on artif
 
 ### Comprehensive Coverage
 
+- **[AI Weekly](https://aiweekly.co/)**: Tracks what influential AI experts and organizations are reading and sharing, then ranks and explains developments in models, agents, funding, policy, and research
 - **The Batch (DeepLearning.AI)**: Andrew Ng's weekly AI newsletter covering research, industry news, and applications
 - **Import AI**: Jack Clark's weekly newsletter on AI developments
 - **The Gradient**: Research-focused AI newsletter
