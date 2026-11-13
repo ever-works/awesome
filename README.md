@@ -29,12 +29,13 @@ A curated list of awesome directories
 - [Startup Accelerators (1)](#startup-accelerators)
 - [Sustainability (9)](#sustainability)
 - [Themed Awesome Directories (3)](#themed-awesome-directories)
-- [Themed Directories (43)](#themed-directories-1)
+- [Themed Directories (45)](#themed-directories-1)
 - [Web Development (42)](#web-development)
 - [Ai Directories (2)](#ai-directories)
 - [AI Directories (1)](#ai-directories-1)
 - [Audio & Music (12)](#audio--music)
 - [Automation (3)](#automation)
+- [Automation & Integration (2)](#automation--integration-1)
 - [Awesome List Curators (1)](#awesome-list-curators)
 - [Awesome List Generators (2)](#awesome-list-generators)
 - [Awesome List Generators (1)](#awesome-list-generators-1)
@@ -1574,10 +1575,10 @@ A curated list of awesome directories
 
 ## Awesome List Aggregators
 
-- [Awesome Awesomeness](https://github.com/athityakumar/awesome-awesomes) - Aggregates themed Awesome lists from GitHub, indexed by inception level, topic, stars with automated curation. Use for finding niche topics fast across dynamic lists; more complete and automated than static GitHub repos like sindresorhus/awesome. ![screenshot](https://raw.githubusercontent.com/athityakumar/awesome-awesomes/master/media/logo.png) ([Read more](/details/awesome-awesomes.md)) `List Aggregator` `Star Sorted` `Searchable`
-- [Awesome Lists Ecosystems](https://awesome.ecosyste.ms/) - Aggregates thousands of Awesome lists from GitHub, with search, filters by tags/categories/stars, and real-time star rankings. Use for quick discovery of themed lists and trend monitoring; more dynamic than static GitHub repos like sindresorhus/awesome. ![screenshot](https://raw.githubusercontent.com/ecosyste.ms/awesome/main/media/logo.png) ([Read more](/details/awesome-lists-ecosystems.md)) `List Aggregator` `Star Sorted` `Searchable`
+- [Awesome Awesomeness](https://github.com/athityakumar/awesome-awesomes) - Aggregates themed Awesome lists from GitHub, indexed by inception level, topic, stars with automated curation. Use for finding niche topics fast across dynamic lists; more complete and automated than static GitHub repos like sindresorhus/awesome. !\[screenshot\](https://raw.githubusercontent.com/athityakumar/awesome-awesomes/master/media/logo.png) ([Read more](/details/awesome-awesomes.md)) `List Aggregator` `Star Sorted` `Searchable`
+- [Awesome Lists Ecosystems](https://awesome.ecosyste.ms/) - Aggregates thousands of Awesome lists from GitHub, with search, filters by tags/categories/stars, and real-time star rankings. Use for quick discovery of themed lists and trend monitoring; more dynamic than static GitHub repos like sindresorhus/awesome. !\[screenshot\](https://raw.githubusercontent.com/ecosyste.ms/awesome/main/media/logo.png) ([Read more](/details/awesome-lists-ecosystems.md)) `List Aggregator` `Star Sorted` `Searchable`
 - [Awesome Lists IO](https://github.com/awesomelistsio) - Real-time dashboard curating high-quality Awesome lists with star rankings, topic groups, dead-link checks, and updates. Supports list maintenance via contributions/verification and discovery through search; dynamic quality control surpasses static GitHub repos. ([Read more](/details/awesome-lists-io.md)) `Dynamic Tracker` `Notifications` `Dashboard`
-- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - Aggregates top GitHub Awesome lists across categories, sorted by stars and quality with searchable navigation. Use for quick discovery of high-quality themed lists; more comprehensive than single static repos like sindresorhus/awesome. ![screenshot](https://github.com/bayandin/awesome-awesomeness/raw/master/media/banner.jpg) ([Read more](/details/awesome-awesomeness.md)) `List Aggregator` `Star Sorted` `Searchable`
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - Aggregates top GitHub Awesome lists across categories, sorted by stars and quality with searchable navigation. Use for quick discovery of high-quality themed lists; more comprehensive than single static repos like sindresorhus/awesome. !\[screenshot\](https://github.com/bayandin/awesome-awesomeness/raw/master/media/banner.jpg) ([Read more](/details/awesome-awesomeness.md)) `List Aggregator` `Star Sorted` `Searchable`
 
 ## Development Tools
 
@@ -1924,7 +1925,7 @@ A curated list of awesome directories
 
 - [Github Ranking](https://github.com/EvanLi/Github-Ranking) - Dynamic ranking of GitHub repositories sorted by stars and forks, with separate leaderboards for overall and per programming language. Features top 10 lists with links to full top 100, including metrics like stars, forks, language, open issues, description, and last commit date. Automatically updated regularly. ([Read more](/details/github-ranking.md)) `Open Source` `Github` `Rankings` `Awesome Lists` `Ranked Lists` `Community Curated`
 - [Awesome Rank](https://awesomerank.github.io/) - Interactive dashboard ranking Awesome lists by stars, forks, activity with real-time graphs and sortable tables. Supports list maintenance by highlighting top/trending lists and discovery via category browsing; dynamic metrics beat static GitHub star counts. ([Read more](/details/awesome-rank.md)) `Dynamic Tracker` `Notifications` `Dashboard`
-- [Awesome-Lists.net](https://awesome-lists.net) - Aggregates thousands of Awesome lists from GitHub, with search, filters by topic/stars/forks/activity, and star rankings. Use for quick discovery of themed lists; more dynamic than static GitHub repos like sindresorhus/awesome. ![screenshot](https://awesome-lists.net/screenshot.png) ([Read more](/details/awesome-listsnet.md)) `List Aggregator` `Star Sorted` `Searchable` `Ranked Lists` `Community Curated`
+- [Awesome-Lists.net](https://awesome-lists.net) - Aggregates thousands of Awesome lists from GitHub, with search, filters by topic/stars/forks/activity, and star rankings. Use for quick discovery of themed lists; more dynamic than static GitHub repos like sindresorhus/awesome. !\[screenshot\](https://awesome-lists.net/screenshot.png) ([Read more](/details/awesome-listsnet.md)) `List Aggregator` `Star Sorted` `Searchable` `Ranked Lists` `Community Curated`
 
 ## Startup Accelerators
 
@@ -1980,6 +1981,8 @@ A curated list of awesome directories
 - [awesome-portfolios](https://github.com/sadcitizen/awesome-portfolios) - Curated list of awesome creative portfolios, serving as inspiration and resources for developers and designers building personal portfolio sites. ([Read more](/details/awesome-portfolios.md)) `Portfolios` `Web Development` `Inspiration`
 - [awesome-vscode](https://github.com/viatsko/awesome-vscode) - A curated awesome list of Visual Studio Code extensions, packages, and learning resources; a popular directory within the wider awesome-list ecosystem. ([Read more](/details/awesome-vscode.md)) `Editor` `Developer Tools` `Awesome Lists`
 - [awesome-webaudio](https://github.com/notthetup/awesome-webaudio) - Awesome curated list of Web Audio API libraries, packages, and learning resources for web‑based audio. ([Read more](/details/awesome-webaudio.md)) `Audio` `Javascript` `Awesome Lists`
+- [CareJobs.Now](https://carejobs.now) - Free US healthcare job board: 170,000+ open jobs for nurses, CNAs, doctors and techs from 270 employers, with posted pay. `Web Directory`
+- [CareJobs.Now](https://carejobs.now) - Free US healthcare job board: 170,000+ open jobs for nurses, CNAs, doctors and techs from 270 employers, with posted pay.
 - [christian-bromann/awesome-selenium](https://github.com/christian-bromann/awesome-selenium) - A curated list of delightful Selenium resources, acting as a central awesome-style directory for Selenium tools, libraries, and documentation. ([Read more](/details/christian-bromannawesome-selenium.md)) `Awesome Lists` `Testing` `Developer Tools`
 - [CS Courses](https://github.com/prakhar1989/awesome-courses) - "CS Courses" (awesome-courses) is a curated, Awesome-style list of high-quality university computer science courses, providing links to lectures, assignments, and resources across core CS topics. ([Read more](/details/cs-courses.md)) `Computer Science` `Courses` `Education`
 - [Free for Developers](https://github.com/ripienaar/free-for-dev#readme) - A widely used awesome list of SaaS, PaaS, and other services that offer free tiers for developers, acting as a major directory in the Awesome ecosystem. ([Read more](/details/free-for-developers.md)) `Saas` `Developer Resources` `Free Tier`
@@ -2068,6 +2071,11 @@ A curated list of awesome directories
 - [Awesome RPA](https://github.com/rpabotsworld/awesome-rpa) - A curated list of Robotic Process Automation tools, frameworks, libraries, blogs, tutorials, and resources for automating repetitive business processes and tasks across applications. ([Read more](/details/awesome-rpa.md)) `Rpa` `Automation` `Workflow`
 - [Awesome Workflow Engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of open source workflow engines for orchestrating complex business processes, data pipelines, and distributed systems, enabling design, execution, and monitoring of workflows. ([Read more](/details/awesome-workflow-engines.md)) `Workflow` `Orchestration` `Automation`
 - [cron](https://github.com/tickstem/cron) - Go client for scheduling HTTP cron jobs with execution history, failure alerts, and tsk-local for testing without live credentials. Featured in Awesome Go under Job Scheduler. Simplifies scheduled task management in Go applications. ([Read more](/details/cron.md)) `Go` `Cron` `Job Scheduler` `Open Source`
+
+## Automation & Integration
+
+- [EmailWish](https://www.emailwish.com) - AI-powered, done-for-you (DFY) email marketing for Shopify and WooCommerce stores, built on a customer data platform. Free plan available.
+- [EmailWish](https://www.emailwish.com) - AI-powered, done-for-you (DFY) email marketing for Shopify and WooCommerce stores, built on a customer data platform. Free plan available.
 
 ## Awesome List Curators
 
