@@ -2634,6 +2634,7 @@ A curated list of awesome directories
 ## Music Directories
 
 - [JimmyR MP3 Search](http://www.jimmyr.com/mp3_search.php) - Music-specific open directory search. ([Read more](/details/jimmyr-mp3-search.md)) `Music` `Mp3`
+- [No Stairs Please](https://nostairsplease.com/) - Live music venue directory covering 22,500+ independent venues across the US and Canada with booking contacts and load-in details. `Music` `Venues` `Directory`
 
 ## Open Source
 
