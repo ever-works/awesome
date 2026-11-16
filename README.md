@@ -47,7 +47,7 @@ A curated list of awesome directories
 - [Blockchain & Crypto (18)](#blockchain--crypto)
 - [Business & Entrepreneurship (21)](#business--entrepreneurship)
 - [Business Entrepreneurship (1)](#business-entrepreneurship)
-- [Business Entrepreneurship (1)](#business-entrepreneurship-1)
+- [Business Entrepreneurship (2)](#business-entrepreneurship-1)
 - [Cloud & Infrastructure (15)](#cloud--infrastructure)
 - [Computer Vision (17)](#computer-vision)
 - [Creative Coding (9)](#creative-coding)
@@ -2169,6 +2169,7 @@ A curated list of awesome directories
 ## Business Entrepreneurship
 
 - [open-product-management](https://github.com/dahlia/open-product-management) - Curated resources and advice on product management for technical people. ([Read more](/details/open-product-management.md)) `Product Management` `Open Source` `Awesome Lists`
+- [Work Insiders](https://workinsiders.com/) - Work Insiders is a free directory of more than 1,400 recruiting, HR and lead-generation tools, with starting prices, free plans and MCP server badges. `Software` `Web Directory` `Mcp` `Hiring` `Tech Recruitment`
 
 ## Cloud & Infrastructure
 
