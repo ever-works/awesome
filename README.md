@@ -2,13 +2,13 @@
 
 A curated list of awesome directories
 
-> **2,320 items in 72 categories.** The full list is too large for one GitHub page, so each category has its own page. You can also browse and search everything on [dir.ever.works](https://dir.ever.works).
+> **2,321 items in 72 categories.** The full list is too large for one GitHub page, so each category has its own page. You can also browse and search everything on [dir.ever.works](https://dir.ever.works).
 
 ## 📑 Categories
 
 - [Project Awesome Lists](categories/project-awesome-lists.md) (34)
 - [Meta Awesome Directories](categories/meta-awesome-directories.md) (294)
-- [Themed Directories](categories/themed-directories.md) (1,096)
+- [Themed Directories](categories/themed-directories.md) (1,097)
 - [Learning Education](categories/learning-education.md) (55)
 - [Launch & Product Directories](categories/launch-product-directories.md) (11)
 - [Remote Work](categories/remote-work.md) (19)
