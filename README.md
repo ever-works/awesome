@@ -2,7 +2,7 @@
 
 A curated list of awesome directories
 
-> **2,321 items in 72 categories.** The full list is too large for one GitHub page, so each category has its own page. You can also browse and search everything on [dir.ever.works](https://dir.ever.works).
+> **2,325 items in 72 categories.** The full list is too large for one GitHub page, so each category has its own page. You can also browse and search everything on [dir.ever.works](https://dir.ever.works).
 
 ## 📑 Categories
 
@@ -33,7 +33,7 @@ A curated list of awesome directories
 - [Themed Awesome Directories](categories/themed-awesome-directories.md) (3)
 - [Web Development](categories/web-development.md) (42)
 - [Ai Directories](categories/ai-directories.md) (3)
-- [Audio & Music](categories/audio-music.md) (12)
+- [Audio & Music](categories/audio-music.md) (15)
 - [Automation](categories/automation.md) (3)
 - [Awesome List Curators](categories/awesome-list-curators.md) (1)
 - [Awesome List Generators](categories/awesome-list-generators.md) (3)
@@ -68,7 +68,7 @@ A curated list of awesome directories
 - [IoT](categories/iot.md) (8)
 - [Launch Directories](categories/launch-directories.md) (1)
 - [Llm Awesome Meta Lists](categories/llm-awesome-meta-lists.md) (33)
-- [Machine Learning Ai](categories/machine-learning-ai.md) (94)
+- [Machine Learning Ai](categories/machine-learning-ai.md) (95)
 - [Mobile Development](categories/mobile-development.md) (7)
 - [Music Directories](categories/music-directories.md) (1)
 - [Quantum Computing](categories/quantum-computing.md) (1)
