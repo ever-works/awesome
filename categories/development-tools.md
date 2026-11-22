@@ -98,5 +98,6 @@
 - [verify](https://github.com/tickstem/verify) - Go library to validate email addresses before database insertion, checking syntax, MX records, disposable domains, and role-based inboxes. Added to Awesome Go under Email. Enhances data quality in applications handling user registrations. ([Read more](../details/verify.md)) `Go` `Email` `Validation` `Open Source`
 - [wayfinder.nvim](https://github.com/error311/wayfinder.nvim) - Guided code exploration from the current symbol with a keepable trail. An open-source Neovim plugin originally added to Awesome Neovim LSP section. ([Read more](../details/wayfindernvim.md)) `Neovim` `Lsp` `Open Source`
 - [wharf](https://github.com/idesyatov/wharf) - K9s-inspired TUI for Docker Compose with vim-style navigation, real-time CPU/MEM monitoring with braille charts, container file browser, SSH remote host support, and command mode. Part of Awesome Docker Terminal / Terminal UI updates. ([Read more](../details/wharf.md)) `Docker` `Tui` `Terminal` `Open Source`
+- [NextJSON](https://nextjson.com/) - Free online nested JSON parser, formatter and JSON toolbox: parse deeply nested or escaped JSON strings, pretty-print, validate and convert in the browser. `JSON` `Formatter` `Web Tool`
 
 [⬅ Back to the full list](../README.md) · 95 items · [Browse on the website](https://dir.ever.works)
